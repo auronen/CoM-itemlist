@@ -1,5 +1,14 @@
 # The Chronicles Of Myrtana: Archolos
-This is a item list from the The Chronicles Of Myrtana: Archolos v1.0 (update soon™)
+This is a item list from the The Chronicles Of Myrtana: Archolos v1.1.3
+
+## Raw list
+Raw list of instance names (cheat codes).
+
+To insert an item in the game, launch MARVIN mode (`B` -> type: `MARVIN` -> press `B`) open the console `F2` and type in this command
+```
+insert <cheatcode>
+```
+> without `<` and `>`
 
 ## Categories
 [Armors](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_ARMOR.md)

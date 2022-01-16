@@ -1,1471 +1,1149 @@
 |att|value|
-|-|-|
-Insert code|**ITSC_SKULL**
-Name|Cry of the Dead
-Scroll | Lightning spell | Area|0
-Mana required:|10
-Damage|65
-Value:|60
-
-|att|value|
-|-|-|
-Insert code|**ITSC_TRFMEATBUG**
-Name|Transform into Meatbug
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|100
-
-|att|value|
-|-|-|
-Insert code|**ITSC_ACID**
-Name|Acid
-Scroll|0
-Mana required:|5
-Value:|50
-
-|att|value|
-|-|-|
-Insert code|**ITSC_PICKLOCK**
-Name|Open Lock
-Scroll | Neutral spell | Investment|0
-Mana per sec.|1
-Value:|30
-
-|att|value|
-|-|-|
-Insert code|**ITSC_FIREWAVE**
-Name|Fire Wave
-Scroll | Fire spell | Area spell|0
-Mana required:|15
-Magic Damage|200
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITSC_SCALE**
-Name|Enlarge Monster
-Scroll | Neutral spell|0
-Mana required:|10
-Value:|250
-
-|att|value|
-|-|-|
-Insert code|**ITSC_SLOWDOWN**
-Name|Slowdown
-Scroll | Neutral spell|0
-Mana required:|15
-Duration (mins)|1
-Value:|300
-
-|att|value|
-|-|-|
-Insert code|**ITSC_TELEKINESIS**
-Name|Telekinesis
-Scroll | Neutral spell | Investment|0
-Mana per sec.|1
-Value:|75
-
-|att|value|
-|-|-|
-Insert code|**ITSC_SUMSNAPPER**
-Name|Summon Snapper
-Scroll | Summoning spell|0
-Mana required:|10
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|100
-
-|att|value|
-|-|-|
-Insert code|**ITSC_SUMBEAR**
-Name|Summon Bear
-Scroll | Summoning spell|0
-Mana required:|10
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SKULL**
-Name|Cry of the Dead
-Circle: 2 | Lightning spell | Area|0
-Mana cost:|11
-Damage|65
-Value:|600
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SUMBEAR**
-Name|Summon Bear
-Circle: 3 | Summoning spell|0
-Mana required:|70
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|1000
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SUMSNAPPER**
-Name|Summon Snapper
-Circle: 2 | Summoning spell|0
-Mana required:|35
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|600
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_TELEKINESIS**
-Name|Telekinesis
-Circle: 2 | Neutral spell | Investment spell|0
-Mana per sec.|1
-Value:|400
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PICKLOCK**
-Name|Open Lock
-Circle: 2 | Neutral spell | Investment spell|0
-Mana per sec.|1
-Value:|150
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SLOWDOWN**
-Name|Slowdown
-Circle: 4 | Neutral spell|0
-Mana cost:|75
-Duration (mins)|1
-Value:|2000
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_ICELANCE**
-Name|Ice Lance
-Circle: 2 | Water spell|0
-Mana cost:|15
-Damage|100
-Value:|700
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_WATERFIST**
-Name|Waterfist
-Circle: 4 | Water spell | Area spell|0
-Mana cost:|30
-Damage|250
-Value:|1600
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_GEYSER**
-Name|Geyser
-Circle: 3 | Water spell | Area spell|0
-Mana cost:|30
-Damage|220
-Value:|1400
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_WHIRLWIND**
-Name|Dust Devil
-Circle: 2 | Wind spell|0
-Mana cost:|20
-Duration (secs)|10
-You can summon just one|0
-being at a time.|0
-Value:|900
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_THUNDERSTORM**
-Name|Storm
-Circle: 4 | Lightning spell | Area|0
-Mana cost:|140
-Damage|400
-Value:|2500
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_FULLHEAL**
-Name|Heal Heavy Wounds
-Circle: 4 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 250% hitpoints|0
-of user's maximum mana.|0
-Value:|750
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_ICEWAVE**
-Name|Ice Wave
-Circle: 5 | Water spell | Area spell|0
-Mana cost:|120
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|750
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_HARMUNDEAD**
-Name|Destroy Undead
-Circle: 4 | Neutral spell|0
-Mana cost:|100
-Magic Damage|1000
-Value:|650
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SUMGOL**
-Name|Awaken Golem
-Circle: 4 | Summoning spell|0
-Mana cost:|80
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|1500
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_THUNDERBALL**
-Name|Ball Lightning
-Circle: 3 | Lightning spell | Investment|0
-Mana cost (min):|25
-Mana cost (max):|100
-Minimum damage:|100
-Maximum damage|400
-Value:|600
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_ICECUBE**
-Name|Ice Block
-Circle: 3 | Water spell|0
-Mana cost:|40
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|900
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_LIGHTNINGFLASH**
-Name|Lightning
-Circle: 4 | Lightning spell|0
-Mana cost:|30
-Magic Damage|300
-Value:|1000
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_MEDIUMHEAL**
-Name|Heal Medium Wounds
-Circle: 2 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 200% hitpoints|0
-of user's maximum mana.|0
-Value:|600
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SLEEP**
-Name|Sleep
-Circle: 2 | Neutral spell|0
-Mana cost:|30
-Duration (secs)|30
-Value:|400
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_WINDFIST**
-Name|Wind Fist
-Circle: 2 | Wind spell|0
-Mana cost (min):|20
-Mana cost (max):|80
-Minimum damage:|75
-Maximum damage|300
-Value:|400
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_SUMWOLF**
-Name|Summon Wolf
-Circle: 1 | Summoning spell|0
-Mana cost:|40
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|350
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_ICEBOLT**
-Name|Ice Arrow
-Circle: 1 | Water spell|0
-Mana cost:|6
-Magic Damage|40
-Value:|300
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_LIGHTHEAL**
-Name|Heal Light Wounds
-Circle: 1 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 150% hitpoints|0
-of user's maximum mana.|0
-Value:|300
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_ZAP**
-Name|
-Circle: 1 | Lightning spell|0
-Mana cost:|3
-Magic Damage|20
-Value:|150
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_LIGHT**
-Name|Light
-Circle: 1 | Neutral spell|0
-Mana cost:|10
-Duration (mins)|5
-Value:|100
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALDESTROYEVIL**
-Name|Destroy Evil
-Paladin Speel|0
-Mana cost:|60
-Magic Damage|600
-Value:|800
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALREPELEVIL**
-Name|Harm Evil
-Paladin Speel|0
-Mana cost:|30
-Magic Damage|300
-Value:|650
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALHOLYBOLT**
-Name|Holy Arrow
-Paladin Speel|0
-Mana cost:|10
-Magic Damage|150
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALFULLHEAL**
-Name|Greater Healing
-Paladin Speel|0
-Mana cost:|50
-Healing:|800
-Value:|800
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALMEDIUMHEAL**
-Name|Medium Healing
-Paladin Speel|0
-Mana cost:|25
-Healing:|400
-Value:|650
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALLIGHTHEAL**
-Name|Lesser Healing
-Paladin Speel|0
-Mana cost:|10
-Healing:|200
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TRADE_PALLIGHT**
-Name|Paladin Speel
-Paladin Speel|0
-Mana cost:|10
-Duration (mins)|5
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TELEPORT_SWAMPV2**
-Name|Teleportation rune
-Teleportation rune to the Scoundrels' Haven.|0
-Value:|100
-
-|att|value|
-|-|-|
-Insert code|**ITRU_SUMBEAR**
-Name|Summon Bear
-Circle: 3 | Summoning spell|0
-Mana required:|70
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_SUMSNAPPER**
-Name|Summon Snapper
-Circle: 2 | Summoning spell|0
-Mana required:|35
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TELEPORTKM**
-Name|Teleportation rune
-All my teleportation runes.|0
-Mana cost:|10
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_TELEKINESIS**
-Name|Telekinesis
-Circle: 2 | Neutral spell | Investment spell|0
-Mana per sec.|1
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_PICKLOCK**
-Name|Open Lock
-Circle: 2 | Neutral spell | Investment spell|0
-Mana per sec.|1
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_ACID**
-Name|Acid
-Circle: 5 | Neutral spell|0
-Mana cost:|25
-Magic Damage|90
-Value:|200
-
-|att|value|
-|-|-|
-Insert code|**ITRU_SLOWDOWN**
-Name|Slowdown
-Circle: 4 | Neutral spell|0
-Mana cost:|75
-Duration (mins)|1
-Value:|200
-
-|att|value|
+|image| ![ITSC_TRFDRAGONSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFDRAGONSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFDRAGONSNAPPER**
-Name|Transform into Dragon Snapper
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|300
+Name|Pâemêna v draèího chàapavce
+Svitek|0
+Požadovaná mana:|5
+Cena:|200
 
 |att|value|
+|image| ![ITSC_TRFSHADOWBEAST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSHADOWBEAST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSHADOWBEAST**
-Name|Transform into Shadowbeast
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|300
+Name|Pâemêna ve stínovou šelmu
+Svitek|0
+Požadovaná mana:|5
+Cena:|200
 
 |att|value|
+|image| ![ITSC_TRFLURKER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFLURKER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFLURKER**
-Name|Transform into Lurker
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|80
+Name|Pâemêna v èíhavce
+Svitek|0
+Požadovaná mana:|5
+Cena:|80
 
 |att|value|
+|image| ![ITSC_TRFFIREWARAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFFIREWARAN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFFIREWARAN**
-Name|Transform into Fire Lizard
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|300
+Name|Pâemêna v ohnivého ještêra
+Svitek|0
+Požadovaná mana:|5
+Cena:|200
 
 |att|value|
+|image| ![ITSC_TRFWARG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWARG.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWARG**
-Name|Transform into Warg
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|150
+Name|Pâemêna ve skâetího psa
+Svitek|0
+Požadovaná mana:|5
+Cena:|125
 
 |att|value|
+|image| ![ITSC_TRFSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSNAPPER**
-Name|Transform into Snapper
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|125
+Name|Pâemêna v chàapavce
+Svitek|0
+Požadovaná mana:|5
+Cena:|125
 
 |att|value|
+|image| ![ITSC_TRFWARAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWARAN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWARAN**
-Name|Transform into Lizard
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|75
+Name|Pâemêna v ještêra
+Svitek|0
+Požadovaná mana:|5
+Cena:|80
 
 |att|value|
+|image| ![ITSC_TRFWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWOLF**
-Name|Transform into Wolf
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|50
+Name|Pâemêna ve vlka
+Svitek|0
+Požadovaná mana:|5
+Cena:|75
 
 |att|value|
+|image| ![ITSC_TRFGIANTBUG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFGIANTBUG.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFGIANTBUG**
-Name|Transform into Field Raider
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|40
+Name|Pâemêna v polního škùdce
+Svitek|0
+Požadovaná mana:|5
+Cena:|60
 
 |att|value|
+|image| ![ITSC_TRFGIANTRAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFGIANTRAT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFGIANTRAT**
-Name|Transform into Giant Rat
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|40
+Name|Pâemêna v obâí krysu
+Svitek|0
+Požadovaná mana:|5
+Cena:|50
 
 |att|value|
+|image| ![ITSC_TRFSCAVENGER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSCAVENGER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSCAVENGER**
-Name|Transform into Scavenger
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|40
+Name|Pâemêna v mrchožrouta
+Svitek|0
+Požadovaná mana:|5
+Cena:|50
 
 |att|value|
+|image| ![ITSC_TRFSHEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSHEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSHEEP**
-Name|
-Scroll | Transformation spell|0
-Mana required:|5
-Value:|25
+Name|Pâemêna v ovci
+Svitek|0
+Požadovaná mana:|5
+Cena:|25
 
 |att|value|
+|image| ![ITSC_SHRINK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SHRINK.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SHRINK**
-Name|Shrink Monster
-Scroll | Neutral spell|0
-Mana required:|5
-Value:|250
+Name|Zmenšení nestvùry
+Svitek|0
+Požadovaná mana:|5
+Cena:|250
 
 |att|value|
+|image| ![ITSC_ARMYOFDARKNESS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ARMYOFDARKNESS.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ARMYOFDARKNESS**
-Name|Army of Darkness
-Scroll|0
-Mana required:|15
-Value:|400
+Name|Armáda temnot
+Svitek|0
+Požadovaná mana:|5
+Cena:|250
 
 |att|value|
+|image| ![ITSC_MASSDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_MASSDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_MASSDEATH**
-Name|Wave of Death
-Scroll | Beliar's spell | Area spell|0
-Mana required:|5
-Magic Damage|500
-Value:|250
+Name|Vlna smrti
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|500
+Cena:|250
 
 |att|value|
+|image| ![ITSC_BREATHOFDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_BREATHOFDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_BREATHOFDEATH**
-Name|Breath of Death
-Scroll | Beliar's spell|0
-Mana required:|5
-Magic Damage|500
-Value:|250
+Name|Dech smrti
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|500
+Cena:|250
 
 |att|value|
+|image| ![ITSC_FIRERAIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIRERAIN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIRERAIN**
-Name|Fire Rain
-Scroll | Fire spell | Area spell|0
-Mana required:|5
-Fire Damage|500
-Value:|1000
+Name|Ohnivý déšã
+Svitek|0
+Požadovaná mana:|5
+Zranêní ohnêm|500
+Cena:|250
 
 |att|value|
+|image| ![ITSC_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FULLHEAL**
-Name|Heal Heavy Wounds
-Scroll | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 250% hitpoints|0
-of user's maximum mana.|0
-Value:|100
+Name|Léèba têžkých zranêní
+Svitek|0
+Požadovaná mana:|5
+Léèení:|800
+Cena:|200
 
 |att|value|
+|image| ![ITSC_SUMDEMON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMDEMON.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMDEMON**
-Name|Summon Demon
-Scroll | Summoning spell|0
-Mana required:|15
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
+Name|Vyvolání démona
+Svitek|0
+Požadovaná mana:|5
+Cena:|200
 
 |att|value|
+|image| ![ITSC_ICEWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICEWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICEWAVE**
-Name|Ice Wave
-Scroll | Water spell | Area spell|0
-Mana required:|15
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|400
+Name|Ledová vlna
+Svitek|0
+Požadovaná mana:|5
+Zranêní|60
+Trvání (sekundy)|19
+Zranêní za sekundu.|2
+Cena:|200
 
 |att|value|
+|image| ![ITSC_FIRESTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIRESTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIRESTORM**
-Name|Small Fire Storm
-Scroll | Fire spell | Area spell|0
-Mana required:|15
-Magic Damage|100
-Value:|150
+Name|Malá ohnivá bouâe
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|100
+Cena:|100
 
 |att|value|
+|image| ![ITSC_PYROKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PYROKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PYROKINESIS**
-Name|Large Fire Storm
-Scroll | Fire Spell | Investment/Area|0
-Mana cost (min):|50
-Mana cost (max):|200
-Minimum damage:|75
-Maximum damage|300
-Value:|150
+Name|Velká ohnivá bouâe
+Svitek|0
+Nároènost na manu (min):|50
+Nároènost na manu (max):|200
+Zranêní (min)|75
+Maximální zranêní |300
+Cena:|150
 
 |att|value|
+|image| ![ITSC_HARMUNDEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_HARMUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_HARMUNDEAD**
-Name|Destroy Undead
-Scroll | Neutral spell|0
-Mana required:|5
-Magic Damage|1000
-Value:|350
+Name|Znièení nemrtvého
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|1000
+Cena:|75
 
 |att|value|
+|image| ![ITSC_SUMGOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMGOL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMGOL**
-Name|Awaken Golem
-Scroll | Summoning spell|0
-Mana required:|15
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|300
+Name|Probuzení golema
+Svitek|0
+Požadovaná mana:|5
+Cena:|150
 
 |att|value|
+|image| ![ITSC_THUNDERBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_THUNDERBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_THUNDERBALL**
-Name|Ball Lightning
-Scroll | Lightning spell | Investment|0
-Mana cost (min):|25
-Mana cost (max):|100
-Minimum damage:|100
-Maximum damage|400
-Value:|160
+Name|Kulový blesk
+Svitek|0
+Nároènost na manu (min):|10
+Nároènost na manu (max):|40
+Zranêní (min)|30
+Maximální zranêní |120
+Cena:|75
 
 |att|value|
+|image| ![ITSC_ICECUBE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICECUBE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICECUBE**
-Name|Ice Block
-Scroll | Water spell|0
-Mana required:|10
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|150
+Name|Ledový blok
+Svitek|0
+Požadovaná mana:|5
+Zranêní|60
+Trvání (sekundy)|19
+Zranêní za sekundu.|2
+Cena:|100
 
 |att|value|
+|image| ![ITSC_FEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FEAR**
-Name|Fear
-Scroll | Beliar's spell|0
-Mana required:|5
-Duration (secs)|5
-Value:|75
+Name|Strach
+Svitek|0
+Požadovaná mana:|5
+Trvání (sekundy)|5
+Cena:|75
 
 |att|value|
+|image| ![ITSC_SUMSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMSKEL**
-Name|Create Skeleton
-Scroll | Summoning spell|0
-Mana required:|10
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|125
+Name|Vyvolání kostlivce
+Svitek|0
+Požadovaná mana:|5
+Cena:|75
 
 |att|value|
+|image| ![ITSC_CHARGEFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_CHARGEFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_CHARGEFIREBALL**
-Name|Large Fireball
-Scroll | Fire Spell | Investment/Area|0
-Mana cost (min):|40
-Mana cost (max):|160
-Minimum damage:|75
-Maximum damage|300
-Value:|100
+Name|Velká ohnivá koule
+Svitek|0
+Nároènost na manu (min):|40
+Nároènost na manu (max):|160
+Zranêní (min)|75
+Maximální zranêní |300
+Cena:|60
 
 |att|value|
+|image| ![ITSC_LIGHTNINGFLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHTNINGFLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHTNINGFLASH**
-Name|Lightning
-Scroll | Lightning spell|0
-Mana required:|15
-Magic Damage|300
-Value:|150
+Name|Blesk
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|150
+Cena:|125
 
 |att|value|
+|image| ![ITSC_MEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_MEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_MEDIUMHEAL**
-Name|Heal Medium Wounds
-Scroll | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 200% hitpoints|0
-of user's maximum mana.|0
-Value:|60
+Name|Léèba stâednê têžkých zranêní
+Svitek|0
+Požadovaná mana:|5
+Léèení:|400
+Cena:|60
 
 |att|value|
+|image| ![ITSC_CHARM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_CHARM.png?raw=true) | 
+|-|-|
+Insert code|**ITSC_CHARM**
+Name|Bezvêdomí
+Svitek|0
+Požadovaná mana:|5
+Cena:|100
+
+|att|value|
+|image| ![ITSC_SLEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SLEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SLEEP**
-Name|Sleep
-Scroll | Neutral spell|0
-Mana required:|5
-Duration (secs)|30
-Value:|150
+Name|Spánek
+Svitek|0
+Požadovaná mana:|5
+Trvání (sekundy)|30
+Cena:|100
 
 |att|value|
+|image| ![ITSC_WINDFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WINDFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WINDFIST**
-Name|Wind Fist
-Scroll | Wind spell|0
-Mana cost (min):|20
-Mana cost (max):|80
-Minimum damage:|75
-Maximum damage|300
-Value:|45
+Name|Vêtrná pêst
+Svitek|0
+Nároènost na manu (min):|20
+Nároènost na manu (max):|80
+Zranêní (min)|50
+Maximální zranêní |200
+Cena:|60
 
 |att|value|
+|image| ![ITSC_SUMWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMWOLF**
-Name|Summon Wolf
-Scroll | Summoning spell|0
-Mana required:|5
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|50
+Name|Vyvolání vlka
+Svitek|0
+Požadovaná mana:|5
+Cena:|75
 
 |att|value|
+|image| ![ITSC_ZAP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ZAP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ZAP**
-Name|Small Lightning
-Scroll | Lightning spell|0
-Mana required:|5
-Magic Damage|20
-Value:|8
+Name|Slabý blesk
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|30
+Cena:|60
 
 |att|value|
+|image| ![ITSC_INSTANTFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_INSTANTFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_INSTANTFIREBALL**
-Name|Fireball
-Scroll | Fire spell|0
-Mana required:|5
-Magic Damage|75
-Value:|20
+Name|Ohnivá koule
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|75
+Cena:|50
 
 |att|value|
+|image| ![ITSC_SUMGOBSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMGOBSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMGOBSKEL**
-Name|Goblin Skeleton
-Scroll | Summoning spell|0
-Mana required:|5
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|45
+Name|Vyvolání gobliního kostlivce
+Svitek|0
+Požadovaná mana:|5
+Cena:|75
 
 |att|value|
+|image| ![ITSC_LIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHTHEAL**
-Name|Heal Light Wounds
-Scroll | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 150% hitpoints|0
-of user's maximum mana.|0
-Value:|20
+Name|Léèba lehkých zranêní
+Svitek|0
+Požadovaná mana:|5
+Léèení:|200
+Cena:|25
 
 |att|value|
+|image| ![ITSC_ICEBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICEBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICEBOLT**
-Name|Ice Arrow
-Scroll | Water spell|0
-Mana required:|5
-Magic Damage|40
-Value:|15
+Name|Ledový šíp
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|50
+Cena:|25
 
 |att|value|
+|image| ![ITSC_FIREBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIREBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIREBOLT**
-Name|Fire Arrow
-Scroll | Fire spell|0
-Mana required:|5
-Magic Damage|25
-Value:|10
+Name|Ohnivý šíp
+Svitek|0
+Požadovaná mana:|5
+Zranêní magií|25
+Cena:|25
 
 |att|value|
+|image| ![ITSC_LIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHT**
-Name|Light
-Scroll | Neutral spell|0
-Mana required:|5
-Duration (mins)|5
-Value:|10
+Name|Svêtlo
+Svitek|0
+Požadovaná mana:|5
+Trvání(min)|5
+Cena:|10
 
 |att|value|
+|image| ![ITSC_PALDESTROYEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALDESTROYEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALDESTROYEVIL**
-Name|Destroy Evil
-Scroll | Paladin Spell|0
-Mana required:|5
-Magic Damage|600
-Value:|150
+Name|Znièení zla
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Zranêní magií|600
+Cena:|1000
 
 |att|value|
+|image| ![ITSC_PALFULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALFULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALFULLHEAL**
-Name|Greater Healing
-Scroll | Paladin Spell|0
-Mana required:|5
-Healing:|800
-Value:|140
+Name|Silné léèení
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Léèení:|800
+Cena:|800
 
 |att|value|
+|image| ![ITSC_PALREPELEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALREPELEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALREPELEVIL**
-Name|Harm Evil
-Scroll | Paladin Spell|0
-Mana required:|5
-Magic Damage|300
-Value:|80
+Name|Zažehnání zla
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Zranêní magií|300
+Cena:|600
 
 |att|value|
+|image| ![ITSC_PALMEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALMEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALMEDIUMHEAL**
-Name|Medium Healing
-Scroll | Paladin Spell|0
-Mana required:|5
-Healing:|400
-Value:|70
+Name|Stâední léèení
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Léèení:|400
+Cena:|400
 
 |att|value|
+|image| ![ITSC_PALHOLYBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALHOLYBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALHOLYBOLT**
-Name|Holy Arrow
-Scroll | Paladin Spell|0
-Mana required:|5
-Magic Damage|150
-Value:|40
+Name|Svatý šíp
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Zranêní magií|100
+Cena:|200
 
 |att|value|
+|image| ![ITSC_PALLIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALLIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALLIGHTHEAL**
-Name|Lesser Healing
-Scroll | Paladin Spell|0
-Mana required:|5
-Healing:|200
-Value:|35
+Name|Slabé léèení
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Léèení:|200
+Cena:|100
 
 |att|value|
+|image| ![ITSC_PALLIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALLIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALLIGHT**
-Name|Holy Light
-Scroll | Paladin Spell|0
-Mana required:|5
-Duration (mins)|5
-Value:|15
+Name|Svaté svêtlo
+Paladinské kouzlo|0
+Požadovaná mana:|5
+Trvání(min)|5
+Cena:|50
 
 |att|value|
+|image| ![ITRU_CONCUSSIONBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_CONCUSSIONBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_CONCUSSIONBOLT**
-Name|Pocisk nieprzytomnoœci
-Circle:|6
-Mana cost:|40
-Magic Damage|200
-Value:|0
+Name|Úderná stâela
+Kruh:|6
+Nároènost na manu:|40
+Zranêní magií|200
+Cena:|0
 
 |att|value|
+|image| ![ITRU_DEATHBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBALL**
-Name|Œmiertelna kula
-Circle:|6
-Mana cost:|35
-Magic Damage|165
-Value:|0
+Name|Koule smrti
+Kruh:|6
+Nároènost na manu:|35
+Zranêní magií|165
+Cena:|0
 
 |att|value|
+|image| ![ITRU_DEATHBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBOLT**
-Name|Pocisk œmierci
-Circle:|6
-Mana cost:|25
-Magic Damage|125
-Value:|0
+Name|Stâela smrti
+Kruh:|6
+Nároènost na manu:|25
+Zranêní magií|125
+Cena:|0
 
 |att|value|
+|image| ![ITRU_SHRINK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SHRINK.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SHRINK**
-Name|Shrink Monster
-Circle: 6 | Neutral spell|0
-Mana cost:|300
-Value:|200
+Name|Zmenšení nestvùry
+Kruh:|6
+Nároènost na manu:|300
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_ARMYOFDARKNESS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ARMYOFDARKNESS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ARMYOFDARKNESS**
-Name|Army of Darkness
-Circle: 6 | Summoning spell|0
-Mana cost:|150
-Value:|200
+Name|Armáda temnot
+Kruh:|6
+Nároènost na manu:|150
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_MASTEROFDISASTER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MASTEROFDISASTER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MASTEROFDISASTER**
-Name|Holy Missile
-Circle:|6
-Mana cost:|60
-Magic Damage|300
-Value:|200
+Name|Boží zásah
+Kruh:|6
+Nároènost na manu:|60
+Zranêní magií|300
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_MASSDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MASSDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MASSDEATH**
-Name|Wave of Death
-Circle: 6 | Beliar's spell | Area spell|0
-Mana cost:|150
-Magic Damage|500
-Value:|200
+Name|Vlna smrti
+Kruh:|6
+Nároènost na manu:|150
+Zranêní magií|500
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_BREATHOFDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_BREATHOFDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_BREATHOFDEATH**
-Name|Breath of Death
-Circle: 6 | Beliar's spell|0
-Mana cost:|100
-Magic Damage|500
-Value:|200
+Name|Dech smrti
+Kruh:|6
+Nároènost na manu:|100
+Zranêní magií|500
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_FIRERAIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIRERAIN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIRERAIN**
-Name|Fire Rain
-Circle: 4 | Fire spell | Area spell|0
-Mana cost:|150
-Magic Damage|500
-Value:|200
+Name|Ohnivý déšã
+Kruh:|6
+Nároènost na manu:|150
+Zranêní magií|500
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FULLHEAL**
-Name|Heal Heavy Wounds
-Circle: 4 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 250% hitpoints|0
-of user's maximum mana.|0
-Value:|200
+Name|Léèba têžkých zranêní
+Kruh:|5
+Nároènost na manu:|50
+Léèení:|800
+Cena:|2500
 
 |att|value|
+|image| ![ITRU_SUMDEMON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMDEMON.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMDEMON**
-Name|Summon Demon
-Circle: 5 | Summoning spell|0
-Mana cost:|120
-Value:|200
+Name|Vyvolání démona
+Kruh:|5
+Nároènost na manu:|120
+Cena:|2500
 
 |att|value|
+|image| ![ITRU_ICEWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICEWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICEWAVE**
-Name|Ice Wave
-Circle: 5 | Water spell | Area spell|0
-Mana cost:|120
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|200
+Name|Ledová vlna
+Kruh:|5
+Nároènost na manu:|120
+Zranêní|60
+Trvání (sekundy)|19
+Zranêní za sekundu.|2
+Cena:|2500
 
 |att|value|
+|image| ![ITRU_FIRESTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIRESTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIRESTORM**
-Name|Small Fire Storm
-Circle: 3 | Fire spell | Area spell|0
-Mana cost:|25
-Magic Damage|100
-Value:|200
+Name|Malá ohnivá bouâe
+Kruh:|3
+Nároènost na manu:|25
+Zranêní magií|100
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_PYROKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PYROKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PYROKINESIS**
-Name|Large Fire Storm
-Circle: 5 | Fire spell | Investment/area|0
-Mana cost (min):|50
-Mana cost (max):|200
-Minimum damage:|75
-Maximum damage|300
-Value:|200
+Name|Velká ohnivá bouâe
+Kruh:|5
+Nároènost na manu (min):|50
+Nároènost na manu (max):|200
+Zranêní (min)|75
+Maximální zranêní |300
+Cena:|2500
 
 |att|value|
+|image| ![ITRU_HARMUNDEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_HARMUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_HARMUNDEAD**
-Name|Destroy Undead
-Circle: 4 | Neutral spell|0
-Mana cost:|100
-Magic Damage|1000
-Value:|200
+Name|Znièení nemrtvého
+Kruh:|4
+Nároènost na manu:|100
+Zranêní magií|1000
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_SUMGOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMGOL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMGOL**
-Name|Awaken Golem
-Circle: 4 | Summoning spell|0
-Mana cost:|80
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
+Name|Probuzení golema
+Kruh:|4
+Nároènost na manu:|80
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_THUNDERBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_THUNDERBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_THUNDERBALL**
-Name|Ball Lightning
-Circle: 3 | Lightning spell | Investment|0
-Mana cost (min):|25
-Mana cost (max):|100
-Minimum damage:|100
-Maximum damage|400
-Value:|200
+Name|Kulový blesk
+Kruh:|3
+Nároènost na manu (min):|10
+Nároènost na manu (max):|40
+Zranêní (min)|30
+Maximální zranêní |120
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_ICECUBE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICECUBE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICECUBE**
-Name|Ice Block
-Circle: 3 | Water spell|0
-Mana cost:|40
-Damage|60
-Duration (secs)|10
-Damage per sec.|2
-Value:|200
+Name|Ledový blok
+Kruh:|3
+Nároènost na manu:|40
+Zranêní|60
+Trvání (sekundy)|19
+Zranêní za sekundu.|2
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_FEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FEAR**
-Name|Fear
-Circle: 3 | Beliar's spell|0
-Mana cost:|50
-Duration (secs)|5
-Value:|200
+Name|Strach
+Kruh:|3
+Nároènost na manu:|50
+Trvání (sekundy)|5
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_SUMSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMSKEL**
-Name|Create Skeleton
-Circle: 3 | Summoning spell|0
-Mana cost:|60
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
+Name|Vyvolání kostlivce
+Kruh:|3
+Nároènost na manu:|60
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_CHARGEFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_CHARGEFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_CHARGEFIREBALL**
-Name|Large Fireball
-Circle: 4 | Fire spell | Investment/Area|0
-Mana cost (min):|40
-Mana cost (max):|160
-Minimum damage:|75
-Maximum damage|300
-Value:|200
+Name|Velká ohnivá koule
+Kruh:|4
+Nároènost na manu (min):|40
+Nároènost na manu (max):|160
+Zranêní (min)|75
+Maximální zranêní |300
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_LIGHTNINGFLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHTNINGFLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHTNINGFLASH**
-Name|Lightning
-Circle: 4 | Lightning spell|0
-Mana cost:|30
-Magic Damage|300
-Value:|200
+Name|Blesk
+Kruh:|4
+Nároènost na manu:|30
+Zranêní magií|150
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_MEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MEDIUMHEAL**
-Name|Heal Medium Wounds
-Circle: 3 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 200% hitpoints|0
-of user's maximum mana.|0
-Value:|200
+Name|Léèba stâednê têžkých zranêní
+Kruh:|3
+Nároènost na manu:|25
+Léèení:|400
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_SLEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SLEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SLEEP**
-Name|Sleep
-Circle: 2 | Neutral spell|0
-Mana cost:|30
-Duration (secs)|30
-Value:|200
+Name|Spánek
+Kruh:|2
+Nároènost na manu:|30
+Trvání (sekundy)|30
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_WINDFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WINDFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WINDFIST**
-Name|Wind Fist
-Circle: 2 | Wind spell | Investment spell|0
-Mana cost (min):|20
-Mana cost (max):|80
-Minimum damage:|75
-Maximum damage|300
-Value:|200
+Name|Vêtrná pêst
+Kruh:|2
+Nároènost na manu (min):|20
+Nároènost na manu (max):|80
+Zranêní (min)|50
+Maximální zranêní |200
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_SUMWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMWOLF**
-Name|Summon Wolf
-Circle: 1 | Summoning spell|0
-Mana cost:|40
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
+Name|Vyvolání vlka
+Kruh:|2
+Nároènost na manu:|40
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_ICEBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICEBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICEBOLT**
-Name|Ice Arrow
-Circle: 1 | Water spell|0
-Mana cost:|6
-Magic Damage|40
-Value:|200
+Name|Ledový šíp
+Kruh:|2
+Nároènost na manu:|10
+Zranêní magií|50
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_INSTANTFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_INSTANTFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_INSTANTFIREBALL**
-Name|Fireball
-Circle: 1 | Fire spell|0
-Mana cost:|15
-Magic Damage|75
-Value:|200
+Name|Ohnivá koule
+Kruh:|2
+Nároènost na manu:|15
+Zranêní magií|75
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_SUMGOBSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMGOBSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMGOBSKEL**
-Name|Goblin Skeleton
-Circle: 1 | Summoning spell|0
-Mana cost:|20
-Duration (secs)|150
-You can summon just one|0
-being at a time.|0
-Value:|200
+Name|Vyvolání gobliního kostlivce
+Kruh:|1
+Nároènost na manu:|20
+Kosti|0
+mrtvých goblinù.|0
+Cena:|500
 
 |att|value|
+|image| ![ITRU_LIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHTHEAL**
-Name|Heal Light Wounds
-Circle: 1 | Neutral spell|0
-Mana Cost: 20% of maximum mana|0
-Returns 150% hitpoints|0
-of user's maximum mana.|0
-Value:|200
+Name|Léèba lehkých zranêní
+Kruh:|1
+Nároènost na manu:|10
+Léèení:|200
+Cena:|500
 
 |att|value|
+|image| ![ITRU_ZAP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ZAP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ZAP**
-Name|Small Lightning
-Circle: 1 | Lightning spell|0
-Mana cost:|3
-Magic Damage|20
-Value:|200
+Name|Slabý blesk
+Kruh:|1
+Nároènost na manu:|15
+Zranêní magií|30
+Cena:|500
 
 |att|value|
+|image| ![ITRU_FIREBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIREBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIREBOLT**
-Name|Fire Arrow
-Circle: 1 | Fire spell|0
-Mana cost:|5
-Magic Damage|25
-Value:|200
+Name|Ohnivý šíp
+Kruh:|1
+Nároènost na manu:|5
+Zranêní magií|25
+Cena:|500
 
 |att|value|
+|image| ![ITRU_LIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHT**
-Name|Light
-Circle: 1 | Neutral spell|0
-Mana cost:|10
-Duration (mins)|5
-Value:|200
+Name|Svêtlo
+Kruh:|1
+Nároènost na manu:|10
+Trvání(min)|5
+Cena:|500
 
 |att|value|
+|image| ![ITRU_TELEPORT_3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORT_3.png?raw=true) | 
 |-|-|
-Insert code|**ITRU_FAKETELEPORT**
-Name|Teleport
-Mana cost:|10
-Value:|200
+Insert code|**ITRU_TELEPORT_3**
+Name|NAME_SPL_TELEPORT_3
+Nároènost na manu:|10
+Cena:|500
 
 |att|value|
+|image| ![ITRU_TELEPORTTAVERNE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTTAVERNE.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTTAVERNE**
+Name|Teleport do krèmy
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTOWDEMONTOWER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTOWDEMONTOWER.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTOWDEMONTOWER**
+Name|Teleport do vêže dávného démona
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTOC](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTOC.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTOC**
+Name|Teleport na hrad
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTPASSOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTPASSOW.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTPASSOW**
+Name|Teleport k prùsmyku do Hornického údolí
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTPASSNW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTPASSNW.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTPASSNW**
+Name|Teleport k khorinisskému prùsmyku
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTXARDAS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTXARDAS.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTXARDAS**
+Name|Teleport za Xardasem
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTFARM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTFARM.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTFARM**
+Name|Teleport k velkostatkáâi
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTMONASTERY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTMONASTERY.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTMONASTERY**
+Name|Teleport do kláštera
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_TELEPORTSEAPORT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTSEAPORT.png?raw=true) | 
+|-|-|
+Insert code|**ITRU_TELEPORTSEAPORT**
+Name|Teleport do pâístavu
+Nároènost na manu:|10
+Cena:|500
+
+|att|value|
+|image| ![ITRU_PALTELEPORTSECRET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALTELEPORTSECRET.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALTELEPORTSECRET**
 Name|Teleport
-Paladin Speel|0
-Mana cost:|10
-Value:|200
+Paladinké kouzlo|0
+Nároènost na manu:|10
+Cena:|500
 
 |att|value|
+|image| ![ITRU_PALDESTROYEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALDESTROYEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALDESTROYEVIL**
-Name|Destroy Evil
-Paladin Speel|0
-Mana cost:|60
-Magic Damage|600
-Value:|200
+Name|Znièení zla
+Paladinké kouzlo|0
+Nároènost na manu:|60
+Zranêní magií|600
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_PALREPELEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALREPELEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALREPELEVIL**
-Name|Harm Evil
-Paladin Speel|0
-Mana cost:|30
-Magic Damage|300
-Value:|200
+Name|Zažehnání zla
+Paladinké kouzlo|0
+Nároènost na manu:|30
+Zranêní magií|300
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_PALHOLYBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALHOLYBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALHOLYBOLT**
-Name|Holy Arrow
-Paladin Speel|0
-Mana cost:|10
-Magic Damage|150
-Value:|200
+Name|Svatý šíp
+Paladinké kouzlo|0
+Nároènost na manu:|10
+Zranêní magií|100
+Cena:|500
 
 |att|value|
+|image| ![ITRU_PALFULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALFULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALFULLHEAL**
-Name|Greater Healing
-Paladin Speel|0
-Mana cost:|50
-Healing:|800
-Value:|200
+Name|Silné léèení
+Paladinké kouzlo|0
+Nároènost na manu:|50
+Léèení:|800
+Cena:|3000
 
 |att|value|
+|image| ![ITRU_PALMEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALMEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALMEDIUMHEAL**
-Name|Medium Healing
-Paladin Speel|0
-Mana cost:|25
-Healing:|400
-Value:|200
+Name|Stâední léèení
+Paladinké kouzlo|0
+Nároènost na manu:|25
+Léèení:|400
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_PALLIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALLIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALLIGHTHEAL**
-Name|Lesser Healing
-Paladin Speel|0
-Mana cost:|10
-Healing:|200
-Value:|200
+Name|Slabé léèení
+Paladinké kouzlo|0
+Nároènost na manu:|10
+Léèení:|200
+Cena:|500
 
 |att|value|
+|image| ![ITRU_PALLIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALLIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALLIGHT**
-Name|Paladin Speel
-Paladin Speel|0
-Mana cost:|10
-Duration (mins)|5
-Value:|200
+Name|Svaté svêtlo
+Paladinké kouzlo|0
+Nároènost na manu:|10
+Trvání(min)|5
+Cena:|500
 
 |att|value|
+|image| ![ITSC_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WHIRLWIND.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WHIRLWIND**
-Name|Dust Devil
-Scroll | Wind spell|0
-Mana required:|5
-Duration (secs)|10
-Ineffective against|0
-giant monsters.|0
-Value:|120
+Name|Tornádo
+Svitek|0
+Požadovaná mana:|5
+Trvání (sekundy)|10
+Cena:|200
 
 |att|value|
+|image| ![ITSC_THUNDERSTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_THUNDERSTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_THUNDERSTORM**
-Name|Storm
-Scroll | Lightning spell | Area|0
-Mana required:|25
-Damage|400
-Value:|400
+Name|Bouâe
+Svitek|0
+Požadovaná mana:|5
+Zranêní|250
+Cena:|200
 
 |att|value|
+|image| ![ITSC_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WATERFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WATERFIST**
-Name|Waterfist
-Scroll | Water spell | Area spell|0
-Mana required:|15
-Damage|250
-Value:|140
+Name|Vodní pêst
+Svitek|0
+Požadovaná mana:|5
+Zranêní|125
+Cena:|100
 
 |att|value|
+|image| ![ITSC_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICELANCE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICELANCE**
-Name|Ice Lance
-Scroll | Water spell|0
-Mana required:|10
-Damage|100
-Value:|75
+Name|Ledové kopí
+Svitek|0
+Požadovaná mana:|5
+Zranêní|100
+Cena:|100
 
 |att|value|
+|image| ![ITSC_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_GEYSER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_GEYSER**
-Name|Geyser
-Scroll | Water spell | Area spell|0
-Mana required:|15
-Damage|220
-Value:|160
+Name|Gejzír
+Svitek|0
+Požadovaná mana:|5
+Zranêní|150
+Cena:|100
 
 |att|value|
+|image| ![ITRU_SUMMONGUARDIAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMMONGUARDIAN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMMONGUARDIAN**
-Name|Create Guardian
-Circle: 3 | Summoning spell|0
-Mana cost:|60
-Value:|200
+Name|Vyvolat strážce
+Kruh:|3
+Nároènost na manu:|60
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_SUMMONZOMBIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMMONZOMBIE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMMONZOMBIE**
-Name|Create Zombie
-Circle: 4 | Summoning spell|0
-Mana cost:|80
-Value:|200
+Name|Vyvolat zombii
+Kruh:|4
+Nároènost na manu:|80
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_SKULL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SKULL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SKULL**
-Name|Cry of the Dead
-Circle: 2 | Lightning spell | Area|0
-Mana cost:|11
-Damage|65
-Value:|200
+Name|Pláè mrtvých
+Kruh:|5
+Nároènost na manu (min):|250
+Potâebuje veškerou manu|0
+Zranêní|666
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_SWARM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SWARM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SWARM**
-Name|Insect Swarm
-Circle: 4 | Beliar's spell|0
-Mana cost:|20
-Damage|80
-Duration (secs)|6
-Value:|200
+Name|Hejno hmyzu
+Kruh:|4
+Nároènost na manu:|20
+Zranêní|80
+Trvání (sekundy)|6
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_GREENTENTACLE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_GREENTENTACLE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_GREENTENTACLE**
-Name|Root Snare
-Circle: 1 | Beliar's spell|0
-Mana cost:|50
-Duration (secs)|20
-Value:|200
+Name|Koâen
+Kruh:|1
+Nároènost na manu:|50
+Trvání (sekundy)|20
+Cena:|2500
 
 |att|value|
+|image| ![ITRU_SUCKENERGY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUCKENERGY.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUCKENERGY**
-Name|Steal energy
-Circle: 2 | Beliar's spell|0
-Mana cost:|30
-Damage|100
-Duration (secs)|9
-Value:|200
+Name|Vysátí energie
+Kruh:|2
+Nároènost na manu:|30
+Zranêní|100
+Trvání (sekundy)|9
+Cena:|3500
 
 |att|value|
+|image| ![ITRU_BELIARSRAGE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_BELIARSRAGE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_BELIARSRAGE**
-Name|Beliar's Wrath
-Circle: 3 | Beliar's spell|0
-Mana cost:|50
-Damage|90
-Value:|200
+Name|Beliárùv hnêv
+Kruh:|3
+Nároènost na manu:|100
+Zranêní|200
+Cena:|3500
 
 |att|value|
+|image| ![ITRU_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICELANCE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICELANCE**
-Name|Ice Lance
-Circle: 2 | Water spell|0
-Mana cost:|15
-Damage|100
-Value:|200
+Name|Ledové kopí
+Kruh:|2
+Nároènost na manu:|20
+Zranêní|100
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WATERFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WATERFIST**
-Name|Waterfist
-Circle: 4 | Water spell | Area spell|0
-Mana cost:|30
-Damage|250
-Value:|200
+Name|Vodní pêst
+Kruh:|4
+Nároènost na manu:|25
+Zranêní|125
+Cena:|2000
 
 |att|value|
+|image| ![ITRU_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_GEYSER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_GEYSER**
-Name|Geyser
-Circle: 3 | Water spell | Area spell|0
-Mana cost:|30
-Damage|220
-Value:|200
+Name|Gejzír
+Kruh:|3
+Nároènost na manu:|75
+Zranêní|150
+Cena:|1500
 
 |att|value|
+|image| ![ITRU_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WHIRLWIND.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WHIRLWIND**
-Name|Dust Devil
-Circle: 2 | Wind spell|0
-Mana cost:|20
-Duration (secs)|10
-Ineffective against|0
-giant monsters.|0
-Value:|200
+Name|Tornádo
+Kruh:|2
+Nároènost na manu:|30
+Trvání (sekundy)|10
+Cena:|1000
 
 |att|value|
+|image| ![ITRU_THUNDERSTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_THUNDERSTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_THUNDERSTORM**
-Name|Storm
-Circle: 4 | Lightning spell | Area|0
-Mana cost:|140
-Damage|400
-Value:|200
+Name|Bouâe
+Kruh:|3
+Nároènost na manu:|100
+Zranêní|250
+Cena:|1500
 
