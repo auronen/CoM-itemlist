@@ -2,7 +2,7 @@
 |image| ![ITMW_BELATEDPATRON_WEAPON10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON10.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON10**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -13,7 +13,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON09.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON09**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -24,7 +24,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON08**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -35,7 +35,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON07**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -46,7 +46,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON06**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -57,7 +57,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON05**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -68,7 +68,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON04**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -79,7 +79,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON03**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -90,7 +90,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON02**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
@@ -101,7 +101,7 @@ Value:|1
 |image| ![ITMW_BELATEDPATRON_WEAPON01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON01**
-Name|Broñ
+Name|BroÅ„
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5

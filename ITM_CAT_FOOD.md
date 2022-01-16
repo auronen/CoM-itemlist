@@ -574,9 +574,9 @@ Value:|35
 |image| ![ITFO_POORPATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_POORPATE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POORPATE**
-Name|P‚tÈ from leftovers
+Name|P√¢t√© from leftovers
 Nobody wants to know|0
-what leftovers were used to make this p‚tÈ,|0
+what leftovers were used to make this p√¢t√©,|0
 but anyone who's hungry will eat it with relish.|0
 Hitpoint bonus:|65
 Value:|21

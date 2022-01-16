@@ -2383,7 +2383,7 @@ Value:|100
 |image| ![ITAR_PIR_RAZOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PIR_RAZOR.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PIR_RAZOR**
-Name|Khajit niczego nie ukrad³
+Name|Khajit niczego nie ukradÅ‚
 Blunt protection:|55
 Edge protection:|55
 Arrow protection:|55
@@ -2503,25 +2503,25 @@ Value:|500
 |image| ![ITAR_HELMET_SACK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_HELMET_SACK.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_HELMET_SACK**
-Name|Worek na g³owê
+Name|Worek na gÅ‚owÄ™
 
 |att|value|
 |image| ![ITAR_WOLFHEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WOLFHEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WOLFHEAD**
-Name|G³owa wilka
+Name|GÅ‚owa wilka
 
 |att|value|
 |image| ![ITAR_KNIFE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIFE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KNIFE**
-Name|Nó¿
+Name|NÃ³Å¼
 
 |att|value|
 |image| ![ITAR_SAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAW.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAW**
-Name|Pi³a
+Name|PiÅ‚a
 
 |att|value|
 |image| ![ITAR_SCROLL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SCROLL.png?raw=true) | 
@@ -2533,7 +2533,7 @@ Name|Papier
 |image| ![ITAR_ROD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ROD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ROD**
-Name|Wêdka
+Name|WÄ™dka
 
 |att|value|
 |image| ![ITAR_PRISONER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PRISONER.png?raw=true) | 
@@ -2767,7 +2767,7 @@ Value:|1300
 |image| ![ITAR_RANGER_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_RANGER_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_RANGER_ADDON**
-Name|Zbroja Wodnego Krêgu
+Name|Zbroja Wodnego KrÄ™gu
 Blunt protection:|50
 Edge protection:|50
 Arrow protection:|50

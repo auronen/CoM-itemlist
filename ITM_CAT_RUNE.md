@@ -1020,7 +1020,7 @@ Value:|15
 |image| ![ITRU_CONCUSSIONBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_CONCUSSIONBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_CONCUSSIONBOLT**
-Name|Pocisk nieprzytomnoúci
+Name|Pocisk nieprzytomno≈õci
 Circle:|6
 Mana cost:|40
 Magic Damage|200
@@ -1030,7 +1030,7 @@ Value:|0
 |image| ![ITRU_DEATHBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBALL**
-Name|åmiertelna kula
+Name|≈ömiertelna kula
 Circle:|6
 Mana cost:|35
 Magic Damage|165
@@ -1040,7 +1040,7 @@ Value:|0
 |image| ![ITRU_DEATHBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBOLT**
-Name|Pocisk úmierci
+Name|Pocisk ≈õmierci
 Circle:|6
 Mana cost:|25
 Magic Damage|125

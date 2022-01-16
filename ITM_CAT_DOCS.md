@@ -5164,7 +5164,7 @@ Value:|5
 |image| ![ITRE_POORPATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRE_POORPATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRE_POORPATE**
-Name|Recipe: P‚tÈ from leftovers
+Name|Recipe: P√¢t√© from leftovers
 Value:|5
 
 |att|value|
@@ -5638,6 +5638,6 @@ Value:|0
 |image| ![FAKESCROLL_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/FAKESCROLL_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**FAKESCROLL_ADDON**
-Name|Kawa≥ek papieru
+Name|Kawa≈Çek papieru
 Value:|0
 
