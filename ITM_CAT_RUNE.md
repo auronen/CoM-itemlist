@@ -1,4 +1,3 @@
-|att|value|
 |image| ![ITSC_SKULL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SKULL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SKULL**
@@ -8,7 +7,6 @@ Mana required:|10
 Damage|65
 Value:|60
 
-|att|value|
 |image| ![ITSC_TRFMEATBUG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFMEATBUG.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFMEATBUG**
@@ -17,7 +15,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|100
 
-|att|value|
 |image| ![ITSC_ACID](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ACID.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ACID**
@@ -26,7 +23,6 @@ Scroll|0
 Mana required:|5
 Value:|50
 
-|att|value|
 |image| ![ITSC_PICKLOCK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PICKLOCK.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PICKLOCK**
@@ -35,7 +31,6 @@ Scroll | Neutral spell | Investment|0
 Mana per sec.|1
 Value:|30
 
-|att|value|
 |image| ![ITSC_FIREWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIREWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIREWAVE**
@@ -45,7 +40,6 @@ Mana required:|15
 Magic Damage|200
 Value:|200
 
-|att|value|
 |image| ![ITSC_SCALE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SCALE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SCALE**
@@ -54,7 +48,6 @@ Scroll | Neutral spell|0
 Mana required:|10
 Value:|250
 
-|att|value|
 |image| ![ITSC_SLOWDOWN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SLOWDOWN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SLOWDOWN**
@@ -64,7 +57,6 @@ Mana required:|15
 Duration (mins)|1
 Value:|300
 
-|att|value|
 |image| ![ITSC_TELEKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TELEKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TELEKINESIS**
@@ -73,7 +65,6 @@ Scroll | Neutral spell | Investment|0
 Mana per sec.|1
 Value:|75
 
-|att|value|
 |image| ![ITSC_SUMSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMSNAPPER**
@@ -85,7 +76,6 @@ You can summon just one|0
 being at a time.|0
 Value:|100
 
-|att|value|
 |image| ![ITSC_SUMBEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMBEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMBEAR**
@@ -97,7 +87,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_TRADE_SKULL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SKULL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SKULL**
@@ -107,7 +96,6 @@ Mana cost:|11
 Damage|65
 Value:|600
 
-|att|value|
 |image| ![ITRU_TRADE_SUMBEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SUMBEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SUMBEAR**
@@ -119,7 +107,6 @@ You can summon just one|0
 being at a time.|0
 Value:|1000
 
-|att|value|
 |image| ![ITRU_TRADE_SUMSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SUMSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SUMSNAPPER**
@@ -131,7 +118,6 @@ You can summon just one|0
 being at a time.|0
 Value:|600
 
-|att|value|
 |image| ![ITRU_TRADE_TELEKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_TELEKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_TELEKINESIS**
@@ -140,7 +126,6 @@ Circle: 2 | Neutral spell | Investment spell|0
 Mana per sec.|1
 Value:|400
 
-|att|value|
 |image| ![ITRU_TRADE_PICKLOCK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PICKLOCK.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PICKLOCK**
@@ -149,7 +134,6 @@ Circle: 2 | Neutral spell | Investment spell|0
 Mana per sec.|1
 Value:|150
 
-|att|value|
 |image| ![ITRU_TRADE_SLOWDOWN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SLOWDOWN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SLOWDOWN**
@@ -159,7 +143,6 @@ Mana cost:|75
 Duration (mins)|1
 Value:|2000
 
-|att|value|
 |image| ![ITRU_TRADE_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_ICELANCE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_ICELANCE**
@@ -169,7 +152,6 @@ Mana cost:|15
 Damage|100
 Value:|700
 
-|att|value|
 |image| ![ITRU_TRADE_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_WATERFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_WATERFIST**
@@ -179,7 +161,6 @@ Mana cost:|30
 Damage|250
 Value:|1600
 
-|att|value|
 |image| ![ITRU_TRADE_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_GEYSER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_GEYSER**
@@ -189,7 +170,6 @@ Mana cost:|30
 Damage|220
 Value:|1400
 
-|att|value|
 |image| ![ITRU_TRADE_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_WHIRLWIND.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_WHIRLWIND**
@@ -201,7 +181,6 @@ You can summon just one|0
 being at a time.|0
 Value:|900
 
-|att|value|
 |image| ![ITRU_TRADE_THUNDERSTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_THUNDERSTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_THUNDERSTORM**
@@ -211,7 +190,6 @@ Mana cost:|140
 Damage|400
 Value:|2500
 
-|att|value|
 |image| ![ITRU_TRADE_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_FULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_FULLHEAL**
@@ -222,7 +200,6 @@ Returns 250% hitpoints|0
 of user's maximum mana.|0
 Value:|750
 
-|att|value|
 |image| ![ITRU_TRADE_ICEWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_ICEWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_ICEWAVE**
@@ -234,7 +211,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|750
 
-|att|value|
 |image| ![ITRU_TRADE_HARMUNDEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_HARMUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_HARMUNDEAD**
@@ -244,7 +220,6 @@ Mana cost:|100
 Magic Damage|1000
 Value:|650
 
-|att|value|
 |image| ![ITRU_TRADE_SUMGOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SUMGOL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SUMGOL**
@@ -256,7 +231,6 @@ You can summon just one|0
 being at a time.|0
 Value:|1500
 
-|att|value|
 |image| ![ITRU_TRADE_THUNDERBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_THUNDERBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_THUNDERBALL**
@@ -268,7 +242,6 @@ Minimum damage:|100
 Maximum damage|400
 Value:|600
 
-|att|value|
 |image| ![ITRU_TRADE_ICECUBE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_ICECUBE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_ICECUBE**
@@ -280,7 +253,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|900
 
-|att|value|
 |image| ![ITRU_TRADE_LIGHTNINGFLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_LIGHTNINGFLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_LIGHTNINGFLASH**
@@ -290,7 +262,6 @@ Mana cost:|30
 Magic Damage|300
 Value:|1000
 
-|att|value|
 |image| ![ITRU_TRADE_MEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_MEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_MEDIUMHEAL**
@@ -301,7 +272,6 @@ Returns 200% hitpoints|0
 of user's maximum mana.|0
 Value:|600
 
-|att|value|
 |image| ![ITRU_TRADE_SLEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SLEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SLEEP**
@@ -311,7 +281,6 @@ Mana cost:|30
 Duration (secs)|30
 Value:|400
 
-|att|value|
 |image| ![ITRU_TRADE_WINDFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_WINDFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_WINDFIST**
@@ -323,7 +292,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|400
 
-|att|value|
 |image| ![ITRU_TRADE_SUMWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SUMWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_SUMWOLF**
@@ -335,7 +303,6 @@ You can summon just one|0
 being at a time.|0
 Value:|350
 
-|att|value|
 |image| ![ITRU_TRADE_ICEBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_ICEBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_ICEBOLT**
@@ -345,7 +312,6 @@ Mana cost:|6
 Magic Damage|40
 Value:|300
 
-|att|value|
 |image| ![ITRU_TRADE_LIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_LIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_LIGHTHEAL**
@@ -356,7 +322,6 @@ Returns 150% hitpoints|0
 of user's maximum mana.|0
 Value:|300
 
-|att|value|
 |image| ![ITRU_TRADE_ZAP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_ZAP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_ZAP**
@@ -366,7 +331,6 @@ Mana cost:|3
 Magic Damage|20
 Value:|150
 
-|att|value|
 |image| ![ITRU_TRADE_LIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_LIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_LIGHT**
@@ -376,7 +340,6 @@ Mana cost:|10
 Duration (mins)|5
 Value:|100
 
-|att|value|
 |image| ![ITRU_TRADE_PALDESTROYEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALDESTROYEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALDESTROYEVIL**
@@ -386,7 +349,6 @@ Mana cost:|60
 Magic Damage|600
 Value:|800
 
-|att|value|
 |image| ![ITRU_TRADE_PALREPELEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALREPELEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALREPELEVIL**
@@ -396,7 +358,6 @@ Mana cost:|30
 Magic Damage|300
 Value:|650
 
-|att|value|
 |image| ![ITRU_TRADE_PALHOLYBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALHOLYBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALHOLYBOLT**
@@ -406,7 +367,6 @@ Mana cost:|10
 Magic Damage|150
 Value:|200
 
-|att|value|
 |image| ![ITRU_TRADE_PALFULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALFULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALFULLHEAL**
@@ -416,7 +376,6 @@ Mana cost:|50
 Healing:|800
 Value:|800
 
-|att|value|
 |image| ![ITRU_TRADE_PALMEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALMEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALMEDIUMHEAL**
@@ -426,7 +385,6 @@ Mana cost:|25
 Healing:|400
 Value:|650
 
-|att|value|
 |image| ![ITRU_TRADE_PALLIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALLIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALLIGHTHEAL**
@@ -436,7 +394,6 @@ Mana cost:|10
 Healing:|200
 Value:|200
 
-|att|value|
 |image| ![ITRU_TRADE_PALLIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_PALLIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TRADE_PALLIGHT**
@@ -446,7 +403,6 @@ Mana cost:|10
 Duration (mins)|5
 Value:|200
 
-|att|value|
 |image| ![ITRU_TELEPORT_SWAMPV2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORT_SWAMPV2.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TELEPORT_SWAMPV2**
@@ -454,7 +410,6 @@ Name|Teleportation rune
 Teleportation rune to the Scoundrels' Haven.|0
 Value:|100
 
-|att|value|
 |image| ![ITRU_SUMBEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMBEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMBEAR**
@@ -466,7 +421,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMSNAPPER**
@@ -478,7 +432,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_TELEPORTKM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEPORTKM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TELEPORTKM**
@@ -487,7 +440,6 @@ All my teleportation runes.|0
 Mana cost:|10
 Value:|200
 
-|att|value|
 |image| ![ITRU_TELEKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TELEKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_TELEKINESIS**
@@ -496,7 +448,6 @@ Circle: 2 | Neutral spell | Investment spell|0
 Mana per sec.|1
 Value:|200
 
-|att|value|
 |image| ![ITRU_PICKLOCK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PICKLOCK.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PICKLOCK**
@@ -505,7 +456,6 @@ Circle: 2 | Neutral spell | Investment spell|0
 Mana per sec.|1
 Value:|200
 
-|att|value|
 |image| ![ITRU_ACID](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ACID.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ACID**
@@ -515,7 +465,6 @@ Mana cost:|25
 Magic Damage|90
 Value:|200
 
-|att|value|
 |image| ![ITRU_SLOWDOWN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SLOWDOWN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SLOWDOWN**
@@ -525,7 +474,6 @@ Mana cost:|75
 Duration (mins)|1
 Value:|200
 
-|att|value|
 |image| ![ITSC_TRFDRAGONSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFDRAGONSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFDRAGONSNAPPER**
@@ -534,7 +482,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|300
 
-|att|value|
 |image| ![ITSC_TRFSHADOWBEAST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSHADOWBEAST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSHADOWBEAST**
@@ -543,7 +490,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|300
 
-|att|value|
 |image| ![ITSC_TRFLURKER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFLURKER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFLURKER**
@@ -552,7 +498,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|80
 
-|att|value|
 |image| ![ITSC_TRFFIREWARAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFFIREWARAN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFFIREWARAN**
@@ -561,7 +506,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|300
 
-|att|value|
 |image| ![ITSC_TRFWARG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWARG.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWARG**
@@ -570,7 +514,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|150
 
-|att|value|
 |image| ![ITSC_TRFSNAPPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSNAPPER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSNAPPER**
@@ -579,7 +522,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|125
 
-|att|value|
 |image| ![ITSC_TRFWARAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWARAN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWARAN**
@@ -588,7 +530,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|75
 
-|att|value|
 |image| ![ITSC_TRFWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFWOLF**
@@ -597,7 +538,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|50
 
-|att|value|
 |image| ![ITSC_TRFGIANTBUG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFGIANTBUG.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFGIANTBUG**
@@ -606,7 +546,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|40
 
-|att|value|
 |image| ![ITSC_TRFGIANTRAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFGIANTRAT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFGIANTRAT**
@@ -615,7 +554,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|40
 
-|att|value|
 |image| ![ITSC_TRFSCAVENGER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSCAVENGER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSCAVENGER**
@@ -624,7 +562,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|40
 
-|att|value|
 |image| ![ITSC_TRFSHEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_TRFSHEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_TRFSHEEP**
@@ -633,7 +570,6 @@ Scroll | Transformation spell|0
 Mana required:|5
 Value:|25
 
-|att|value|
 |image| ![ITSC_SHRINK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SHRINK.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SHRINK**
@@ -642,7 +578,6 @@ Scroll | Neutral spell|0
 Mana required:|5
 Value:|250
 
-|att|value|
 |image| ![ITSC_ARMYOFDARKNESS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ARMYOFDARKNESS.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ARMYOFDARKNESS**
@@ -651,7 +586,6 @@ Scroll|0
 Mana required:|15
 Value:|400
 
-|att|value|
 |image| ![ITSC_MASSDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_MASSDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_MASSDEATH**
@@ -661,7 +595,6 @@ Mana required:|5
 Magic Damage|500
 Value:|250
 
-|att|value|
 |image| ![ITSC_BREATHOFDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_BREATHOFDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_BREATHOFDEATH**
@@ -671,7 +604,6 @@ Mana required:|5
 Magic Damage|500
 Value:|250
 
-|att|value|
 |image| ![ITSC_FIRERAIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIRERAIN.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIRERAIN**
@@ -681,7 +613,6 @@ Mana required:|5
 Fire Damage|500
 Value:|1000
 
-|att|value|
 |image| ![ITSC_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FULLHEAL**
@@ -692,7 +623,6 @@ Returns 250% hitpoints|0
 of user's maximum mana.|0
 Value:|100
 
-|att|value|
 |image| ![ITSC_SUMDEMON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMDEMON.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMDEMON**
@@ -704,7 +634,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITSC_ICEWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICEWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICEWAVE**
@@ -716,7 +645,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|400
 
-|att|value|
 |image| ![ITSC_FIRESTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIRESTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIRESTORM**
@@ -726,7 +654,6 @@ Mana required:|15
 Magic Damage|100
 Value:|150
 
-|att|value|
 |image| ![ITSC_PYROKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PYROKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PYROKINESIS**
@@ -738,7 +665,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|150
 
-|att|value|
 |image| ![ITSC_HARMUNDEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_HARMUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_HARMUNDEAD**
@@ -748,7 +674,6 @@ Mana required:|5
 Magic Damage|1000
 Value:|350
 
-|att|value|
 |image| ![ITSC_SUMGOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMGOL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMGOL**
@@ -760,7 +685,6 @@ You can summon just one|0
 being at a time.|0
 Value:|300
 
-|att|value|
 |image| ![ITSC_THUNDERBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_THUNDERBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_THUNDERBALL**
@@ -772,7 +696,6 @@ Minimum damage:|100
 Maximum damage|400
 Value:|160
 
-|att|value|
 |image| ![ITSC_ICECUBE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICECUBE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICECUBE**
@@ -784,7 +707,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|150
 
-|att|value|
 |image| ![ITSC_FEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FEAR**
@@ -794,7 +716,6 @@ Mana required:|5
 Duration (secs)|5
 Value:|75
 
-|att|value|
 |image| ![ITSC_SUMSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMSKEL**
@@ -806,7 +727,6 @@ You can summon just one|0
 being at a time.|0
 Value:|125
 
-|att|value|
 |image| ![ITSC_CHARGEFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_CHARGEFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_CHARGEFIREBALL**
@@ -818,7 +738,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|100
 
-|att|value|
 |image| ![ITSC_LIGHTNINGFLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHTNINGFLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHTNINGFLASH**
@@ -828,7 +747,6 @@ Mana required:|15
 Magic Damage|300
 Value:|150
 
-|att|value|
 |image| ![ITSC_MEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_MEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_MEDIUMHEAL**
@@ -839,7 +757,6 @@ Returns 200% hitpoints|0
 of user's maximum mana.|0
 Value:|60
 
-|att|value|
 |image| ![ITSC_SLEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SLEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SLEEP**
@@ -849,7 +766,6 @@ Mana required:|5
 Duration (secs)|30
 Value:|150
 
-|att|value|
 |image| ![ITSC_WINDFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WINDFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WINDFIST**
@@ -861,7 +777,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|45
 
-|att|value|
 |image| ![ITSC_SUMWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMWOLF**
@@ -873,7 +788,6 @@ You can summon just one|0
 being at a time.|0
 Value:|50
 
-|att|value|
 |image| ![ITSC_ZAP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ZAP.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ZAP**
@@ -883,7 +797,6 @@ Mana required:|5
 Magic Damage|20
 Value:|8
 
-|att|value|
 |image| ![ITSC_INSTANTFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_INSTANTFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_INSTANTFIREBALL**
@@ -893,7 +806,6 @@ Mana required:|5
 Magic Damage|75
 Value:|20
 
-|att|value|
 |image| ![ITSC_SUMGOBSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_SUMGOBSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_SUMGOBSKEL**
@@ -905,7 +817,6 @@ You can summon just one|0
 being at a time.|0
 Value:|45
 
-|att|value|
 |image| ![ITSC_LIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHTHEAL**
@@ -916,7 +827,6 @@ Returns 150% hitpoints|0
 of user's maximum mana.|0
 Value:|20
 
-|att|value|
 |image| ![ITSC_ICEBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICEBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICEBOLT**
@@ -926,7 +836,6 @@ Mana required:|5
 Magic Damage|40
 Value:|15
 
-|att|value|
 |image| ![ITSC_FIREBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_FIREBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_FIREBOLT**
@@ -936,7 +845,6 @@ Mana required:|5
 Magic Damage|25
 Value:|10
 
-|att|value|
 |image| ![ITSC_LIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_LIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_LIGHT**
@@ -946,7 +854,6 @@ Mana required:|5
 Duration (mins)|5
 Value:|10
 
-|att|value|
 |image| ![ITSC_PALDESTROYEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALDESTROYEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALDESTROYEVIL**
@@ -956,7 +863,6 @@ Mana required:|5
 Magic Damage|600
 Value:|150
 
-|att|value|
 |image| ![ITSC_PALFULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALFULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALFULLHEAL**
@@ -966,7 +872,6 @@ Mana required:|5
 Healing:|800
 Value:|140
 
-|att|value|
 |image| ![ITSC_PALREPELEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALREPELEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALREPELEVIL**
@@ -976,7 +881,6 @@ Mana required:|5
 Magic Damage|300
 Value:|80
 
-|att|value|
 |image| ![ITSC_PALMEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALMEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALMEDIUMHEAL**
@@ -986,7 +890,6 @@ Mana required:|5
 Healing:|400
 Value:|70
 
-|att|value|
 |image| ![ITSC_PALHOLYBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALHOLYBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALHOLYBOLT**
@@ -996,7 +899,6 @@ Mana required:|5
 Magic Damage|150
 Value:|40
 
-|att|value|
 |image| ![ITSC_PALLIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALLIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALLIGHTHEAL**
@@ -1006,7 +908,6 @@ Mana required:|5
 Healing:|200
 Value:|35
 
-|att|value|
 |image| ![ITSC_PALLIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_PALLIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_PALLIGHT**
@@ -1016,37 +917,33 @@ Mana required:|5
 Duration (mins)|5
 Value:|15
 
-|att|value|
 |image| ![ITRU_CONCUSSIONBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_CONCUSSIONBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_CONCUSSIONBOLT**
-Name|Pocisk nieprzytomno≈õci
+Name|Pocisk nieprzytomnoúci
 Circle:|6
 Mana cost:|40
 Magic Damage|200
 Value:|0
 
-|att|value|
 |image| ![ITRU_DEATHBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBALL**
-Name|≈ömiertelna kula
+Name|åmiertelna kula
 Circle:|6
 Mana cost:|35
 Magic Damage|165
 Value:|0
 
-|att|value|
 |image| ![ITRU_DEATHBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_DEATHBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_DEATHBOLT**
-Name|Pocisk ≈õmierci
+Name|Pocisk úmierci
 Circle:|6
 Mana cost:|25
 Magic Damage|125
 Value:|0
 
-|att|value|
 |image| ![ITRU_SHRINK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SHRINK.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SHRINK**
@@ -1055,7 +952,6 @@ Circle: 6 | Neutral spell|0
 Mana cost:|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_ARMYOFDARKNESS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ARMYOFDARKNESS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ARMYOFDARKNESS**
@@ -1064,7 +960,6 @@ Circle: 6 | Summoning spell|0
 Mana cost:|150
 Value:|200
 
-|att|value|
 |image| ![ITRU_MASTEROFDISASTER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MASTEROFDISASTER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MASTEROFDISASTER**
@@ -1074,7 +969,6 @@ Mana cost:|60
 Magic Damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_MASSDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MASSDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MASSDEATH**
@@ -1084,7 +978,6 @@ Mana cost:|150
 Magic Damage|500
 Value:|200
 
-|att|value|
 |image| ![ITRU_BREATHOFDEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_BREATHOFDEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_BREATHOFDEATH**
@@ -1094,7 +987,6 @@ Mana cost:|100
 Magic Damage|500
 Value:|200
 
-|att|value|
 |image| ![ITRU_FIRERAIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIRERAIN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIRERAIN**
@@ -1104,7 +996,6 @@ Mana cost:|150
 Magic Damage|500
 Value:|200
 
-|att|value|
 |image| ![ITRU_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FULLHEAL**
@@ -1115,7 +1006,6 @@ Returns 250% hitpoints|0
 of user's maximum mana.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMDEMON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMDEMON.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMDEMON**
@@ -1124,7 +1014,6 @@ Circle: 5 | Summoning spell|0
 Mana cost:|120
 Value:|200
 
-|att|value|
 |image| ![ITRU_ICEWAVE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICEWAVE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICEWAVE**
@@ -1136,7 +1025,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|200
 
-|att|value|
 |image| ![ITRU_FIRESTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIRESTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIRESTORM**
@@ -1146,7 +1034,6 @@ Mana cost:|25
 Magic Damage|100
 Value:|200
 
-|att|value|
 |image| ![ITRU_PYROKINESIS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PYROKINESIS.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PYROKINESIS**
@@ -1158,7 +1045,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_HARMUNDEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_HARMUNDEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_HARMUNDEAD**
@@ -1168,7 +1054,6 @@ Mana cost:|100
 Magic Damage|1000
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMGOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMGOL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMGOL**
@@ -1180,7 +1065,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_THUNDERBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_THUNDERBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_THUNDERBALL**
@@ -1192,7 +1076,6 @@ Minimum damage:|100
 Maximum damage|400
 Value:|200
 
-|att|value|
 |image| ![ITRU_ICECUBE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICECUBE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICECUBE**
@@ -1204,7 +1087,6 @@ Duration (secs)|10
 Damage per sec.|2
 Value:|200
 
-|att|value|
 |image| ![ITRU_FEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FEAR**
@@ -1214,7 +1096,6 @@ Mana cost:|50
 Duration (secs)|5
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMSKEL**
@@ -1226,7 +1107,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_CHARGEFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_CHARGEFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_CHARGEFIREBALL**
@@ -1238,7 +1118,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_LIGHTNINGFLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHTNINGFLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHTNINGFLASH**
@@ -1248,7 +1127,6 @@ Mana cost:|30
 Magic Damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_MEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_MEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_MEDIUMHEAL**
@@ -1259,7 +1137,6 @@ Returns 200% hitpoints|0
 of user's maximum mana.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_SLEEP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SLEEP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SLEEP**
@@ -1269,7 +1146,6 @@ Mana cost:|30
 Duration (secs)|30
 Value:|200
 
-|att|value|
 |image| ![ITRU_WINDFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WINDFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WINDFIST**
@@ -1281,7 +1157,6 @@ Minimum damage:|75
 Maximum damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMWOLF](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMWOLF.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMWOLF**
@@ -1293,7 +1168,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_ICEBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICEBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICEBOLT**
@@ -1303,7 +1177,6 @@ Mana cost:|6
 Magic Damage|40
 Value:|200
 
-|att|value|
 |image| ![ITRU_INSTANTFIREBALL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_INSTANTFIREBALL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_INSTANTFIREBALL**
@@ -1313,7 +1186,6 @@ Mana cost:|15
 Magic Damage|75
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMGOBSKEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMGOBSKEL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMGOBSKEL**
@@ -1325,7 +1197,6 @@ You can summon just one|0
 being at a time.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_LIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHTHEAL**
@@ -1336,7 +1207,6 @@ Returns 150% hitpoints|0
 of user's maximum mana.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_ZAP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ZAP.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ZAP**
@@ -1346,7 +1216,6 @@ Mana cost:|3
 Magic Damage|20
 Value:|200
 
-|att|value|
 |image| ![ITRU_FIREBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FIREBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FIREBOLT**
@@ -1356,7 +1225,6 @@ Mana cost:|5
 Magic Damage|25
 Value:|200
 
-|att|value|
 |image| ![ITRU_LIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_LIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_LIGHT**
@@ -1366,7 +1234,6 @@ Mana cost:|10
 Duration (mins)|5
 Value:|200
 
-|att|value|
 |image| ![ITRU_FAKETELEPORT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_FAKETELEPORT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_FAKETELEPORT**
@@ -1374,7 +1241,6 @@ Name|Teleport
 Mana cost:|10
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALTELEPORTSECRET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALTELEPORTSECRET.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALTELEPORTSECRET**
@@ -1383,7 +1249,6 @@ Paladin Speel|0
 Mana cost:|10
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALDESTROYEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALDESTROYEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALDESTROYEVIL**
@@ -1393,7 +1258,6 @@ Mana cost:|60
 Magic Damage|600
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALREPELEVIL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALREPELEVIL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALREPELEVIL**
@@ -1403,7 +1267,6 @@ Mana cost:|30
 Magic Damage|300
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALHOLYBOLT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALHOLYBOLT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALHOLYBOLT**
@@ -1413,7 +1276,6 @@ Mana cost:|10
 Magic Damage|150
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALFULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALFULLHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALFULLHEAL**
@@ -1423,7 +1285,6 @@ Mana cost:|50
 Healing:|800
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALMEDIUMHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALMEDIUMHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALMEDIUMHEAL**
@@ -1433,7 +1294,6 @@ Mana cost:|25
 Healing:|400
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALLIGHTHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALLIGHTHEAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALLIGHTHEAL**
@@ -1443,7 +1303,6 @@ Mana cost:|10
 Healing:|200
 Value:|200
 
-|att|value|
 |image| ![ITRU_PALLIGHT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_PALLIGHT.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_PALLIGHT**
@@ -1453,7 +1312,6 @@ Mana cost:|10
 Duration (mins)|5
 Value:|200
 
-|att|value|
 |image| ![ITSC_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WHIRLWIND.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WHIRLWIND**
@@ -1465,7 +1323,6 @@ Ineffective against|0
 giant monsters.|0
 Value:|120
 
-|att|value|
 |image| ![ITSC_THUNDERSTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_THUNDERSTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_THUNDERSTORM**
@@ -1475,7 +1332,6 @@ Mana required:|25
 Damage|400
 Value:|400
 
-|att|value|
 |image| ![ITSC_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WATERFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_WATERFIST**
@@ -1485,7 +1341,6 @@ Mana required:|15
 Damage|250
 Value:|140
 
-|att|value|
 |image| ![ITSC_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICELANCE.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_ICELANCE**
@@ -1495,7 +1350,6 @@ Mana required:|10
 Damage|100
 Value:|75
 
-|att|value|
 |image| ![ITSC_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_GEYSER.png?raw=true) | 
 |-|-|
 Insert code|**ITSC_GEYSER**
@@ -1505,7 +1359,6 @@ Mana required:|15
 Damage|220
 Value:|160
 
-|att|value|
 |image| ![ITRU_SUMMONGUARDIAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMMONGUARDIAN.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMMONGUARDIAN**
@@ -1514,7 +1367,6 @@ Circle: 3 | Summoning spell|0
 Mana cost:|60
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUMMONZOMBIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMMONZOMBIE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUMMONZOMBIE**
@@ -1523,7 +1375,6 @@ Circle: 4 | Summoning spell|0
 Mana cost:|80
 Value:|200
 
-|att|value|
 |image| ![ITRU_SKULL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SKULL.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SKULL**
@@ -1533,7 +1384,6 @@ Mana cost:|11
 Damage|65
 Value:|200
 
-|att|value|
 |image| ![ITRU_SWARM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SWARM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SWARM**
@@ -1544,7 +1394,6 @@ Damage|80
 Duration (secs)|6
 Value:|200
 
-|att|value|
 |image| ![ITRU_GREENTENTACLE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_GREENTENTACLE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_GREENTENTACLE**
@@ -1554,7 +1403,6 @@ Mana cost:|50
 Duration (secs)|20
 Value:|200
 
-|att|value|
 |image| ![ITRU_SUCKENERGY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUCKENERGY.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_SUCKENERGY**
@@ -1565,7 +1413,6 @@ Damage|100
 Duration (secs)|9
 Value:|200
 
-|att|value|
 |image| ![ITRU_BELIARSRAGE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_BELIARSRAGE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_BELIARSRAGE**
@@ -1575,7 +1422,6 @@ Mana cost:|50
 Damage|90
 Value:|200
 
-|att|value|
 |image| ![ITRU_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICELANCE.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_ICELANCE**
@@ -1585,7 +1431,6 @@ Mana cost:|15
 Damage|100
 Value:|200
 
-|att|value|
 |image| ![ITRU_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WATERFIST.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WATERFIST**
@@ -1595,7 +1440,6 @@ Mana cost:|30
 Damage|250
 Value:|200
 
-|att|value|
 |image| ![ITRU_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_GEYSER.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_GEYSER**
@@ -1605,7 +1449,6 @@ Mana cost:|30
 Damage|220
 Value:|200
 
-|att|value|
 |image| ![ITRU_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WHIRLWIND.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_WHIRLWIND**
@@ -1617,7 +1460,6 @@ Ineffective against|0
 giant monsters.|0
 Value:|200
 
-|att|value|
 |image| ![ITRU_THUNDERSTORM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_THUNDERSTORM.png?raw=true) | 
 |-|-|
 Insert code|**ITRU_THUNDERSTORM**

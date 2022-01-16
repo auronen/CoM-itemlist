@@ -1,4 +1,3 @@
-|att|value|
 |image| ![ITRW_FROG_SLINGSHOT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_FROG_SLINGSHOT.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_FROG_SLINGSHOT**
@@ -8,7 +7,6 @@ Point damage:|45
 Strength required:|55
 Value:|25
 
-|att|value|
 |image| ![ITRW_SKE_CBOW_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_SKE_CBOW_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_SKE_CBOW_01**
@@ -17,7 +15,6 @@ Point damage:|45
 Strength required:|55
 Value:|25
 
-|att|value|
 |image| ![ITRW_SKE_BOW_L_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_SKE_BOW_L_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_SKE_BOW_L_02**
@@ -26,7 +23,6 @@ Point damage:|45
 Dexterity required:|55
 Value:|25
 
-|att|value|
 |image| ![ITMW_PATRON_PUNISHMENT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_PUNISHMENT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_PUNISHMENT**
@@ -36,7 +32,6 @@ Dexterity required:|130
 Bow combat bonus:|5
 Value:|1000
 
-|att|value|
 |image| ![ITRW_SKE_BOW_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_SKE_BOW_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_SKE_BOW_L_01**
@@ -45,7 +40,6 @@ Point damage:|70
 Dexterity required:|75
 Value:|25
 
-|att|value|
 |image| ![ITRW_BOW_09_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_09_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_09_NORMAL**
@@ -54,7 +48,6 @@ Point damage:|30
 Dexterity required:|30
 Value:|150
 
-|att|value|
 |image| ![ITRW_BOW_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_09.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_09**
@@ -65,7 +58,6 @@ Dexterity required:|40
 Bow combat bonus:|2
 Value:|490
 
-|att|value|
 |image| ![ITRW_BOW_08_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_08_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_08_GENERATE**
@@ -75,7 +67,6 @@ Point damage:|70
 Dexterity required:|70
 Value:|70
 
-|att|value|
 |image| ![ITRW_BOW_08_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_08_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_08_NORMAL**
@@ -84,7 +75,6 @@ Point damage:|70
 Dexterity required:|70
 Value:|700
 
-|att|value|
 |image| ![ITRW_BOW_08_COPY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_08_COPY.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_08_COPY**
@@ -93,7 +83,6 @@ Point damage:|100
 Dexterity required:|100
 Value:|1150
 
-|att|value|
 |image| ![ITRW_BOW_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_08.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_08**
@@ -104,7 +93,6 @@ Dexterity required:|90
 Bow combat bonus:|4
 Value:|1150
 
-|att|value|
 |image| ![ITRW_BOW_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_07.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_07**
@@ -115,7 +103,6 @@ Dexterity required:|65
 Bow combat bonus:|4
 Value:|1100
 
-|att|value|
 |image| ![ITRW_BOW_06_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_06_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_06_NORMAL**
@@ -124,7 +111,6 @@ Point damage:|120
 Dexterity required:|120
 Value:|1500
 
-|att|value|
 |image| ![ITRW_BOW_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_06.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_06**
@@ -135,7 +121,6 @@ Dexterity required:|150
 Bow combat bonus:|6
 Value:|2100
 
-|att|value|
 |image| ![ITRW_BOW_05_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_05_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_05_NORMAL**
@@ -144,7 +129,6 @@ Point damage:|55
 Dexterity required:|55
 Value:|450
 
-|att|value|
 |image| ![ITRW_BOW_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_05.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_05**
@@ -155,7 +139,6 @@ Dexterity required:|60
 Bow combat bonus:|2
 Value:|650
 
-|att|value|
 |image| ![ITRW_BOW_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_04.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_04**
@@ -166,7 +149,6 @@ Dexterity required:|70
 Bow combat bonus:|4
 Value:|750
 
-|att|value|
 |image| ![ITRW_BOW_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_03_GENERATE**
@@ -176,7 +158,6 @@ Point damage:|80
 Dexterity required:|80
 Value:|42
 
-|att|value|
 |image| ![ITRW_BOW_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_03**
@@ -185,7 +166,6 @@ Point damage:|80
 Dexterity required:|80
 Value:|850
 
-|att|value|
 |image| ![ITRW_BOW_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_02_GENERATE**
@@ -195,7 +175,6 @@ Point damage:|65
 Dexterity required:|65
 Value:|60
 
-|att|value|
 |image| ![ITRW_BOW_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_02_NORMAL**
@@ -204,7 +183,6 @@ Point damage:|65
 Dexterity required:|65
 Value:|600
 
-|att|value|
 |image| ![ITRW_BOW_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_02**
@@ -215,7 +193,6 @@ Dexterity required:|80
 Bow combat bonus:|4
 Value:|950
 
-|att|value|
 |image| ![ITRW_BOW_01_NORMAL_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_01_NORMAL_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_01_NORMAL_GENERATE**
@@ -225,7 +202,6 @@ Point damage:|20
 Dexterity required:|20
 Value:|23
 
-|att|value|
 |image| ![ITRW_BOW_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_01_NORMAL**
@@ -234,7 +210,6 @@ Point damage:|20
 Dexterity required:|20
 Value:|70
 
-|att|value|
 |image| ![ITRW_BOW_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_01**
@@ -245,7 +220,6 @@ Dexterity required:|30
 Bow combat bonus:|2
 Value:|320
 
-|att|value|
 |image| ![ITRW_SLD_MASTERBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_SLD_MASTERBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_SLD_MASTERBOW**
@@ -256,7 +230,6 @@ Dexterity required:|165
 Bow combat bonus:|5
 Value:|7500
 
-|att|value|
 |image| ![ITRW_BOW_RAMSEY_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_RAMSEY_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_RAMSEY_NORMAL**
@@ -265,7 +238,6 @@ Point damage:|205
 Dexterity required:|200
 Value:|3000
 
-|att|value|
 |image| ![ITRW_BOW_RAMSEY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_RAMSEY.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_RAMSEY**
@@ -275,7 +247,6 @@ Point damage:|155
 Dexterity required:|140
 Value:|5000
 
-|att|value|
 |image| ![ITRW_MIL_MASTERCROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_MIL_MASTERCROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_MIL_MASTERCROSSBOW**
@@ -286,7 +257,6 @@ Strength required:|170
 Armor piercing:|70
 Value:|7500
 
-|att|value|
 |image| ![ITRW_CROSSBOW_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_08.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_08**
@@ -296,7 +266,6 @@ Strength required:|75
 Armor piercing:|60
 Value:|1500
 
-|att|value|
 |image| ![ITRW_CROSSBOW_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_07.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_07**
@@ -306,7 +275,6 @@ Strength required:|170
 Armor piercing:|55
 Value:|2550
 
-|att|value|
 |image| ![ITRW_CROSSBOW_06_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_06_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_06_GENERATE**
@@ -316,7 +284,6 @@ Point damage:|85
 Strength required:|60
 Value:|61
 
-|att|value|
 |image| ![ITRW_CROSSBOW_06_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_06_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_06_NORMAL**
@@ -326,7 +293,6 @@ Strength required:|60
 Armor piercing:|10
 Value:|680
 
-|att|value|
 |image| ![ITRW_CROSSBOW_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_06.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_06**
@@ -337,7 +303,6 @@ Armor piercing:|20
 Crossbow combat bonus:|5
 Value:|750
 
-|att|value|
 |image| ![ITRW_CROSSBOW_05_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_05_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_05_GENERATE**
@@ -347,7 +312,6 @@ Point damage:|135
 Strength required:|100
 Value:|76
 
-|att|value|
 |image| ![ITRW_CROSSBOW_05_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_05_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_05_NORMAL**
@@ -357,7 +321,6 @@ Strength required:|100
 Armor piercing:|25
 Value:|920
 
-|att|value|
 |image| ![ITRW_CROSSBOW_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_05.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_05**
@@ -368,7 +331,6 @@ Strength required:|105
 Armor piercing:|25
 Value:|1600
 
-|att|value|
 |image| ![ITRW_CROSSBOW_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_04.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_04**
@@ -378,7 +340,6 @@ Strength required:|190
 Armor piercing:|80
 Value:|2800
 
-|att|value|
 |image| ![ITRW_CROSSBOW_ORC](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_ORC.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_ORC**
@@ -389,7 +350,6 @@ Armor piercing:|20
 Crossbow combat penalty:|10
 Value:|250
 
-|att|value|
 |image| ![ITRW_CROSSBOW_03_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_03_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_03_NORMAL**
@@ -400,7 +360,6 @@ Armor piercing:|35
 Crossbow combat penalty:|5
 Value:|2000
 
-|att|value|
 |image| ![ITRW_CROSSBOW_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_03**
@@ -411,7 +370,6 @@ Strength required:|180
 Armor piercing:|55
 Value:|2700
 
-|att|value|
 |image| ![ITRW_CROSSBOW_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_02**
@@ -421,7 +379,6 @@ Strength required:|80
 Armor piercing:|35
 Value:|1000
 
-|att|value|
 |image| ![ITRW_CROSSBOW_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_01_GENERATE**
@@ -431,7 +388,6 @@ Point damage:|50
 Strength required:|35
 Value:|30
 
-|att|value|
 |image| ![ITRW_CROSSBOW_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_01_NORMAL**
@@ -441,7 +397,6 @@ Strength required:|35
 Armor piercing:|10
 Value:|180
 
-|att|value|
 |image| ![ITRW_CROSSBOW_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_01**
@@ -452,7 +407,6 @@ Strength required:|35
 Armor piercing:|15
 Value:|330
 
-|att|value|
 |image| ![ITRW_CROSSBOW_09_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_09_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_09_GENERATE**
@@ -462,7 +416,6 @@ Point damage:|125
 Strength required:|90
 Value:|83
 
-|att|value|
 |image| ![ITRW_CROSSBOW_09_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_09_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_09_NORMAL**
@@ -472,7 +425,6 @@ Strength required:|90
 Armor piercing:|30
 Value:|1250
 
-|att|value|
 |image| ![ITRW_CROSSBOW_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_09.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_09**
@@ -484,7 +436,6 @@ Armor piercing:|55
 Crossbow combat bonus:|5
 Value:|2300
 
-|att|value|
 |image| ![ITRW_JON_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_JON_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_JON_CROSSBOW**
@@ -494,7 +445,6 @@ Strength required:|80
 Armor piercing:|45
 Value:|900
 
-|att|value|
 |image| ![ITRW_CROSSBOW_TRAINING_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_TRAINING_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_TRAINING_GENERATE**
@@ -505,7 +455,6 @@ Strength required:|10
 Armor piercing:|5
 Value:|12
 
-|att|value|
 |image| ![ITRW_CROSSBOW_TRAINING](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_TRAINING.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_TRAINING**
@@ -515,7 +464,6 @@ Strength required:|10
 Armor piercing:|5
 Value:|25
 
-|att|value|
 |image| ![ITRW_CROSSBOW_10_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_10_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_10_GENERATE**
@@ -525,7 +473,6 @@ Point damage:|105
 Strength required:|70
 Value:|81
 
-|att|value|
 |image| ![ITRW_CROSSBOW_10_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_10_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_10_NORMAL**
@@ -535,7 +482,6 @@ Strength required:|70
 Armor piercing:|25
 Value:|900
 
-|att|value|
 |image| ![ITRW_CROSSBOW_10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_10.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_10**
@@ -547,7 +493,6 @@ Armor piercing:|30
 Crossbow combat bonus:|7
 Value:|1050
 
-|att|value|
 |image| ![ITRW_EMMA_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_EMMA_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_EMMA_CROSSBOW**
@@ -559,7 +504,6 @@ Armor piercing:|35
 Crossbow combat bonus:|5
 Value:|400
 
-|att|value|
 |image| ![ITRW_CROSSBOW_DD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_DD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_DD_01**
@@ -570,7 +514,6 @@ Strength required:|60
 Armor piercing:|40
 Value:|1000
 
-|att|value|
 |image| ![ITRW_RAMSEY_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_RAMSEY_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_RAMSEY_CROSSBOW**
@@ -582,7 +525,6 @@ Armor piercing:|65
 Crossbow combat bonus:|10
 Value:|5000
 
-|att|value|
 |image| ![ITRW_WOLFSON_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_WOLFSON_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_WOLFSON_CROSSBOW**
@@ -593,7 +535,6 @@ Strength required:|70
 Armor piercing:|15
 Value:|70
 
-|att|value|
 |image| ![ITRW_VOLKERGUARD_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_VOLKERGUARD_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_VOLKERGUARD_CROSSBOW**
@@ -603,7 +544,6 @@ Strength required:|80
 Armor piercing:|15
 Value:|85
 
-|att|value|
 |image| ![ITRW_CROSSBOW_KESSEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_KESSEL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_KESSEL**
@@ -613,7 +553,6 @@ Strength required:|100
 Armor piercing:|0
 Value:|500
 
-|att|value|
 |image| ![ITMIS_QM302_CROSSBOW_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_QM302_CROSSBOW_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_QM302_CROSSBOW_GOOD**
@@ -621,7 +560,6 @@ Name|Demonstration Crossbow
 Damage|75
 Strength required:|50
 
-|att|value|
 |image| ![ITMIS_QM302_CROSSBOW_BAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_QM302_CROSSBOW_BAD.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_QM302_CROSSBOW_BAD**
@@ -630,7 +568,6 @@ It looks like it's going to fall apart after a few shots.|0
 Point damage:|15
 Strength required:|10
 
-|att|value|
 |image| ![ITFS_FAKECROSSBOW_LONG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFS_FAKECROSSBOW_LONG.png?raw=true) | 
 |-|-|
 Insert code|**ITFS_FAKECROSSBOW_LONG**
@@ -639,7 +576,6 @@ Damage|9999999
 Strength required:|5
 Value:|0
 
-|att|value|
 |image| ![ITRW_CROSSBOW_H_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_H_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_H_02_NORMAL**
@@ -649,7 +585,6 @@ Strength required:|125
 Armor piercing:|35
 Value:|1400
 
-|att|value|
 |image| ![ITRW_CROSSBOW_H_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_H_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_H_02**
@@ -660,7 +595,6 @@ Strength required:|135
 Armor piercing:|45
 Value:|2000
 
-|att|value|
 |image| ![ITRW_CROSSBOW_H_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_H_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_H_01_NORMAL**
@@ -670,7 +604,6 @@ Strength required:|150
 Armor piercing:|45
 Value:|1800
 
-|att|value|
 |image| ![ITRW_CROSSBOW_H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_H_01**
@@ -681,7 +614,6 @@ Strength required:|165
 Armor piercing:|40
 Value:|2200
 
-|att|value|
 |image| ![ITRW_CROSSBOW_M_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_M_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_M_02_GENERATE**
@@ -691,7 +623,6 @@ Point damage:|75
 Strength required:|55
 Value:|83
 
-|att|value|
 |image| ![ITRW_CROSSBOW_M_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_M_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_M_02_NORMAL**
@@ -701,7 +632,6 @@ Strength required:|55
 Armor piercing:|20
 Value:|500
 
-|att|value|
 |image| ![ITRW_CROSSBOW_M_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_M_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_M_02**
@@ -712,7 +642,6 @@ Strength required:|65
 Armor piercing:|15
 Value:|1000
 
-|att|value|
 |image| ![ITRW_CROSSBOW_M_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_M_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_M_01_NORMAL**
@@ -722,7 +651,6 @@ Strength required:|110
 Armor piercing:|25
 Value:|1500
 
-|att|value|
 |image| ![ITRW_CROSSBOW_M_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_M_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_M_01**
@@ -733,7 +661,6 @@ Strength required:|150
 Armor piercing:|50
 Value:|2300
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_02_GENERATE**
@@ -743,7 +670,6 @@ Point damage:|35
 Strength required:|20
 Value:|20
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_02_NORMAL**
@@ -753,7 +679,6 @@ Strength required:|20
 Armor piercing:|5
 Value:|60
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_02**
@@ -764,7 +689,6 @@ Strength required:|25
 Armor piercing:|5
 Value:|270
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_01_GENERATE**
@@ -774,7 +698,6 @@ Point damage:|65
 Strength required:|45
 Value:|58
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_01_NORMAL**
@@ -784,7 +707,6 @@ Strength required:|45
 Armor piercing:|15
 Value:|350
 
-|att|value|
 |image| ![ITRW_CROSSBOW_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_CROSSBOW_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_CROSSBOW_L_01**
@@ -795,7 +717,6 @@ Strength required:|50
 Armor piercing:|20
 Value:|500
 
-|att|value|
 |image| ![ITRW_BOW_H_04_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_04_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_04_NORMAL**
@@ -804,7 +725,6 @@ Point damage:|170
 Dexterity required:|170
 Value:|2500
 
-|att|value|
 |image| ![ITRW_BOW_H_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_04.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_04**
@@ -815,7 +735,6 @@ Dexterity required:|160
 Bow combat bonus:|6
 Value:|2600
 
-|att|value|
 |image| ![ITRW_BOW_H_03_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_03_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_03_NORMAL**
@@ -825,7 +744,6 @@ Dexterity required:|150
 Bow combat bonus:|2
 Value:|2000
 
-|att|value|
 |image| ![ITRW_BOW_H_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_03**
@@ -835,7 +753,6 @@ Dexterity required:|160
 Bow combat bonus:|10
 Value:|2300
 
-|att|value|
 |image| ![ITRW_BOW_H_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_02_NORMAL**
@@ -844,7 +761,6 @@ Point damage:|140
 Dexterity required:|140
 Value:|1900
 
-|att|value|
 |image| ![ITRW_BOW_H_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_02**
@@ -855,7 +771,6 @@ Dexterity required:|180
 Bow combat bonus:|6
 Value:|2200
 
-|att|value|
 |image| ![ITRW_BOW_H_01_NORMAL_ADDITIONAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_01_NORMAL_ADDITIONAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_01_NORMAL_ADDITIONAL**
@@ -864,7 +779,6 @@ Point damage:|185
 Dexterity required:|185
 Value:|2400
 
-|att|value|
 |image| ![ITRW_BOW_H_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_01_NORMAL**
@@ -873,7 +787,6 @@ Point damage:|130
 Dexterity required:|130
 Value:|1700
 
-|att|value|
 |image| ![ITRW_BOW_H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_H_01**
@@ -884,7 +797,6 @@ Dexterity required:|135
 Bow combat bonus:|6
 Value:|1900
 
-|att|value|
 |image| ![ITRW_BOW_M_04_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_04_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_04_NORMAL**
@@ -893,7 +805,6 @@ Point damage:|110
 Dexterity required:|110
 Value:|1250
 
-|att|value|
 |image| ![ITRW_BOW_M_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_04.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_04**
@@ -904,7 +815,6 @@ Dexterity required:|100
 Bow combat bonus:|4
 Value:|1400
 
-|att|value|
 |image| ![ITRW_BOW_M_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_03_GENERATE**
@@ -914,7 +824,6 @@ Point damage:|90
 Dexterity required:|90
 Value:|95
 
-|att|value|
 |image| ![ITRW_BOW_M_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_03**
@@ -923,7 +832,6 @@ Point damage:|90
 Dexterity required:|90
 Value:|1050
 
-|att|value|
 |image| ![ITRW_BOW_M_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_01_GENERATE**
@@ -933,7 +841,6 @@ Point damage:|50
 Dexterity required:|50
 Value:|70
 
-|att|value|
 |image| ![ITRW_BOW_M_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_M_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_M_01**
@@ -944,7 +851,6 @@ Dexterity required:|50
 Bow combat bonus:|2
 Value:|700
 
-|att|value|
 |image| ![ITRW_BOW_L_04_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_04_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_04_GENERATE**
@@ -954,7 +860,6 @@ Point damage:|45
 Dexterity required:|45
 Value:|35
 
-|att|value|
 |image| ![ITRW_BOW_L_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_04.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_04**
@@ -963,7 +868,6 @@ Point damage:|45
 Dexterity required:|45
 Value:|350
 
-|att|value|
 |image| ![ITRW_BOW_L_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_03_GENERATE**
@@ -973,7 +877,6 @@ Point damage:|35
 Dexterity required:|35
 Value:|27
 
-|att|value|
 |image| ![ITRW_BOW_L_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_03**
@@ -982,7 +885,6 @@ Point damage:|35
 Dexterity required:|35
 Value:|220
 
-|att|value|
 |image| ![ITRW_BOW_L_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_02_GENERATE**
@@ -992,7 +894,6 @@ Point damage:|15
 Dexterity required:|15
 Value:|11
 
-|att|value|
 |image| ![ITRW_BOW_L_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_02**
@@ -1001,7 +902,6 @@ Point damage:|15
 Dexterity required:|15
 Value:|35
 
-|att|value|
 |image| ![ITRW_BOW_L_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_01_GENERATE**
@@ -1011,7 +911,6 @@ Point damage:|10
 Dexterity required:|10
 Value:|8
 
-|att|value|
 |image| ![ITRW_BOW_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_BOW_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_BOW_L_01**
@@ -1020,7 +919,6 @@ Point damage:|10
 Dexterity required:|10
 Value:|25
 
-|att|value|
 |image| ![ITRW_SLD_BOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_SLD_BOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_SLD_BOW**
@@ -1030,7 +928,6 @@ Dexterity required:|25
 Bow combat bonus:|3
 Value:|370
 
-|att|value|
 |image| ![ITRW_MIL_CROSSBOW_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_MIL_CROSSBOW_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_MIL_CROSSBOW_GENERATE**
@@ -1042,7 +939,6 @@ Armor piercing:|10
 Crossbow combat bonus:|3
 Value:|40
 
-|att|value|
 |image| ![ITRW_MIL_CROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_MIL_CROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_MIL_CROSSBOW**
@@ -1053,7 +949,6 @@ Armor piercing:|10
 Crossbow combat bonus:|3
 Value:|400
 
-|att|value|
 |image| ![ITRW_ADDON_MAGICCROSSBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_ADDON_MAGICCROSSBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_ADDON_MAGICCROSSBOW**
@@ -1065,7 +960,6 @@ Armor piercing:|100
 Crossbow combat bonus:|5
 Value:|5500
 
-|att|value|
 |image| ![ITRW_ADDON_FIREBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_ADDON_FIREBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_ADDON_FIREBOW**
@@ -1076,7 +970,6 @@ Dexterity required:|125
 Bow combat bonus:|6
 Value:|2500
 
-|att|value|
 |image| ![ITRW_ADDON_MAGICBOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRW_ADDON_MAGICBOW.png?raw=true) | 
 |-|-|
 Insert code|**ITRW_ADDON_MAGICBOW**

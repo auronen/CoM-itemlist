@@ -1,4 +1,3 @@
-|att|value|
 |image| ![ITMIS_KQ404_FIREMAGEARMOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_KQ404_FIREMAGEARMOR.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_KQ404_FIREMAGEARMOR**
@@ -6,7 +5,6 @@ Name|Fire Mage's Robe
 Red robe worn|0
 only by Fire Mages.|0
 
-|att|value|
 |image| ![ITAR_MIL_L_KQ402_RUST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_L_KQ402_RUST.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_L_KQ402_RUST**
@@ -17,7 +15,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|600
 
-|att|value|
 |image| ![ITAR_MIL_L_KQ402_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_L_KQ402_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_L_KQ402_02**
@@ -25,7 +22,6 @@ Name|Light Guard Armor
 Standardized guard armor|0
 Kingdom of Myrtana.|0
 
-|att|value|
 |image| ![ITAR_MIL_L_KQ402_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_L_KQ402_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_L_KQ402_01**
@@ -33,7 +29,6 @@ Name|Light Guard Armor
 Standardized guard armor|0
 Kingdom of Myrtana.|0
 
-|att|value|
 |image| ![ITAR_SKELETON_PAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SKELETON_PAL.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SKELETON_PAL**
@@ -45,7 +40,6 @@ Fire protection:|100
 Magic protection:|50
 Value:|20000
 
-|att|value|
 |image| ![ITAR_PAL_H_NOHELM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PAL_H_NOHELM.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PAL_H_NOHELM**
@@ -57,7 +51,6 @@ Fire protection:|100
 Magic protection:|50
 Value:|20000
 
-|att|value|
 |image| ![ITAR_PAL_M_NOHELM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PAL_M_NOHELM.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PAL_M_NOHELM**
@@ -68,7 +61,6 @@ Fire protection:|50
 Magic protection:|25
 Value:|100
 
-|att|value|
 |image| ![ITAR_GRD_M_PLAYER_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_GRD_M_PLAYER_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_GRD_M_PLAYER_TIER3**
@@ -80,7 +72,6 @@ Fire protection:|49
 Magic protection:|29
 Value:|900
 
-|att|value|
 |image| ![ITAR_GRD_M_PLAYER_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_GRD_M_PLAYER_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_GRD_M_PLAYER_TIER2**
@@ -92,7 +83,6 @@ Fire protection:|42
 Magic protection:|22
 Value:|900
 
-|att|value|
 |image| ![ITAR_GRD_M_PLAYER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_GRD_M_PLAYER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_GRD_M_PLAYER**
@@ -104,7 +94,6 @@ Fire protection:|35
 Magic protection:|15
 Value:|900
 
-|att|value|
 |image| ![ITAR_GRD_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_GRD_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_GRD_M**
@@ -116,7 +105,6 @@ Fire protection:|35
 Magic protection:|15
 Value:|900
 
-|att|value|
 |image| ![ITAR_GRD_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_GRD_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_GRD_L**
@@ -128,7 +116,6 @@ Fire protection:|30
 Magic protection:|15
 Value:|600
 
-|att|value|
 |image| ![ITAR_KM_BABE_RICH_VLK_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_RICH_VLK_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_RICH_VLK_04**
@@ -140,7 +127,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_RICH_VLK_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_RICH_VLK_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_RICH_VLK_03**
@@ -152,7 +138,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_RICH_VLK_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_RICH_VLK_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_RICH_VLK_02**
@@ -164,7 +149,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_RICH_VLK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_RICH_VLK_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_RICH_VLK_01**
@@ -176,7 +160,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_VLKBABE_H2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VLKBABE_H2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_VLKBABE_H2**
@@ -188,7 +171,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_M3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_M3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_M3**
@@ -200,7 +182,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_M2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_M2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_M2**
@@ -212,7 +193,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_M1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_M1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_M1**
@@ -224,7 +204,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_L5](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L5.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L5**
@@ -236,7 +215,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_L4](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L4.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L4**
@@ -248,7 +226,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_L3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L3**
@@ -260,7 +237,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_L2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L2**
@@ -272,7 +248,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_BAUBABE_L1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L1**
@@ -284,7 +259,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_VLK_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_VLK_05.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_VLK_05**
@@ -296,7 +270,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_VLK_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_VLK_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_VLK_04**
@@ -308,7 +281,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_VLK_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_VLK_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_VLK_03**
@@ -320,7 +292,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_VLK_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_VLK_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_VLK_02**
@@ -332,7 +303,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BABE_VLK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BABE_VLK_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BABE_VLK_01**
@@ -344,7 +314,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_FIREMAGE_GHOST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_FIREMAGE_GHOST.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_FIREMAGE_GHOST**
@@ -356,7 +325,6 @@ Fire protection:|25
 Magic protection:|10
 Value:|600
 
-|att|value|
 |image| ![ITAR_NOV_WATER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_NOV_WATER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_NOV_WATER**
@@ -368,7 +336,6 @@ Fire protection:|10
 Magic protection:|5
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_MAGE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_MAGE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_MAGE_01**
@@ -380,7 +347,6 @@ Fire protection:|25
 Magic protection:|10
 Value:|600
 
-|att|value|
 |image| ![ITAR_KESSEL_HURT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KESSEL_HURT.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KESSEL_HURT**
@@ -392,7 +358,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_07.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_07**
@@ -404,7 +369,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_06.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_06**
@@ -416,7 +380,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_05.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_05**
@@ -428,7 +391,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_04**
@@ -440,7 +402,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_03**
@@ -452,7 +413,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_02**
@@ -464,7 +424,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_KM_BAU_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BAU_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BAU_01**
@@ -476,7 +435,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_WAITRESS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WAITRESS.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WAITRESS**
@@ -488,7 +446,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_WOODCUTTER_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WOODCUTTER_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WOODCUTTER_L**
@@ -500,7 +457,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_BAU_M_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_M_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_M_03**
@@ -512,7 +468,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_BAU_M_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_M_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_M_02**
@@ -524,7 +479,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_BAU_M_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_M_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_M_01**
@@ -536,7 +490,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_BAU_L_GARNEK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L_GARNEK.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L_GARNEK**
@@ -548,7 +501,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_BAU_L_JORN_2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L_JORN_2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L_JORN_2**
@@ -560,7 +512,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_BAU_L_JORN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L_JORN.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L_JORN**
@@ -572,7 +523,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_BAU_L_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L_02**
@@ -584,7 +534,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_BAU_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L_01**
@@ -596,7 +545,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_KM_SMITH_JOE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_SMITH_JOE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_SMITH_JOE**
@@ -608,7 +556,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_SMITH_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_SMITH_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_SMITH_03**
@@ -620,7 +567,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_SMITH_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_SMITH_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_SMITH_02**
@@ -632,7 +578,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_SMITH_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_SMITH_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_SMITH_01**
@@ -644,7 +589,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_11](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_11.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_11**
@@ -656,7 +600,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_10.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_10**
@@ -668,7 +611,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_09.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_09**
@@ -680,7 +622,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_08.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_08**
@@ -692,7 +633,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_07.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_07**
@@ -704,7 +644,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_06.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_06**
@@ -716,7 +655,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_05.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_05**
@@ -728,7 +666,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_04**
@@ -740,7 +677,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_03**
@@ -752,7 +688,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_02**
@@ -764,7 +699,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_BROKENARM_VLK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BROKENARM_VLK_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BROKENARM_VLK_01**
@@ -776,7 +710,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_KM_VLK_BATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_BATH.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_BATH**
@@ -788,7 +721,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_11](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_11.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_11**
@@ -800,7 +732,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_10.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_10**
@@ -812,7 +743,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_09.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_09**
@@ -824,7 +754,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_08.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_08**
@@ -836,7 +765,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_KM_VLK_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_07.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_07**
@@ -848,7 +776,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_06.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_06**
@@ -860,7 +787,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_05.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_05**
@@ -872,7 +798,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_04**
@@ -884,7 +809,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_03**
@@ -896,7 +820,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_02**
@@ -908,7 +831,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_KM_VLK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_VLK_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_VLK_01**
@@ -920,7 +842,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_NOHAT_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_NOHAT_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_NOHAT_04**
@@ -932,7 +853,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_NOHAT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_NOHAT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_NOHAT_03**
@@ -944,7 +864,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_NOHAT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_NOHAT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_NOHAT_02**
@@ -956,7 +875,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_NOHAT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_NOHAT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_NOHAT_01**
@@ -968,7 +886,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_04**
@@ -980,7 +897,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_03**
@@ -992,7 +908,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_02**
@@ -1004,7 +919,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RICH_MERCHANT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RICH_MERCHANT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RICH_MERCHANT_01**
@@ -1016,7 +930,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|500
 
-|att|value|
 |image| ![ITAR_KM_RM_NOHAT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_NOHAT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_NOHAT_03**
@@ -1028,7 +941,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_RM_NOHAT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_NOHAT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_NOHAT_02**
@@ -1040,7 +952,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_RM_NOHAT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_NOHAT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_NOHAT_01**
@@ -1052,7 +963,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_RM_HAT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_HAT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_HAT_03**
@@ -1064,7 +974,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_RM_HAT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_HAT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_HAT_02**
@@ -1076,7 +985,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_RM_HAT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_RM_HAT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_RM_HAT_01**
@@ -1088,7 +996,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KNIGHTARMOR_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIGHTARMOR_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KNIGHTARMOR_TIER3**
@@ -1100,7 +1007,6 @@ Fire protection:|29
 Magic protection:|39
 Value:|12000
 
-|att|value|
 |image| ![ITAR_KNIGHTARMOR_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIGHTARMOR_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KNIGHTARMOR_TIER2**
@@ -1112,7 +1018,6 @@ Fire protection:|22
 Magic protection:|32
 Value:|12000
 
-|att|value|
 |image| ![ITAR_KNIGHTARMOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIGHTARMOR.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KNIGHTARMOR**
@@ -1124,7 +1029,6 @@ Fire protection:|15
 Magic protection:|25
 Value:|12000
 
-|att|value|
 |image| ![ITAR_VOLKER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VOLKER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_VOLKER**
@@ -1136,7 +1040,6 @@ Fire protection:|70
 Magic protection:|50
 Value:|2000
 
-|att|value|
 |image| ![ITAR_WS_U](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_U.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_U**
@@ -1148,7 +1051,6 @@ Fire protection:|70
 Magic protection:|50
 Value:|2000
 
-|att|value|
 |image| ![ITAR_WS_L_ZOMBIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_L_ZOMBIE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_L_ZOMBIE**
@@ -1160,7 +1062,6 @@ Fire protection:|30
 Magic protection:|10
 Value:|500
 
-|att|value|
 |image| ![ITAR_WS_L_EVENT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_L_EVENT.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_L_EVENT**
@@ -1172,7 +1073,6 @@ Fire protection:|30
 Magic protection:|10
 Value:|1200
 
-|att|value|
 |image| ![ITAR_WS_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_L**
@@ -1184,7 +1084,6 @@ Fire protection:|30
 Magic protection:|10
 Value:|1200
 
-|att|value|
 |image| ![ITAR_WS_H_ZOMBIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_H_ZOMBIE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_H_ZOMBIE**
@@ -1196,7 +1095,6 @@ Fire protection:|25
 Magic protection:|10
 Value:|800
 
-|att|value|
 |image| ![ITAR_WS_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_H**
@@ -1208,7 +1106,6 @@ Fire protection:|50
 Magic protection:|30
 Value:|1500
 
-|att|value|
 |image| ![ITAR_WS_M_PLAYER_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_M_PLAYER_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_M_PLAYER_TIER3**
@@ -1220,7 +1117,6 @@ Fire protection:|54
 Magic protection:|34
 Value:|1350
 
-|att|value|
 |image| ![ITAR_WS_M_PLAYER_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_M_PLAYER_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_M_PLAYER_TIER2**
@@ -1232,7 +1128,6 @@ Fire protection:|47
 Magic protection:|27
 Value:|1350
 
-|att|value|
 |image| ![ITAR_WS_M_PLAYER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_M_PLAYER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_M_PLAYER**
@@ -1244,7 +1139,6 @@ Fire protection:|40
 Magic protection:|20
 Value:|1350
 
-|att|value|
 |image| ![ITAR_WS_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WS_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WS_M**
@@ -1256,7 +1150,6 @@ Fire protection:|40
 Magic protection:|20
 Value:|1350
 
-|att|value|
 |image| ![ITAR_MIL_W1_RENEGADE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W1_RENEGADE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W1_RENEGADE**
@@ -1268,7 +1161,6 @@ Fire protection:|25
 Magic protection:|15
 Value:|800
 
-|att|value|
 |image| ![ITAR_MIL_C1_RENEGADE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C1_RENEGADE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C1_RENEGADE**
@@ -1280,7 +1172,6 @@ Fire protection:|20
 Magic protection:|10
 Value:|800
 
-|att|value|
 |image| ![ITAR_MIL_B_RENEGADE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_B_RENEGADE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_B_RENEGADE**
@@ -1292,7 +1183,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|600
 
-|att|value|
 |image| ![ITAR_MIL_W2_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W2_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W2_TIER3**
@@ -1304,7 +1194,6 @@ Fire protection:|44
 Magic protection:|39
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_W2_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W2_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W2_TIER2**
@@ -1316,7 +1205,6 @@ Fire protection:|37
 Magic protection:|32
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_W2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W2**
@@ -1328,7 +1216,6 @@ Fire protection:|30
 Magic protection:|25
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_W1_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W1_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W1_TIER3**
@@ -1340,7 +1227,6 @@ Fire protection:|24
 Magic protection:|24
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_W1_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W1_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W1_TIER2**
@@ -1352,7 +1238,6 @@ Fire protection:|17
 Magic protection:|17
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_W1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_W1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_W1**
@@ -1364,7 +1249,6 @@ Fire protection:|10
 Magic protection:|10
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_C2_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C2_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C2_TIER3**
@@ -1376,7 +1260,6 @@ Fire protection:|49
 Magic protection:|34
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_C2_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C2_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C2_TIER2**
@@ -1388,7 +1271,6 @@ Fire protection:|42
 Magic protection:|27
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_C2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C2**
@@ -1400,7 +1282,6 @@ Fire protection:|35
 Magic protection:|20
 Value:|2500
 
-|att|value|
 |image| ![ITAR_MIL_C1_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C1_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C1_TIER3**
@@ -1412,7 +1293,6 @@ Fire protection:|29
 Magic protection:|24
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_C1_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C1_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C1_TIER2**
@@ -1424,7 +1304,6 @@ Fire protection:|22
 Magic protection:|17
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_C1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_C1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_C1**
@@ -1436,7 +1315,6 @@ Fire protection:|15
 Magic protection:|10
 Value:|2000
 
-|att|value|
 |image| ![ITAR_MIL_B_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_B_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_B_TIER3**
@@ -1448,7 +1326,6 @@ Fire protection:|19
 Magic protection:|14
 Value:|1000
 
-|att|value|
 |image| ![ITAR_MIL_B_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_B_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_B_TIER2**
@@ -1460,7 +1337,6 @@ Fire protection:|12
 Magic protection:|7
 Value:|1000
 
-|att|value|
 |image| ![ITAR_MIL_B](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_B.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_B**
@@ -1472,7 +1348,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|1000
 
-|att|value|
 |image| ![ITAR_MIL_R_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_R_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_R_03**
@@ -1484,7 +1359,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|250
 
-|att|value|
 |image| ![ITAR_MIL_R_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_R_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_R_02**
@@ -1496,7 +1370,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|250
 
-|att|value|
 |image| ![ITAR_MIL_R_01_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_R_01_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_R_01_TIER3**
@@ -1508,7 +1381,6 @@ Fire protection:|19
 Magic protection:|14
 Value:|400
 
-|att|value|
 |image| ![ITAR_MIL_R_01_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_R_01_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_R_01_TIER2**
@@ -1520,7 +1392,6 @@ Fire protection:|12
 Magic protection:|7
 Value:|400
 
-|att|value|
 |image| ![ITAR_MIL_R_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_R_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_R_01**
@@ -1532,7 +1403,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_USM_L_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_USM_L_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_USM_L_TIER3**
@@ -1544,7 +1414,6 @@ Fire protection:|34
 Magic protection:|14
 Value:|1000
 
-|att|value|
 |image| ![ITAR_USM_L_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_USM_L_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_USM_L_TIER2**
@@ -1556,7 +1425,6 @@ Fire protection:|27
 Magic protection:|7
 Value:|1000
 
-|att|value|
 |image| ![ITAR_USM_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_USM_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_USM_L**
@@ -1568,7 +1436,6 @@ Fire protection:|20
 Magic protection:|0
 Value:|1000
 
-|att|value|
 |image| ![ITAR_USM_B](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_USM_B.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_USM_B**
@@ -1580,7 +1447,6 @@ Fire protection:|30
 Magic protection:|15
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_H2_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H2_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H2_TIER3**
@@ -1592,7 +1458,6 @@ Fire protection:|64
 Magic protection:|29
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_H2_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H2_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H2_TIER2**
@@ -1604,7 +1469,6 @@ Fire protection:|57
 Magic protection:|22
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_H2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H2**
@@ -1616,7 +1480,6 @@ Fire protection:|50
 Magic protection:|15
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_H1_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H1_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H1_TIER3**
@@ -1628,7 +1491,6 @@ Fire protection:|34
 Magic protection:|24
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_H1_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H1_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H1_TIER2**
@@ -1640,7 +1502,6 @@ Fire protection:|27
 Magic protection:|17
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_H1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_H1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_H1**
@@ -1652,7 +1513,6 @@ Fire protection:|20
 Magic protection:|10
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_B_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_B_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_B_TIER3**
@@ -1664,7 +1524,6 @@ Fire protection:|19
 Magic protection:|14
 Value:|800
 
-|att|value|
 |image| ![ITAR_ARX_B_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_B_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_B_TIER2**
@@ -1676,7 +1535,6 @@ Fire protection:|12
 Magic protection:|7
 Value:|800
 
-|att|value|
 |image| ![ITAR_ARX_B](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_B.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_B**
@@ -1688,7 +1546,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|800
 
-|att|value|
 |image| ![ITAR_ARX_B_SUNDER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_B_SUNDER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_B_SUNDER**
@@ -1700,7 +1557,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|800
 
-|att|value|
 |image| ![ITAR_ARX_W2_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W2_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W2_TIER3**
@@ -1712,7 +1568,6 @@ Fire protection:|54
 Magic protection:|34
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_W2_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W2_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W2_TIER2**
@@ -1724,7 +1579,6 @@ Fire protection:|47
 Magic protection:|27
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_W2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W2**
@@ -1736,7 +1590,6 @@ Fire protection:|40
 Magic protection:|20
 Value:|2000
 
-|att|value|
 |image| ![ITAR_ARX_W1_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W1_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W1_TIER3**
@@ -1748,7 +1601,6 @@ Fire protection:|29
 Magic protection:|24
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_W1_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W1_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W1_TIER2**
@@ -1760,7 +1612,6 @@ Fire protection:|22
 Magic protection:|17
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_W1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_W1.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_W1**
@@ -1772,7 +1623,6 @@ Fire protection:|15
 Magic protection:|10
 Value:|1200
 
-|att|value|
 |image| ![ITAR_ARX_R_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_R_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_R_TIER3**
@@ -1784,7 +1634,6 @@ Fire protection:|19
 Magic protection:|14
 Value:|400
 
-|att|value|
 |image| ![ITAR_ARX_R_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_R_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_R_TIER2**
@@ -1796,7 +1645,6 @@ Fire protection:|12
 Magic protection:|7
 Value:|400
 
-|att|value|
 |image| ![ITAR_ARX_R](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ARX_R.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ARX_R**
@@ -1808,7 +1656,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|400
 
-|att|value|
 |image| ![ITAR_KM_SMITH_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_SMITH_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_SMITH_04**
@@ -1820,7 +1667,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|250
 
-|att|value|
 |image| ![ITAR_KM_ARAXOS_SMITH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_ARAXOS_SMITH.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_ARAXOS_SMITH**
@@ -1832,7 +1678,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|250
 
-|att|value|
 |image| ![ITAR_NORDMAR_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_NORDMAR_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_NORDMAR_TIER3**
@@ -1844,7 +1689,6 @@ Fire protection:|49
 Magic protection:|59
 Value:|3500
 
-|att|value|
 |image| ![ITAR_NORDMAR_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_NORDMAR_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_NORDMAR_TIER2**
@@ -1856,7 +1700,6 @@ Fire protection:|42
 Magic protection:|52
 Value:|3500
 
-|att|value|
 |image| ![ITAR_NORDMAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_NORDMAR.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_NORDMAR**
@@ -1868,7 +1711,6 @@ Fire protection:|35
 Magic protection:|45
 Value:|3500
 
-|att|value|
 |image| ![ITAR_PIR_H_NOHAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PIR_H_NOHAT.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PIR_H_NOHAT**
@@ -1880,7 +1722,6 @@ Fire protection:|20
 Magic protection:|5
 Value:|1300
 
-|att|value|
 |image| ![ITAR_ENDGAME_NEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ENDGAME_NEW.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ENDGAME_NEW**
@@ -1892,7 +1733,6 @@ Fire protection:|70
 Magic protection:|50
 Value:|4000
 
-|att|value|
 |image| ![ITAR_ENDGAME](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ENDGAME.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ENDGAME**
@@ -1904,14 +1744,12 @@ Fire protection:|20
 Magic protection:|30
 Value:|250
 
-|att|value|
 |image| ![ITAR_ENDGAME_OLD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ENDGAME_OLD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ENDGAME_OLD**
 Name|Old worn-out armor
 It doesn't look like it's fit for anything.|0
 
-|att|value|
 |image| ![ITAR_KM_BANDIT2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BANDIT2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BANDIT2**
@@ -1923,7 +1761,6 @@ Fire protection:|20
 Magic protection:|5
 Value:|950
 
-|att|value|
 |image| ![ITAR_KM_BANDIT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_BANDIT.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_BANDIT**
@@ -1935,7 +1772,6 @@ Fire protection:|20
 Magic protection:|5
 Value:|950
 
-|att|value|
 |image| ![ITAR_STH_H_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_H_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_H_TIER3**
@@ -1947,7 +1783,6 @@ Fire protection:|114
 Magic protection:|34
 Value:|3000
 
-|att|value|
 |image| ![ITAR_STH_H_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_H_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_H_TIER2**
@@ -1959,7 +1794,6 @@ Fire protection:|107
 Magic protection:|27
 Value:|3000
 
-|att|value|
 |image| ![ITAR_STH_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_H**
@@ -1971,7 +1805,6 @@ Fire protection:|100
 Magic protection:|20
 Value:|3000
 
-|att|value|
 |image| ![ITAR_STH_L_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_L_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_L_TIER3**
@@ -1983,7 +1816,6 @@ Fire protection:|64
 Magic protection:|19
 Value:|1500
 
-|att|value|
 |image| ![ITAR_STH_L_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_L_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_L_TIER2**
@@ -1995,7 +1827,6 @@ Fire protection:|57
 Magic protection:|12
 Value:|1500
 
-|att|value|
 |image| ![ITAR_STH_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_STH_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_STH_L**
@@ -2007,7 +1838,6 @@ Fire protection:|50
 Magic protection:|5
 Value:|1500
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_03**
@@ -2019,7 +1849,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|650
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_02**
@@ -2031,7 +1860,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|650
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_R](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_R.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_R**
@@ -2043,7 +1871,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|225
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_L_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_L_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_L_TIER3**
@@ -2055,7 +1882,6 @@ Fire protection:|14
 Magic protection:|14
 Value:|650
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_L_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_L_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_L_TIER2**
@@ -2067,7 +1893,6 @@ Fire protection:|7
 Magic protection:|7
 Value:|650
 
-|att|value|
 |image| ![ITAR_KM_HUNTER_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_HUNTER_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_HUNTER_L**
@@ -2079,7 +1904,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|650
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_M_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_M_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_M_TIER3**
@@ -2091,7 +1915,6 @@ Fire protection:|24
 Magic protection:|14
 Value:|700
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_M_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_M_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_M_TIER2**
@@ -2103,7 +1926,6 @@ Fire protection:|17
 Magic protection:|7
 Value:|700
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_M**
@@ -2115,7 +1937,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|700
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_L_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_L_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_L_TIER3**
@@ -2127,7 +1948,6 @@ Fire protection:|14
 Magic protection:|14
 Value:|300
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_L_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_L_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_L_TIER2**
@@ -2139,7 +1959,6 @@ Fire protection:|7
 Magic protection:|7
 Value:|300
 
-|att|value|
 |image| ![ITAR_KM_LEATHER_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KM_LEATHER_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KM_LEATHER_L**
@@ -2151,7 +1970,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|300
 
-|att|value|
 |image| ![ITAR_TRV_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_TRV_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_TRV_04**
@@ -2163,7 +1981,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_TRV_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_TRV_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_TRV_03**
@@ -2175,7 +1992,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_TRV_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_TRV_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_TRV_02**
@@ -2187,7 +2003,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_TRV_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_TRV_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_TRV_01**
@@ -2199,7 +2014,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|150
 
-|att|value|
 |image| ![ITAR_CRAB_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CRAB_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CRAB_TIER3**
@@ -2211,7 +2025,6 @@ Fire protection:|29
 Magic protection:|24
 Value:|2200
 
-|att|value|
 |image| ![ITAR_CRAB_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CRAB_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CRAB_TIER2**
@@ -2223,7 +2036,6 @@ Fire protection:|22
 Magic protection:|17
 Value:|2200
 
-|att|value|
 |image| ![ITAR_CRAB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CRAB.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CRAB**
@@ -2235,7 +2047,6 @@ Fire protection:|15
 Magic protection:|10
 Value:|2200
 
-|att|value|
 |image| ![ITAR_CHAIN_DETLOW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_DETLOW.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_DETLOW**
@@ -2247,7 +2058,6 @@ Fire protection:|30
 Magic protection:|15
 Value:|800
 
-|att|value|
 |image| ![ITAR_CHAIN_M_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_M_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_M_TIER3**
@@ -2259,7 +2069,6 @@ Fire protection:|19
 Magic protection:|19
 Value:|800
 
-|att|value|
 |image| ![ITAR_CHAIN_M_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_M_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_M_TIER2**
@@ -2271,7 +2080,6 @@ Fire protection:|12
 Magic protection:|12
 Value:|800
 
-|att|value|
 |image| ![ITAR_CHAIN_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_M**
@@ -2283,7 +2091,6 @@ Fire protection:|5
 Magic protection:|5
 Value:|800
 
-|att|value|
 |image| ![ITAR_CHAIN_L_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_L_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_L_TIER3**
@@ -2295,7 +2102,6 @@ Fire protection:|19
 Magic protection:|19
 Value:|500
 
-|att|value|
 |image| ![ITAR_CHAIN_L_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_L_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_L_TIER2**
@@ -2307,7 +2113,6 @@ Fire protection:|12
 Magic protection:|12
 Value:|500
 
-|att|value|
 |image| ![ITAR_CHAIN_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_CHAIN_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_CHAIN_L**
@@ -2319,7 +2124,6 @@ Fire protection:|5
 Magic protection:|5
 Value:|500
 
-|att|value|
 |image| ![ITAR_SAILOR_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAILOR_04.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAILOR_04**
@@ -2331,7 +2135,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_SAILOR_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAILOR_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAILOR_03**
@@ -2343,7 +2146,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_SAILOR_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAILOR_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAILOR_02**
@@ -2355,7 +2157,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_SAILOR_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAILOR_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAILOR_01**
@@ -2367,7 +2168,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_DANIEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_DANIEL.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_DANIEL**
@@ -2379,11 +2179,10 @@ Fire protection:|5
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_PIR_RAZOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PIR_RAZOR.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PIR_RAZOR**
-Name|Khajit niczego nie ukradÅ‚
+Name|Khajit niczego nie ukrad³
 Blunt protection:|55
 Edge protection:|55
 Arrow protection:|55
@@ -2391,7 +2190,6 @@ Fire protection:|15
 Magic protection:|0
 Value:|950
 
-|att|value|
 |image| ![ITAR_BODOWIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BODOWIN.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BODOWIN**
@@ -2403,7 +2201,6 @@ Fire protection:|10
 Magic protection:|0
 Value:|200
 
-|att|value|
 |image| ![ITAR_COW_HA_CUTSCENE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_COW_HA_CUTSCENE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_COW_HA_CUTSCENE**
@@ -2415,7 +2212,6 @@ Fire protection:|40
 Magic protection:|40
 Value:|500
 
-|att|value|
 |image| ![ITAR_COW_HA](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_COW_HA.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_COW_HA**
@@ -2427,7 +2223,6 @@ Fire protection:|40
 Magic protection:|40
 Value:|500
 
-|att|value|
 |image| ![ITAR_T_BIGBEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_T_BIGBEN.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_T_BIGBEN**
@@ -2439,7 +2234,6 @@ Fire protection:|60
 Magic protection:|60
 Value:|500
 
-|att|value|
 |image| ![ITAR_BIGBEN_HURT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BIGBEN_HURT.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BIGBEN_HURT**
@@ -2451,7 +2245,6 @@ Fire protection:|50
 Magic protection:|30
 Value:|500
 
-|att|value|
 |image| ![ITAR_BIGBEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BIGBEN.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BIGBEN**
@@ -2463,7 +2256,6 @@ Fire protection:|50
 Magic protection:|30
 Value:|500
 
-|att|value|
 |image| ![ITAR_IVY_ARMOR_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_IVY_ARMOR_03.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_IVY_ARMOR_03**
@@ -2475,7 +2267,6 @@ Fire protection:|90
 Magic protection:|90
 Value:|500
 
-|att|value|
 |image| ![ITAR_IVY_ARMOR_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_IVY_ARMOR_02.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_IVY_ARMOR_02**
@@ -2487,7 +2278,6 @@ Fire protection:|90
 Magic protection:|90
 Value:|500
 
-|att|value|
 |image| ![ITAR_IVY_ARMOR_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_IVY_ARMOR_01.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_IVY_ARMOR_01**
@@ -2499,43 +2289,36 @@ Fire protection:|90
 Magic protection:|90
 Value:|500
 
-|att|value|
 |image| ![ITAR_HELMET_SACK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_HELMET_SACK.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_HELMET_SACK**
-Name|Worek na gÅ‚owÄ™
+Name|Worek na g³owê
 
-|att|value|
 |image| ![ITAR_WOLFHEAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_WOLFHEAD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_WOLFHEAD**
-Name|GÅ‚owa wilka
+Name|G³owa wilka
 
-|att|value|
 |image| ![ITAR_KNIFE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIFE.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KNIFE**
-Name|NÃ³Å¼
+Name|Nó¿
 
-|att|value|
 |image| ![ITAR_SAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SAW.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SAW**
-Name|PiÅ‚a
+Name|Pi³a
 
-|att|value|
 |image| ![ITAR_SCROLL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SCROLL.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SCROLL**
 Name|Papier
 
-|att|value|
 |image| ![ITAR_ROD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_ROD.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_ROD**
-Name|WÄ™dka
+Name|Wêdka
 
-|att|value|
 |image| ![ITAR_PRISONER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PRISONER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PRISONER**
@@ -2547,7 +2330,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|10
 
-|att|value|
 |image| ![ITAR_KDW_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KDW_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KDW_H**
@@ -2559,7 +2341,6 @@ Fire protection:|50
 Magic protection:|50
 Value:|450
 
-|att|value|
 |image| ![ITAR_BDT_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BDT_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BDT_H**
@@ -2571,7 +2352,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|2100
 
-|att|value|
 |image| ![ITAR_BDT_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BDT_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BDT_M**
@@ -2583,7 +2363,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|550
 
-|att|value|
 |image| ![ITAR_KDF_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KDF_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KDF_H**
@@ -2595,7 +2374,6 @@ Fire protection:|50
 Magic protection:|50
 Value:|3000
 
-|att|value|
 |image| ![ITAR_KDF_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KDF_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KDF_L**
@@ -2607,7 +2385,6 @@ Fire protection:|20
 Magic protection:|20
 Value:|500
 
-|att|value|
 |image| ![ITAR_NOV_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_NOV_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_NOV_L**
@@ -2619,7 +2396,6 @@ Fire protection:|0
 Magic protection:|10
 Value:|280
 
-|att|value|
 |image| ![ITAR_BAUBABE_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_M**
@@ -2631,7 +2407,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_BAUBABE_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAUBABE_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAUBABE_L**
@@ -2643,7 +2418,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_BAU_M_BERMAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_M_BERMAR.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_M_BERMAR**
@@ -2655,7 +2429,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_BAU_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_M**
@@ -2667,7 +2440,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|100
 
-|att|value|
 |image| ![ITAR_BAU_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BAU_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BAU_L**
@@ -2679,7 +2451,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|30
 
-|att|value|
 |image| ![ITAR_MIL_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_MIL_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_MIL_L**
@@ -2691,7 +2462,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|600
 
-|att|value|
 |image| ![ITAR_VLKBABE_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VLKBABE_H.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_VLKBABE_H**
@@ -2703,7 +2473,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_VLKBABE_M](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VLKBABE_M.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_VLKBABE_M**
@@ -2715,7 +2484,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_VLKBABE_L](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VLKBABE_L.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_VLKBABE_L**
@@ -2727,7 +2495,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_BARKEEPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_BARKEEPER.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_BARKEEPER**
@@ -2739,7 +2506,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_SMITH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_SMITH.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_SMITH**
@@ -2751,7 +2517,6 @@ Fire protection:|5
 Magic protection:|0
 Value:|0
 
-|att|value|
 |image| ![ITAR_KDW_L_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KDW_L_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_KDW_L_ADDON**
@@ -2763,11 +2528,10 @@ Fire protection:|25
 Magic protection:|25
 Value:|1300
 
-|att|value|
 |image| ![ITAR_RANGER_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_RANGER_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_RANGER_ADDON**
-Name|Zbroja Wodnego KrÄ™gu
+Name|Zbroja Wodnego Krêgu
 Blunt protection:|50
 Edge protection:|50
 Arrow protection:|50
@@ -2775,7 +2539,6 @@ Fire protection:|0
 Magic protection:|10
 Value:|1300
 
-|att|value|
 |image| ![ITAR_PIR_M_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PIR_M_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PIR_M_ADDON**
@@ -2787,7 +2550,6 @@ Fire protection:|0
 Magic protection:|0
 Value:|1300
 
-|att|value|
 |image| ![ITAR_PIR_L_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_PIR_L_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITAR_PIR_L_ADDON**

@@ -1,114 +1,103 @@
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON10.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON10**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON09.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON09**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON08**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON07**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON06**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON05**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON04**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON03**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON02**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_BELATEDPATRON_WEAPON01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BELATEDPATRON_WEAPON01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BELATEDPATRON_WEAPON01**
-Name|BroÅ„
+Name|Broñ
 Edge damage:|20
 Strength required:|20
 Armor piercing:|5
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_2H_DEX_BLUNT_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_DEX_BLUNT_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_DEX_BLUNT_05**
@@ -119,7 +108,6 @@ Armor piercing:|20
 Two-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_2H_DEX_BLUNT_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_DEX_BLUNT_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_DEX_BLUNT_04**
@@ -130,7 +118,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|480
 
-|att|value|
 |image| ![ITMW_2H_DEX_BLUNT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_DEX_BLUNT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_DEX_BLUNT_03**
@@ -141,7 +128,6 @@ Armor piercing:|30
 Two-handed weapons|0
 Value:|1700
 
-|att|value|
 |image| ![ITMW_2H_DEX_BLUNT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_DEX_BLUNT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_DEX_BLUNT_02**
@@ -152,7 +138,6 @@ Armor piercing:|25
 Two-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_2H_DEX_BLUNT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_DEX_BLUNT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_DEX_BLUNT_01**
@@ -163,7 +148,6 @@ Armor piercing:|40
 Two-handed weapons|0
 Value:|2200
 
-|att|value|
 |image| ![ITMW_1H_DEX_BLUNT_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DEX_BLUNT_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DEX_BLUNT_05**
@@ -174,7 +158,6 @@ Armor piercing:|25
 One-handed weapons|0
 Value:|1350
 
-|att|value|
 |image| ![ITMW_1H_DEX_BLUNT_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DEX_BLUNT_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DEX_BLUNT_04**
@@ -185,7 +168,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_1H_DEX_BLUNT_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DEX_BLUNT_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DEX_BLUNT_03**
@@ -196,7 +178,6 @@ Armor piercing:|20
 One-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_1H_DEX_BLUNT_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DEX_BLUNT_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DEX_BLUNT_02**
@@ -207,7 +188,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|525
 
-|att|value|
 |image| ![ITMW_1H_DEX_BLUNT_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DEX_BLUNT_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DEX_BLUNT_01**
@@ -218,7 +198,6 @@ Armor piercing:|40
 One-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_2H_ORC_HAMMER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORC_HAMMER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORC_HAMMER**
@@ -229,7 +208,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|20
 
-|att|value|
 |image| ![ITMW_2HSTR_SWORDADDITIONAL_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2HSTR_SWORDADDITIONAL_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2HSTR_SWORDADDITIONAL_01**
@@ -239,7 +217,6 @@ Strength required:|180
 Two-handed weapons|0
 Value:|2800
 
-|att|value|
 |image| ![ITMW_1HSTR_SWORDADDITIONAL_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HSTR_SWORDADDITIONAL_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HSTR_SWORDADDITIONAL_04**
@@ -249,7 +226,6 @@ Strength required:|190
 One-handed weapons|0
 Value:|2800
 
-|att|value|
 |image| ![ITMW_1HSTR_SWORDADDITIONAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HSTR_SWORDADDITIONAL_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HSTR_SWORDADDITIONAL_03**
@@ -259,7 +235,6 @@ Strength required:|180
 One-handed weapons|0
 Value:|2400
 
-|att|value|
 |image| ![ITMW_1HSTR_SWORDADDITIONAL_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HSTR_SWORDADDITIONAL_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HSTR_SWORDADDITIONAL_02**
@@ -269,7 +244,6 @@ Strength required:|170
 One-handed weapons|0
 Value:|2200
 
-|att|value|
 |image| ![ITMW_1HSTR_SWORDADDITIONAL_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HSTR_SWORDADDITIONAL_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HSTR_SWORDADDITIONAL_01**
@@ -279,7 +253,6 @@ Strength required:|160
 One-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_1HDEX_SWORDADDITIONAL_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HDEX_SWORDADDITIONAL_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HDEX_SWORDADDITIONAL_05**
@@ -289,7 +262,6 @@ Dexterity required:|180
 One-handed weapons|0
 Value:|2900
 
-|att|value|
 |image| ![ITMW_1HDEX_SWORDADDITIONAL_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HDEX_SWORDADDITIONAL_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HDEX_SWORDADDITIONAL_04**
@@ -299,7 +271,6 @@ Dexterity required:|170
 One-handed weapons|0
 Value:|2600
 
-|att|value|
 |image| ![ITMW_1HDEX_SWORDADDITIONAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HDEX_SWORDADDITIONAL_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HDEX_SWORDADDITIONAL_03**
@@ -309,7 +280,6 @@ Dexterity required:|160
 One-handed weapons|0
 Value:|2300
 
-|att|value|
 |image| ![ITMW_1HDEX_SWORDADDITIONAL_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HDEX_SWORDADDITIONAL_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HDEX_SWORDADDITIONAL_02**
@@ -319,7 +289,6 @@ Dexterity required:|150
 One-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_1HDEX_SWORDADDITIONAL_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1HDEX_SWORDADDITIONAL_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1HDEX_SWORDADDITIONAL_01**
@@ -329,7 +298,6 @@ Dexterity required:|140
 One-handed weapons|0
 Value:|1600
 
-|att|value|
 |image| ![ITMW_PATRON_JARL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_JARL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_JARL**
@@ -340,7 +308,6 @@ Armor piercing:|20
 Two-handed weapons|0
 Value:|110
 
-|att|value|
 |image| ![ITMW_PATRON_CHARLES](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_CHARLES.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_CHARLES**
@@ -350,7 +317,6 @@ Strength required:|70
 One-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_PATRON_SUBLI](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_SUBLI.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_SUBLI**
@@ -361,7 +327,6 @@ Armor piercing:|20
 One-handed weapons|0
 Value:|120
 
-|att|value|
 |image| ![ITMW_PATRON_KEDART](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_KEDART.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_KEDART**
@@ -372,7 +337,6 @@ Armor piercing:|20
 One-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_PATRON_NIGHTMARE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_NIGHTMARE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_NIGHTMARE**
@@ -383,7 +347,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|180
 
-|att|value|
 |image| ![ITMW_PATRON_GIGUS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_GIGUS.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_GIGUS**
@@ -394,7 +357,6 @@ Armor piercing:|30
 One-handed weapons|0
 Value:|110
 
-|att|value|
 |image| ![ITMW_PATRON_NETTLES](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_NETTLES.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_NETTLES**
@@ -405,7 +367,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_PATRON_VALBRYCHA](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_VALBRYCHA.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_VALBRYCHA**
@@ -416,7 +377,6 @@ Armor piercing:|30
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_PATRON_SZPERLACZ](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_SZPERLACZ.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_SZPERLACZ**
@@ -427,7 +387,6 @@ Armor piercing + two-handed bonus:|5
 Two-handed weapons|0
 Value:|110
 
-|att|value|
 |image| ![ITMW_PATRON_MACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_MACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_MACE**
@@ -438,7 +397,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|60
 
-|att|value|
 |image| ![ITMW_PATRON_SYMITAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_SYMITAR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_SYMITAR**
@@ -449,7 +407,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|700
 
-|att|value|
 |image| ![ITMW_PATRON_KNUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_KNUP.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_KNUP**
@@ -460,7 +417,6 @@ Armor piercing + one-handed combat bonus:|10
 One-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_PATRON_MANFRED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_MANFRED.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_MANFRED**
@@ -471,7 +427,6 @@ Armor piercing + one-handed combat bonus:|10
 One-handed weapons|0
 Value:|160
 
-|att|value|
 |image| ![ITMW_PATRON_KUSHI](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_KUSHI.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_KUSHI**
@@ -482,7 +437,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|145
 
-|att|value|
 |image| ![ITMW_PATRON_ELISIUM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_ELISIUM.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_ELISIUM**
@@ -493,7 +447,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|140
 
-|att|value|
 |image| ![ITMW_PATRON_ARNI](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_ARNI.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_ARNI**
@@ -504,7 +457,6 @@ Armor piercing:|10
 Two-handed weapons|0
 Value:|80
 
-|att|value|
 |image| ![ITMW_PATRON_FLASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_FLASH.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_FLASH**
@@ -515,7 +467,6 @@ Armor piercing:|8
 One-handed weapons|0
 Value:|130
 
-|att|value|
 |image| ![ITMW_PATRON_DESERTER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_DESERTER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_DESERTER**
@@ -526,7 +477,6 @@ Armor piercing:|10
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_PATRON_MELONIDAS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_MELONIDAS.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_MELONIDAS**
@@ -537,7 +487,6 @@ Armor piercing:|12
 Two-handed weapons|0
 Value:|140
 
-|att|value|
 |image| ![ITMW_PATRON_BROADSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_BROADSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_BROADSWORD**
@@ -548,7 +497,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|145
 
-|att|value|
 |image| ![ITMW_PATRON_EKSAGNEM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PATRON_EKSAGNEM.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PATRON_EKSAGNEM**
@@ -559,7 +507,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|120
 
-|att|value|
 |image| ![ITMW_1H_VLK2_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK2_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK2_SWORD**
@@ -571,7 +518,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_15_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_15_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_15_NORMAL**
@@ -582,7 +528,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|125
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_15](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_15.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_15**
@@ -593,7 +538,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_14](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_14.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_14**
@@ -604,7 +548,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_13](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_13.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_13**
@@ -616,7 +559,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_12](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_12.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_12**
@@ -627,7 +569,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|1600
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_11_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_11_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_11_NORMAL**
@@ -638,7 +579,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_11](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_11.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_11**
@@ -649,7 +589,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|2700
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_10_VARDHAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_10_VARDHAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_10_VARDHAL**
@@ -660,7 +599,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_10.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_10**
@@ -671,7 +609,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_09_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_09_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_09_NORMAL**
@@ -682,7 +619,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_09_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_09_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_09_GENERATE**
@@ -693,7 +629,6 @@ Dexterity required:|95
 Two-handed weapons|0
 Value:|77
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_09.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_09**
@@ -704,7 +639,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_08_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_08_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_08_GENERATE**
@@ -715,7 +649,6 @@ Dexterity required:|60
 Two-handed weapons|0
 Value:|86
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_08_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_08_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_08_NORMAL**
@@ -726,7 +659,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|520
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_08**
@@ -738,7 +670,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|800
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_07_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_07_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_07_GENERATE**
@@ -749,7 +680,6 @@ Dexterity required:|65
 Two-handed weapons|0
 Value:|69
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_07**
@@ -760,7 +690,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_06**
@@ -771,7 +700,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_05_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_05_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_05_NORMAL**
@@ -782,7 +710,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_05**
@@ -794,7 +721,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1750
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_04_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_04_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_04_NORMAL**
@@ -805,7 +731,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|850
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_04**
@@ -816,7 +741,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|950
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_03**
@@ -826,7 +750,6 @@ Dexterity required:|10
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_02_GENERATE**
@@ -837,7 +760,6 @@ Dexterity required:|90
 Two-handed weapons|0
 Value:|76
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_02_NORMAL**
@@ -848,7 +770,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1150
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_02**
@@ -860,7 +781,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1500
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_ARCHOLOSMASTER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_ARCHOLOSMASTER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_ARCHOLOSMASTER**
@@ -871,7 +791,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_01_NORMAL**
@@ -882,7 +801,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_2H_RAMSEY_SPEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_RAMSEY_SPEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_RAMSEY_SPEAR**
@@ -894,7 +812,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_2H_SPEAR_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPEAR_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPEAR_01**
@@ -906,7 +823,6 @@ Two-handed talent - Bonus|15
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_1H_DAGGER_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DAGGER_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DAGGER_02_NORMAL**
@@ -917,7 +833,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|400
 
-|att|value|
 |image| ![ITMW_1H_DAGGER_IVY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DAGGER_IVY.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DAGGER_IVY**
@@ -928,7 +843,6 @@ Armor piercing + one-handed combat bonus:|15
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_1H_DAGGER_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DAGGER_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DAGGER_02**
@@ -940,7 +854,6 @@ Armor piercing + one-handed combat bonus:|15
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_1H_DAGGER_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DAGGER_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DAGGER_01_GENERATE**
@@ -952,7 +865,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|56
 
-|att|value|
 |image| ![ITMW_1H_DAGGER_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_DAGGER_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_DAGGER_01**
@@ -963,7 +875,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|280
 
-|att|value|
 |image| ![ITMW_1H_SKE_DAGGER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SKE_DAGGER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SKE_DAGGER**
@@ -973,7 +884,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|5
 
-|att|value|
 |image| ![ITMW_1H_KITCHEN_KNIFE_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_KITCHEN_KNIFE_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_KITCHEN_KNIFE_03**
@@ -985,7 +895,6 @@ Armor piercing:|7
 One-handed weapons|0
 Value:|230
 
-|att|value|
 |image| ![ITMW_1H_KITCHEN_KNIFE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_KITCHEN_KNIFE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_KITCHEN_KNIFE_02**
@@ -997,7 +906,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_1H_KITCHEN_KNIFE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_KITCHEN_KNIFE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_KITCHEN_KNIFE_01**
@@ -1008,7 +916,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_2H_TREASURYGATE_SWORD_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_TREASURYGATE_SWORD_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_TREASURYGATE_SWORD_03**
@@ -1019,7 +926,6 @@ Strength required:|85
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_2H_SECONDGATE_SWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SECONDGATE_SWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SECONDGATE_SWORD_02**
@@ -1030,7 +936,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_2H_SECONDGATE_SWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SECONDGATE_SWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SECONDGATE_SWORD_01**
@@ -1041,7 +946,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_BIGBEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_BIGBEN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_BIGBEN**
@@ -1052,7 +956,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_06**
@@ -1064,7 +967,6 @@ Armor piercing:|25
 Two-handed weapons|0
 Value:|3000
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_05**
@@ -1076,7 +978,6 @@ Armor piercing:|20
 Two-handed weapons|0
 Value:|2700
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_ILSE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_ILSE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_ILSE**
@@ -1087,7 +988,6 @@ Armor piercing:|7
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_04**
@@ -1099,7 +999,6 @@ Armor piercing:|25
 Two-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_03**
@@ -1111,7 +1010,6 @@ Armor piercing:|20
 Two-handed weapons|0
 Value:|2400
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_02_GENERATE**
@@ -1123,7 +1021,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|75
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_02**
@@ -1134,7 +1031,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_01_GENERATE**
@@ -1145,7 +1041,6 @@ Strength required:|110
 Two-handed weapons|0
 Value:|73
 
-|att|value|
 |image| ![ITMW_2H_HAMMER_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_HAMMER_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_HAMMER_01**
@@ -1157,7 +1052,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|2200
 
-|att|value|
 |image| ![ITMW_2H_FAKEARTIFACT_ADANOS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_FAKEARTIFACT_ADANOS.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_FAKEARTIFACT_ADANOS**
@@ -1167,7 +1061,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_2H_FROGMACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_FROGMACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_FROGMACE**
@@ -1179,7 +1072,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_2H_MACE_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MACE_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MACE_02_NORMAL**
@@ -1189,7 +1081,6 @@ Strength required:|60
 Two-handed weapons|0
 Value:|570
 
-|att|value|
 |image| ![ITMW_2H_MACE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MACE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MACE_02**
@@ -1201,7 +1092,6 @@ Armor piercing:|10
 Two-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_2H_MACE_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MACE_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MACE_01_GENERATE**
@@ -1212,7 +1102,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|66
 
-|att|value|
 |image| ![ITMW_2H_MACE_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MACE_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MACE_01_NORMAL**
@@ -1222,7 +1111,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_2H_MACE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MACE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MACE_01**
@@ -1234,7 +1122,6 @@ Armor piercing:|10
 Two-handed weapons|0
 Value:|1250
 
-|att|value|
 |image| ![ITMW_1H_MACE_04_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_04_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_04_GENERATE**
@@ -1246,7 +1133,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|73
 
-|att|value|
 |image| ![ITMW_1H_MACE_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_04**
@@ -1257,7 +1143,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|220
 
-|att|value|
 |image| ![ITMW_1H_MACE_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_03_GENERATE**
@@ -1269,7 +1154,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|48
 
-|att|value|
 |image| ![ITMW_1H_MACE_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_03**
@@ -1280,7 +1164,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|340
 
-|att|value|
 |image| ![ITMW_1H_MACE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_02**
@@ -1292,7 +1175,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|170
 
-|att|value|
 |image| ![ITMW_1H_MACE_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_01_NORMAL**
@@ -1302,7 +1184,6 @@ Strength required:|75
 One-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_1H_MACE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_01**
@@ -1314,7 +1195,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|950
 
-|att|value|
 |image| ![ITMW_1H_NOB_PAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_NOB_PAN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_NOB_PAN**
@@ -1324,7 +1204,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_1H_CULUS_MACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_CULUS_MACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_CULUS_MACE**
@@ -1335,7 +1214,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_SKELETON_DAMAGED_WEAPON_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SKELETON_DAMAGED_WEAPON_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SKELETON_DAMAGED_WEAPON_02**
@@ -1346,7 +1224,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|4
 
-|att|value|
 |image| ![ITMW_SKELETON_DAMAGED_WEAPON_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SKELETON_DAMAGED_WEAPON_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SKELETON_DAMAGED_WEAPON_01**
@@ -1357,7 +1234,6 @@ Strength required:|5
 One-handed weapons|0
 Value:|2
 
-|att|value|
 |image| ![ITMW_KM_2H_AXE_HEAVY_EVENT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_KM_2H_AXE_HEAVY_EVENT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_KM_2H_AXE_HEAVY_EVENT**
@@ -1369,7 +1245,6 @@ Armor piercing:|5
 Two-handed weapons|0
 Value:|750
 
-|att|value|
 |image| ![ITMW_2H_SLD_MASTERAXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SLD_MASTERAXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SLD_MASTERAXE**
@@ -1381,7 +1256,6 @@ Armor piercing + two-handed bonus:|5
 Two-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_2H_RAMSEY_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_RAMSEY_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_RAMSEY_AXE**
@@ -1393,7 +1267,6 @@ Armor piercing:|5
 Two-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_1H_AXE_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_02_GENERATE**
@@ -1404,7 +1277,6 @@ Strength required:|110
 One-handed weapons|0
 Value:|75
 
-|att|value|
 |image| ![ITMW_1H_AXE_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_02_NORMAL**
@@ -1414,7 +1286,6 @@ Strength required:|110
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_1H_AXE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_02**
@@ -1426,7 +1297,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_1H_AXE_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_01_GENERATE**
@@ -1437,7 +1307,6 @@ Strength required:|65
 One-handed weapons|0
 Value:|75
 
-|att|value|
 |image| ![ITMW_1H_AXE_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_01_NORMAL**
@@ -1447,7 +1316,6 @@ Strength required:|65
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_1H_AXE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_AXE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_AXE_01**
@@ -1459,7 +1327,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|1300
 
-|att|value|
 |image| ![ITMW_2H_NONE_AXE_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_NONE_AXE_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_NONE_AXE_03**
@@ -1469,7 +1336,6 @@ Strength required:|50
 Two-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_2H_NONE_AXE_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_NONE_AXE_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_NONE_AXE_02_GENERATE**
@@ -1480,7 +1346,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|55
 
-|att|value|
 |image| ![ITMW_2H_NONE_AXE_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_NONE_AXE_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_NONE_AXE_02_NORMAL**
@@ -1490,7 +1355,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_2H_NONE_AXE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_NONE_AXE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_NONE_AXE_02**
@@ -1502,7 +1366,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|750
 
-|att|value|
 |image| ![ITMW_2H_NONE_AXE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_NONE_AXE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_NONE_AXE_01**
@@ -1513,7 +1376,6 @@ Strength required:|95
 Two-handed weapons|0
 Value:|1900
 
-|att|value|
 |image| ![ITMW_1H_ORCAXE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_ORCAXE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_ORCAXE_01**
@@ -1523,7 +1385,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_BAU_SCYTHE_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BAU_SCYTHE_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BAU_SCYTHE_NORMAL**
@@ -1533,7 +1394,6 @@ Dexterity required:|15
 Two-handed weapons|0
 Value:|45
 
-|att|value|
 |image| ![ITMW_2H_BAU_SCYTHE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BAU_SCYTHE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BAU_SCYTHE**
@@ -1545,7 +1405,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_HALBERD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_HALBERD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_HALBERD**
@@ -1555,7 +1414,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|350
 
-|att|value|
 |image| ![ITMW_2H_ANCIENTSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ANCIENTSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ANCIENTSWORD**
@@ -1566,7 +1424,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_2H_SWORD_10](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_10.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_10**
@@ -1576,7 +1433,6 @@ Strength required:|50
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_2H_SWORD_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_09.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_09**
@@ -1586,7 +1442,6 @@ Strength required:|50
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_1H_SWORD_09](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_09.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_09**
@@ -1596,7 +1451,6 @@ Strength required:|100
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_1H_MIL_RODERICHSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_RODERICHSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_RODERICHSWORD**
@@ -1606,7 +1460,6 @@ Strength required:|100
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_1H_MIL_MASTERSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_MASTERSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_MASTERSWORD**
@@ -1618,7 +1471,6 @@ One-handed weapon bonus|7
 One-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_1H_RAMSEY_SWORD_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_RAMSEY_SWORD_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_RAMSEY_SWORD_NORMAL**
@@ -1629,7 +1481,6 @@ Dexterity required:|190
 One-handed weapons|0
 Value:|2100
 
-|att|value|
 |image| ![ITMW_1H_RAMSEY_SWORD_STR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_RAMSEY_SWORD_STR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_RAMSEY_SWORD_STR**
@@ -1641,7 +1492,6 @@ One-handed weapon bonus|7
 One-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_1H_RAMSEY_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_RAMSEY_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_RAMSEY_SWORD**
@@ -1653,7 +1503,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_1H_FAKEARTIFACT_DOOM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_FAKEARTIFACT_DOOM.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_FAKEARTIFACT_DOOM**
@@ -1663,7 +1512,6 @@ Strength required:|30
 One-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_1H_CORTEZ_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_CORTEZ_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_CORTEZ_SWORD**
@@ -1674,7 +1522,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|3700
 
-|att|value|
 |image| ![ITMW_1H_SWORD_08_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_08_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_08_GENERATE**
@@ -1685,7 +1532,6 @@ Dexterity required:|70
 One-handed weapons|0
 Value:|63
 
-|att|value|
 |image| ![ITMW_1H_SWORD_08_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_08_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_08_NORMAL**
@@ -1695,7 +1541,6 @@ Dexterity required:|70
 One-handed weapons|0
 Value:|700
 
-|att|value|
 |image| ![ITMW_1H_SWORD_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_08**
@@ -1707,7 +1552,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_1H_SWORD_07_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_07_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_07_GENERATE**
@@ -1718,7 +1562,6 @@ Dexterity required:|45
 One-handed weapons|0
 Value:|55
 
-|att|value|
 |image| ![ITMW_1H_SWORD_07_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_07_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_07_NORMAL**
@@ -1728,7 +1571,6 @@ Dexterity required:|45
 One-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_1H_SWORD_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_07**
@@ -1740,7 +1582,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|700
 
-|att|value|
 |image| ![ITMW_1H_SWORD_06_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_06_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_06_NORMAL**
@@ -1750,7 +1591,6 @@ Dexterity required:|120
 One-handed weapons|0
 Value:|1250
 
-|att|value|
 |image| ![ITMW_1H_SWORD_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_06**
@@ -1762,7 +1602,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_1H_SWORD_05_NORMAL_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_05_NORMAL_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_05_NORMAL_GENERATE**
@@ -1773,7 +1612,6 @@ Strength required:|50
 One-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_1H_SWORD_05_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_05_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_05_NORMAL**
@@ -1783,7 +1621,6 @@ Strength required:|50
 One-handed weapons|0
 Value:|350
 
-|att|value|
 |image| ![ITMW_1H_SWORD_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_05**
@@ -1794,7 +1631,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|650
 
-|att|value|
 |image| ![ITMW_1H_SWORD_04_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_04_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_04_GENERATE**
@@ -1805,7 +1641,6 @@ Dexterity required:|60
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_1H_SWORD_04_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_04_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_04_NORMAL**
@@ -1815,7 +1650,6 @@ Dexterity required:|60
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_1H_SWORD_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_04**
@@ -1827,7 +1661,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|800
 
-|att|value|
 |image| ![ITMW_2H_FAKEARTIFACT_DEATH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_FAKEARTIFACT_DEATH.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_FAKEARTIFACT_DEATH**
@@ -1837,7 +1670,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_2H_WS_SWORD_BROKEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_SWORD_BROKEN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_SWORD_BROKEN**
@@ -1847,7 +1679,6 @@ Strength required:|45
 Two-handed weapons|0
 Value:|5
 
-|att|value|
 |image| ![ITMW_2H_WS_SWORD_RUST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_SWORD_RUST.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_SWORD_RUST**
@@ -1857,7 +1688,6 @@ Strength required:|40
 Two-handed weapons|0
 Value:|25
 
-|att|value|
 |image| ![ITMW_2H_WS_SWORD_ULRYK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_SWORD_ULRYK.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_SWORD_ULRYK**
@@ -1868,7 +1698,6 @@ Strength required:|150
 Two-handed weapons|0
 Value:|1950
 
-|att|value|
 |image| ![ITMW_2H_WS_SWORD_DEVIR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_SWORD_DEVIR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_SWORD_DEVIR**
@@ -1879,7 +1708,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_2H_WS_HAMMER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_HAMMER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_HAMMER**
@@ -1890,7 +1718,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_2H_WS_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WS_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WS_SWORD**
@@ -1901,7 +1728,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_1H_SWORD_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_03_GENERATE**
@@ -1913,7 +1739,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|85
 
-|att|value|
 |image| ![ITMW_1H_SWORD_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_03**
@@ -1924,7 +1749,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|1700
 
-|att|value|
 |image| ![ITMW_1H_SWORD_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_02_GENERATE**
@@ -1936,7 +1760,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|28
 
-|att|value|
 |image| ![ITMW_1H_SWORD_02_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_02_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_02_NORMAL**
@@ -1947,7 +1770,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_1H_SWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_02**
@@ -1959,7 +1781,6 @@ Armor piercing + one-handed combat bonus:|6
 One-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_SWORD_01_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_01_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_01_NORMAL**
@@ -1969,7 +1790,6 @@ Strength required:|55
 One-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_SWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_01**
@@ -1980,7 +1800,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|400
 
-|att|value|
 |image| ![ITMW_2H_SWORD_08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_08**
@@ -1990,7 +1809,6 @@ Strength required:|230
 Two-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_2H_SWORD_07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_07**
@@ -2002,7 +1820,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|2300
 
-|att|value|
 |image| ![ITMW_2H_SWORD_06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_06**
@@ -2013,7 +1830,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_2H_SWORD_05_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_05_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_05_NORMAL**
@@ -2023,7 +1839,6 @@ Strength required:|75
 Two-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_2H_SWORD_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_05**
@@ -2035,7 +1850,6 @@ Two-handed talent - Bonus|7
 Two-handed weapons|0
 Value:|1300
 
-|att|value|
 |image| ![ITMW_2H_SWORD_04_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_04_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_04_GENERATE**
@@ -2046,7 +1860,6 @@ Strength required:|90
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_2H_SWORD_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_04**
@@ -2056,7 +1869,6 @@ Strength required:|90
 Two-handed weapons|0
 Value:|1500
 
-|att|value|
 |image| ![ITMW_2H_SWORD_03_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_03_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_03_GENERATE**
@@ -2067,7 +1879,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|109
 
-|att|value|
 |image| ![ITMW_2H_SWORD_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_03**
@@ -2077,7 +1888,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_2H_SWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_02**
@@ -2088,7 +1898,6 @@ Strength required:|60
 Two-handed weapons|0
 Value:|690
 
-|att|value|
 |image| ![ITMW_2H_SWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_01**
@@ -2099,7 +1908,6 @@ Armor piercing + two-handed bonus:|10
 Two-handed weapons|0
 Value:|666
 
-|att|value|
 |image| ![ITMW_1H_SALVISWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SALVISWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SALVISWORD**
@@ -2110,7 +1918,6 @@ Strength required:|80
 One-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_BAU_KNIFE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BAU_KNIFE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BAU_KNIFE**
@@ -2122,7 +1929,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|5
 
-|att|value|
 |image| ![ITMW_2H_WOOD_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_WOOD_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_WOOD_SWORD**
@@ -2133,7 +1939,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_1H_WOOD_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_WOOD_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_WOOD_SWORD**
@@ -2144,7 +1949,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD_LEWKO](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD_LEWKO.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD_LEWKO**
@@ -2155,7 +1959,6 @@ Two-handed talent - Bonus|3
 Two-handed weapons|0
 Value:|125
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD_03**
@@ -2167,7 +1970,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD_02**
@@ -2179,7 +1981,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|750
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD_01**
@@ -2191,7 +1992,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|550
 
-|att|value|
 |image| ![ITMW_1H_MIL_SWORD_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD_03**
@@ -2203,7 +2003,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|750
 
-|att|value|
 |image| ![ITMW_1H_MIL_SWORD_02_ARWID](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD_02_ARWID.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD_02_ARWID**
@@ -2213,7 +2012,6 @@ Strength required:|50
 One-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_1H_MIL_SWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD_02**
@@ -2224,7 +2022,6 @@ Strength required:|50
 One-handed weapons|0
 Value:|350
 
-|att|value|
 |image| ![ITMW_1H_MIL_SWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD_01**
@@ -2235,7 +2032,6 @@ Strength required:|40
 One-handed weapons|0
 Value:|30
 
-|att|value|
 |image| ![ITMW_2H_LUTZ_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_LUTZ_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_LUTZ_SWORD**
@@ -2247,7 +2043,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_1H_LUTZ_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_LUTZ_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_LUTZ_SWORD**
@@ -2259,7 +2054,6 @@ One-handed weapon bonus|10
 One-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD3.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD3**
@@ -2271,7 +2065,6 @@ One-handed weapon bonus|7
 One-handed weapons|0
 Value:|2050
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD2_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD2_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD2_NORMAL**
@@ -2282,7 +2075,6 @@ Armor piercing:|2
 One-handed weapons|0
 Value:|1500
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD2**
@@ -2294,7 +2086,6 @@ Armor piercing:|8
 One-handed weapons|0
 Value:|2300
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD_GENERATE**
@@ -2306,7 +2097,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD_NORMAL**
@@ -2317,7 +2107,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|1200
 
-|att|value|
 |image| ![ITMW_NONE_1H_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_1H_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_1H_SWORD**
@@ -2329,7 +2118,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|1700
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD_GENERATE**
@@ -2340,7 +2128,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_2H_MIL_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_MIL_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_MIL_SWORD**
@@ -2350,7 +2137,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_NONE_2H_SWORD3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_2H_SWORD3.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_2H_SWORD3**
@@ -2362,7 +2148,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_NONE_2H_SWORD2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_2H_SWORD2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_2H_SWORD2**
@@ -2373,7 +2158,6 @@ Armor piercing + two-handed bonus:|5
 Two-handed weapons|0
 Value:|1350
 
-|att|value|
 |image| ![ITMW_NONE_2H_SWORD_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_2H_SWORD_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_2H_SWORD_GENERATE**
@@ -2384,7 +2168,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_NONE_2H_SWORD_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_2H_SWORD_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_2H_SWORD_NORMAL**
@@ -2394,7 +2177,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|250
 
-|att|value|
 |image| ![ITMW_NONE_2H_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NONE_2H_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NONE_2H_SWORD**
@@ -2406,7 +2188,6 @@ Two-handed talent - Bonus|3
 Two-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_FIRM_SWORD_DEX](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_FIRM_SWORD_DEX.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_FIRM_SWORD_DEX**
@@ -2416,7 +2197,6 @@ Dexterity required:|120
 One-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_FIRM_SWORD_STR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_FIRM_SWORD_STR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_FIRM_SWORD_STR**
@@ -2426,7 +2206,6 @@ Strength required:|120
 One-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_1H_KESSEL_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_KESSEL_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_KESSEL_SWORD**
@@ -2436,7 +2215,6 @@ Dexterity required:|100
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_1H_ALENA_SWORD_DEX](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_ALENA_SWORD_DEX.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_ALENA_SWORD_DEX**
@@ -2446,7 +2224,6 @@ Dexterity required:|95
 One-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_1H_ALENA_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_ALENA_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_ALENA_SWORD**
@@ -2456,7 +2233,6 @@ Strength required:|95
 One-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_1H_TIMO_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TIMO_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TIMO_SWORD**
@@ -2467,7 +2243,6 @@ Armor piercing:|7
 One-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_1H_PEACEKEEPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_PEACEKEEPER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_PEACEKEEPER**
@@ -2479,19 +2254,16 @@ One-handed weapon bonus|35
 One-handed weapons|0
 Value:|3000
 
-|att|value|
 |image| ![ITFS_FAKESCROLL_WEAPON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFS_FAKESCROLL_WEAPON.png?raw=true) | 
 |-|-|
 Insert code|**ITFS_FAKESCROLL_WEAPON**
 Name|Paper for Animation
 
-|att|value|
 |image| ![ITFS_BARREL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFS_BARREL.png?raw=true) | 
 |-|-|
 Insert code|**ITFS_BARREL**
 Name|Barrel for Animation
 
-|att|value|
 |image| ![ITMW_1H_TASSACK_05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TASSACK_05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TASSACK_05**
@@ -2502,7 +2274,6 @@ Strength required:|45
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_1H_TASSACK_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TASSACK_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TASSACK_04**
@@ -2513,7 +2284,6 @@ Strength required:|45
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_1H_TASSACK_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TASSACK_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TASSACK_03**
@@ -2524,7 +2294,6 @@ Strength required:|45
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_1H_TASSACK_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TASSACK_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TASSACK_02**
@@ -2535,7 +2304,6 @@ Strength required:|45
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_1H_TASSACK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_TASSACK_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_TASSACK_01**
@@ -2546,7 +2314,6 @@ Strength required:|45
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_2H_SLD_AXE_Q304](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SLD_AXE_Q304.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SLD_AXE_Q304**
@@ -2556,7 +2323,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_1H_MISC_AXE_Q304_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MISC_AXE_Q304_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MISC_AXE_Q304_02**
@@ -2566,7 +2332,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_1H_MISC_AXE_Q304_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MISC_AXE_Q304_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MISC_AXE_Q304_01**
@@ -2576,7 +2341,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_BLESSED_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BLESSED_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BLESSED_03**
@@ -2586,7 +2350,6 @@ Strength required:|120
 Two-handed weapons|0
 Value:|4000
 
-|att|value|
 |image| ![ITMW_2H_BLESSED_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BLESSED_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BLESSED_02**
@@ -2596,7 +2359,6 @@ Strength required:|120
 Two-handed weapons|0
 Value:|3000
 
-|att|value|
 |image| ![ITMW_2H_BLESSED_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BLESSED_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BLESSED_01**
@@ -2608,7 +2370,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|3100
 
-|att|value|
 |image| ![ITMW_1H_BLESSED_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BLESSED_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BLESSED_03**
@@ -2619,7 +2380,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|4000
 
-|att|value|
 |image| ![ITMW_1H_BLESSED_02_SARADOC](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BLESSED_02_SARADOC.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BLESSED_02_SARADOC**
@@ -2629,7 +2389,6 @@ Strength required:|100
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_1H_BLESSED_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BLESSED_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BLESSED_02**
@@ -2639,7 +2398,6 @@ Strength required:|100
 One-handed weapons|0
 Value:|3000
 
-|att|value|
 |image| ![ITMW_1H_BLESSED_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BLESSED_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BLESSED_01**
@@ -2650,7 +2408,6 @@ Strength required:|125
 One-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_2H_SPECIAL_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPECIAL_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPECIAL_04**
@@ -2660,7 +2417,6 @@ Strength required:|165
 Two-handed weapons|0
 Value:|2100
 
-|att|value|
 |image| ![ITMW_1H_SPECIAL_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SPECIAL_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SPECIAL_04**
@@ -2671,7 +2427,6 @@ One-handed weapon bonus|10
 One-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_DRACHENSCHNEIDE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_DRACHENSCHNEIDE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_DRACHENSCHNEIDE**
@@ -2681,7 +2436,6 @@ Strength required:|175
 Two-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_BERSERKERAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BERSERKERAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BERSERKERAXT**
@@ -2691,7 +2445,6 @@ Strength required:|185
 Two-handed weapons|0
 Value:|3000
 
-|att|value|
 |image| ![ITMW_2H_SPECIAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPECIAL_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPECIAL_03**
@@ -2702,7 +2455,6 @@ Two-handed talent - Bonus|10
 One-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_1H_SPECIAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SPECIAL_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SPECIAL_03**
@@ -2713,7 +2465,6 @@ Strength required:|165
 One-handed weapons|0
 Value:|2650
 
-|att|value|
 |image| ![ITMW_STURMBRINGER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STURMBRINGER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STURMBRINGER**
@@ -2723,7 +2474,6 @@ Strength required:|145
 Two-handed weapons|0
 Value:|1500
 
-|att|value|
 |image| ![ITMW_KRUMMSCHWERT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_KRUMMSCHWERT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_KRUMMSCHWERT**
@@ -2733,7 +2483,6 @@ Strength required:|145
 Two-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_SCHLACHTAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHLACHTAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHLACHTAXT**
@@ -2744,7 +2493,6 @@ Armor piercing:|5
 Two-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER4](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER4.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER4**
@@ -2754,7 +2502,6 @@ Strength required:|135
 Two-handed weapons|0
 Value:|1350
 
-|att|value|
 |image| ![ITMW_ORKSCHLAECHTER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ORKSCHLAECHTER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ORKSCHLAECHTER**
@@ -2764,7 +2511,6 @@ Strength required:|130
 One-handed weapons|0
 Value:|1300
 
-|att|value|
 |image| ![ITMW_FOLTERAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_FOLTERAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_FOLTERAXT**
@@ -2775,7 +2521,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|1250
 
-|att|value|
 |image| ![ITMW_MEISTERDEGEN_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_MEISTERDEGEN_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_MEISTERDEGEN_NORMAL**
@@ -2785,7 +2530,6 @@ Dexterity required:|100
 One-handed weapons|0
 Value:|1800
 
-|att|value|
 |image| ![ITMW_MEISTERDEGEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_MEISTERDEGEN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_MEISTERDEGEN**
@@ -2797,7 +2541,6 @@ Armor piercing + one-handed combat bonus:|10
 One-handed weapons|0
 Value:|2400
 
-|att|value|
 |image| ![ITMW_KRIEGSHAMMER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_KRIEGSHAMMER2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_KRIEGSHAMMER2**
@@ -2809,7 +2552,6 @@ Armor piercing:|20
 One-handed weapons|0
 Value:|890
 
-|att|value|
 |image| ![ITMW_ELBASTARDO](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ELBASTARDO.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ELBASTARDO**
@@ -2819,7 +2561,6 @@ Strength required:|140
 One-handed weapons|0
 Value:|1300
 
-|att|value|
 |image| ![ITMW_2H_SPECIAL_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPECIAL_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPECIAL_02**
@@ -2830,7 +2571,6 @@ Strength required:|110
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_1H_SPECIAL_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SPECIAL_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SPECIAL_02**
@@ -2842,7 +2582,6 @@ Armor piercing + one-handed combat bonus:|7
 One-handed weapons|0
 Value:|5000
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER3.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER3**
@@ -2852,7 +2591,6 @@ Strength required:|115
 Two-handed weapons|0
 Value:|1150
 
-|att|value|
 |image| ![ITMW_STREITAXT2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STREITAXT2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STREITAXT2**
@@ -2862,7 +2600,6 @@ Strength required:|115
 Two-handed weapons|0
 Value:|1700
 
-|att|value|
 |image| ![ITMW_INQUISITOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_INQUISITOR.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_INQUISITOR**
@@ -2874,7 +2611,6 @@ Armor piercing:|20
 One-handed weapons|0
 Value:|1370
 
-|att|value|
 |image| ![ITMW_SCHWERT5](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT5.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT5**
@@ -2885,7 +2621,6 @@ Dexterity required:|160
 One-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_RABENSCHNABEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RABENSCHNABEL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RABENSCHNABEL**
@@ -2896,7 +2631,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|1250
 
-|att|value|
 |image| ![ITMW_RUNENSCHWERT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RUNENSCHWERT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RUNENSCHWERT**
@@ -2906,7 +2640,6 @@ Strength required:|150
 One-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER2_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER2_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER2_GENERATE**
@@ -2916,7 +2649,6 @@ Strength required:|105
 Two-handed weapons|0
 Value:|77
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER2**
@@ -2926,7 +2658,6 @@ Strength required:|105
 Two-handed weapons|0
 Value:|930
 
-|att|value|
 |image| ![ITMW_STREITKOLBEN_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STREITKOLBEN_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STREITKOLBEN_GENERATE**
@@ -2937,7 +2668,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_STREITKOLBEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STREITKOLBEN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STREITKOLBEN**
@@ -2948,7 +2678,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_RUBINKLINGE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RUBINKLINGE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RUBINKLINGE**
@@ -2959,7 +2688,6 @@ One-handed weapon bonus|7
 One-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_RAPIER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RAPIER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RAPIER**
@@ -2970,7 +2698,6 @@ One-handed weapon bonus|8
 One-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_2H_SPECIAL_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SPECIAL_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SPECIAL_01**
@@ -2982,7 +2709,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|1600
 
-|att|value|
 |image| ![ITMW_1H_SPECIAL_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SPECIAL_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SPECIAL_01**
@@ -2994,7 +2720,6 @@ One-handed weapon bonus|10
 One-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_SCHWERT4](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT4.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT4**
@@ -3005,7 +2730,6 @@ Strength required:|70
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_SCHWERT3_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT3_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT3_GENERATE**
@@ -3015,7 +2739,6 @@ Strength required:|85
 One-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_SCHWERT3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT3.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT3**
@@ -3025,7 +2748,6 @@ Strength required:|85
 One-handed weapons|0
 Value:|850
 
-|att|value|
 |image| ![ITMW_MORGENSTERN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_MORGENSTERN.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_MORGENSTERN**
@@ -3037,7 +2759,6 @@ Armor piercing:|25
 One-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_BARTAXT_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BARTAXT_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BARTAXT_GENERATE**
@@ -3048,7 +2769,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|75
 
-|att|value|
 |image| ![ITMW_BARTAXT_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BARTAXT_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BARTAXT_NORMAL**
@@ -3059,7 +2779,6 @@ Armor piercing + one-handed combat bonus:|2
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_BARTAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_BARTAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_BARTAXT**
@@ -3071,7 +2790,6 @@ Armor piercing + one-handed combat bonus:|10
 One-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_DOPPELAXT_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_DOPPELAXT_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_DOPPELAXT_GENERATE**
@@ -3081,7 +2799,6 @@ Strength required:|80
 One-handed weapons|0
 Value:|75
 
-|att|value|
 |image| ![ITMW_DOPPELAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_DOPPELAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_DOPPELAXT**
@@ -3091,7 +2808,6 @@ Strength required:|80
 One-handed weapons|0
 Value:|900
 
-|att|value|
 |image| ![ITMW_SCHWERT2_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT2_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT2_GENERATE**
@@ -3101,7 +2817,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|183
 
-|att|value|
 |image| ![ITMW_SCHWERT2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT2**
@@ -3111,7 +2826,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|550
 
-|att|value|
 |image| ![ITMW_SCHWERT1_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT1_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT1_GENERATE**
@@ -3122,7 +2836,6 @@ One-handed weapon bonus|4
 One-handed weapons|0
 Value:|42
 
-|att|value|
 |image| ![ITMW_SCHWERT1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT1.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT1**
@@ -3133,7 +2846,6 @@ One-handed weapon bonus|10
 One-handed weapons|0
 Value:|510
 
-|att|value|
 |image| ![ITMW_STREITAXT1_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STREITAXT1_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STREITAXT1_GENERATE**
@@ -3143,7 +2855,6 @@ Strength required:|40
 Two-handed weapons|0
 Value:|28
 
-|att|value|
 |image| ![ITMW_STREITAXT1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STREITAXT1.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STREITAXT1**
@@ -3153,7 +2864,6 @@ Strength required:|40
 Two-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_SPICKER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SPICKER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SPICKER**
@@ -3165,7 +2875,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|700
 
-|att|value|
 |image| ![ITMW_STEINBRECHER_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STEINBRECHER_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STEINBRECHER_GENERATE**
@@ -3176,7 +2885,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|114
 
-|att|value|
 |image| ![ITMW_STEINBRECHER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STEINBRECHER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STEINBRECHER**
@@ -3187,7 +2895,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|800
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER1_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER1_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER1_GENERATE**
@@ -3197,7 +2904,6 @@ Strength required:|50
 Two-handed weapons|0
 Value:|40
 
-|att|value|
 |image| ![ITMW_ZWEIHAENDER1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ZWEIHAENDER1.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ZWEIHAENDER1**
@@ -3207,7 +2913,6 @@ Strength required:|50
 Two-handed weapons|0
 Value:|400
 
-|att|value|
 |image| ![ITMW_STABKEULE_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STABKEULE_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STABKEULE_GENERATE**
@@ -3217,7 +2922,6 @@ Dexterity required:|70
 Two-handed weapons|0
 Value:|86
 
-|att|value|
 |image| ![ITMW_STABKEULE_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STABKEULE_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STABKEULE_NORMAL**
@@ -3227,7 +2931,6 @@ Dexterity required:|70
 Two-handed weapons|0
 Value:|950
 
-|att|value|
 |image| ![ITMW_STABKEULE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_STABKEULE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_STABKEULE**
@@ -3239,7 +2942,6 @@ Armor piercing + two-handed bonus:|10
 Two-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_1H_COMMON_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_COMMON_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_COMMON_01**
@@ -3251,7 +2953,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|300
 
-|att|value|
 |image| ![ITMW_SCHWERT_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT_GENERATE**
@@ -3261,7 +2962,6 @@ Strength required:|65
 One-handed weapons|0
 Value:|130
 
-|att|value|
 |image| ![ITMW_SCHWERT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHWERT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHWERT**
@@ -3271,7 +2971,6 @@ Strength required:|65
 One-handed weapons|0
 Value:|650
 
-|att|value|
 |image| ![ITMW_PIRATENSAEBEL_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PIRATENSAEBEL_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PIRATENSAEBEL_GENERATE**
@@ -3281,7 +2980,6 @@ Dexterity required:|60
 One-handed weapons|0
 Value:|41
 
-|att|value|
 |image| ![ITMW_PIRATENSAEBEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PIRATENSAEBEL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PIRATENSAEBEL**
@@ -3291,7 +2989,6 @@ Dexterity required:|60
 One-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_SCHIFFSAXT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SCHIFFSAXT.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SCHIFFSAXT**
@@ -3301,7 +2998,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_NAGELKEULE2_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NAGELKEULE2_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NAGELKEULE2_GENERATE**
@@ -3312,7 +3008,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|56
 
-|att|value|
 |image| ![ITMW_NAGELKEULE2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NAGELKEULE2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NAGELKEULE2**
@@ -3323,7 +3018,6 @@ Armor piercing:|15
 One-handed weapons|0
 Value:|170
 
-|att|value|
 |image| ![ITMW_HELLEBARDE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_HELLEBARDE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_HELLEBARDE**
@@ -3335,7 +3029,6 @@ Two-handed talent - Bonus|7
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_KRIEGSHAMMER1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_KRIEGSHAMMER1.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_KRIEGSHAMMER1**
@@ -3346,7 +3039,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|420
 
-|att|value|
 |image| ![ITMW_SHORTSWORD5](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD5.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD5**
@@ -3357,7 +3049,6 @@ Strength required:|25
 One-handed weapons|0
 Value:|650
 
-|att|value|
 |image| ![ITMW_RICHTSTAB_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RICHTSTAB_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RICHTSTAB_NORMAL**
@@ -3367,7 +3058,6 @@ Dexterity required:|40
 Two-handed weapons|0
 Value:|300
 
-|att|value|
 |image| ![ITMW_RICHTSTAB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RICHTSTAB.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RICHTSTAB**
@@ -3379,7 +3069,6 @@ Armor piercing:|10
 Two-handed weapons|0
 Value:|400
 
-|att|value|
 |image| ![ITMW_KRIEGSKEULE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_KRIEGSKEULE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_KRIEGSKEULE**
@@ -3390,7 +3079,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|350
 
-|att|value|
 |image| ![ITMW_SHORTSWORD4](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD4.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD4**
@@ -3402,7 +3090,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|550
 
-|att|value|
 |image| ![ITMW_NAGELKEULE_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NAGELKEULE_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NAGELKEULE_GENERATE**
@@ -3413,7 +3100,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|62
 
-|att|value|
 |image| ![ITMW_NAGELKEULE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NAGELKEULE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NAGELKEULE**
@@ -3424,7 +3110,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|250
 
-|att|value|
 |image| ![ITMW_SHORTSWORD3_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD3_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD3_GENERATE**
@@ -3434,7 +3119,6 @@ Strength required:|30
 One-handed weapons|0
 Value:|66
 
-|att|value|
 |image| ![ITMW_SHORTSWORD3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD3.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD3**
@@ -3444,7 +3128,6 @@ Strength required:|30
 One-handed weapons|0
 Value:|200
 
-|att|value|
 |image| ![ITMW_2H_ORCSWORD_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCSWORD_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCSWORD_02**
@@ -3454,7 +3137,6 @@ Strength required:|120
 Two-handed weapons|0
 Value:|30
 
-|att|value|
 |image| ![ITMW_2H_ORCSWORD_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCSWORD_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCSWORD_01**
@@ -3464,7 +3146,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|25
 
-|att|value|
 |image| ![ITMW_2H_ORCAXE_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCAXE_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCAXE_04**
@@ -3474,7 +3155,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|25
 
-|att|value|
 |image| ![ITMW_2H_ORCAXE_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCAXE_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCAXE_03**
@@ -3484,7 +3164,6 @@ Strength required:|90
 Two-handed weapons|0
 Value:|20
 
-|att|value|
 |image| ![ITMW_2H_ORCAXE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCAXE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCAXE_02**
@@ -3494,7 +3173,6 @@ Strength required:|80
 Two-handed weapons|0
 Value:|15
 
-|att|value|
 |image| ![ITMW_2H_ORCAXE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_ORCAXE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_ORCAXE_01**
@@ -3504,7 +3182,6 @@ Strength required:|70
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_PAL_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_PAL_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_PAL_SWORD**
@@ -3514,7 +3191,6 @@ Strength required:|110
 Two-handed weapons|0
 Value:|800
 
-|att|value|
 |image| ![ITMW_1H_PAL_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_PAL_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_PAL_SWORD**
@@ -3525,7 +3201,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|1700
 
-|att|value|
 |image| ![ITMW_2H_SLD_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SLD_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SLD_SWORD**
@@ -3536,7 +3211,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|60
 
-|att|value|
 |image| ![ITMW_2H_SLD_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SLD_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SLD_AXE**
@@ -3546,7 +3220,6 @@ Strength required:|30
 Two-handed weapons|0
 Value:|100
 
-|att|value|
 |image| ![ITMW_1H_SLD_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SLD_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SLD_SWORD**
@@ -3556,7 +3229,6 @@ Strength required:|20
 One-handed weapons|0
 Value:|40
 
-|att|value|
 |image| ![ITMW_1H_SLD_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SLD_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SLD_AXE**
@@ -3566,7 +3238,6 @@ Strength required:|35
 One-handed weapons|0
 Value:|125
 
-|att|value|
 |image| ![ITMW_1H_MIL_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD**
@@ -3576,7 +3247,6 @@ Strength required:|15
 One-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_2H_SWORD_M_01_SUMMONSKELETON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_M_01_SUMMONSKELETON.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_M_01_SUMMONSKELETON**
@@ -3587,7 +3257,6 @@ Strength required:|35
 Two-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_2H_SWORD_M_01_SKELETON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_M_01_SKELETON.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_M_01_SKELETON**
@@ -3598,7 +3267,6 @@ Strength required:|35
 Two-handed weapons|0
 Value:|29
 
-|att|value|
 |image| ![ITMW_2H_SWORD_M_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_SWORD_M_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_SWORD_M_01**
@@ -3608,7 +3276,6 @@ Strength required:|35
 Two-handed weapons|0
 Value:|145
 
-|att|value|
 |image| ![ITMW_1H_MISC_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MISC_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MISC_AXE**
@@ -3618,7 +3285,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_1H_MISC_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MISC_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MISC_SWORD**
@@ -3628,7 +3294,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_2H_AXE_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_AXE_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_AXE_L_01**
@@ -3639,7 +3304,6 @@ Strength required:|10
 Two-handed weapons|0
 Value:|45
 
-|att|value|
 |image| ![ITMW_2H_BAU_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_2H_BAU_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_2H_BAU_AXE**
@@ -3650,7 +3314,6 @@ Strength required:|20
 Two-handed weapons|0
 Value:|45
 
-|att|value|
 |image| ![ITMW_1H_NOV_MACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_NOV_MACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_NOV_MACE**
@@ -3661,7 +3324,6 @@ Dexterity required:|15
 Two-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_1H_VLK_SWORD_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_SWORD_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_SWORD_GENERATE**
@@ -3672,7 +3334,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|31
 
-|att|value|
 |image| ![ITMW_1H_VLK_SWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_SWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_SWORD**
@@ -3683,7 +3344,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|125
 
-|att|value|
 |image| ![ITMW_SENSE_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SENSE_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SENSE_GENERATE**
@@ -3694,7 +3354,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|18
 
-|att|value|
 |image| ![ITMW_SENSE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SENSE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SENSE**
@@ -3705,7 +3364,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_SHORTSWORD2_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD2_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD2_GENERATE**
@@ -3715,7 +3373,6 @@ Strength required:|20
 One-handed weapons|0
 Value:|23
 
-|att|value|
 |image| ![ITMW_SHORTSWORD2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD2.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD2**
@@ -3725,7 +3382,6 @@ Strength required:|20
 One-handed weapons|0
 Value:|70
 
-|att|value|
 |image| ![ITMW_1H_SWORD_L_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SWORD_L_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_SWORD_L_03**
@@ -3735,7 +3391,6 @@ Dexterity required:|15
 One-handed weapons|0
 Value:|120
 
-|att|value|
 |image| ![ITMW_NAGELKNUEPPEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_NAGELKNUEPPEL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_NAGELKNUEPPEL**
@@ -3746,7 +3401,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|90
 
-|att|value|
 |image| ![ITMW_SHORTSWORD1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_SHORTSWORD1.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_SHORTSWORD1**
@@ -3757,7 +3411,6 @@ Strength required:|20
 One-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_1H_MACE_L_04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_L_04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_L_04**
@@ -3769,7 +3422,6 @@ Armor piercing + one-handed combat bonus:|5
 One-handed weapons|0
 Value:|35
 
-|att|value|
 |image| ![ITMW_1H_VLK_AXE_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_AXE_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_AXE_GENERATE**
@@ -3780,7 +3432,6 @@ Strength required:|15
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_1H_VLK_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_AXE**
@@ -3790,7 +3441,6 @@ Strength required:|15
 One-handed weapons|0
 Value:|50
 
-|att|value|
 |image| ![ITMW_1H_BAU_MACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BAU_MACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BAU_MACE**
@@ -3801,7 +3451,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|1
 
-|att|value|
 |image| ![ITMW_1H_MACE_L_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_L_03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_L_03**
@@ -3811,7 +3460,6 @@ Strength required:|10
 One-handed weapons|0
 Value:|5
 
-|att|value|
 |image| ![ITMW_1H_VLK_MACE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_MACE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_MACE**
@@ -3821,7 +3469,6 @@ Dexterity required:|5
 One-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_1H_BAU_AXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_BAU_AXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_BAU_AXE**
@@ -3831,7 +3478,6 @@ Strength required:|5
 One-handed weapons|0
 Value:|10
 
-|att|value|
 |image| ![ITMW_1H_MACE_L_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_L_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_L_01**
@@ -3842,7 +3488,6 @@ Armor piercing:|5
 One-handed weapons|0
 Value:|5
 
-|att|value|
 |image| ![ITMW_1H_VLK_DAGGER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_VLK_DAGGER.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_VLK_DAGGER**
@@ -3853,7 +3498,6 @@ Armor piercing + one-handed combat bonus:|3
 One-handed weapons|0
 Value:|40
 
-|att|value|
 |image| ![ITMW_ADDON_BETTY_NORMAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_BETTY_NORMAL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_BETTY_NORMAL**
@@ -3863,7 +3507,6 @@ Dexterity required:|110
 One-handed weapons|0
 Value:|1400
 
-|att|value|
 |image| ![ITMW_ADDON_BETTY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_BETTY.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_BETTY**
@@ -3874,7 +3517,6 @@ Dexterity required:|125
 One-handed weapons|0
 Value:|1300
 
-|att|value|
 |image| ![ITMW_ADDON_PIR1HSWORD_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR1HSWORD_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR1HSWORD_GENERATE**
@@ -3886,7 +3528,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|60
 
-|att|value|
 |image| ![ITMW_ADDON_PIR1HSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR1HSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR1HSWORD**
@@ -3897,7 +3538,6 @@ One-handed weapon bonus|5
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_ADDON_PIR1HAXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR1HAXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR1HAXE**
@@ -3907,7 +3547,6 @@ Strength required:|60
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_ADDON_PIR2HSWORD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR2HSWORD.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR2HSWORD**
@@ -3918,7 +3557,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|2700
 
-|att|value|
 |image| ![ITMW_ADDON_PIR2HAXE_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR2HAXE_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR2HAXE_GENERATE**
@@ -3930,7 +3568,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|72
 
-|att|value|
 |image| ![ITMW_ADDON_PIR2HAXE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_PIR2HAXE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_PIR2HAXE**
@@ -3941,7 +3578,6 @@ Two-handed talent - Bonus|5
 Two-handed weapons|0
 Value:|1450
 
-|att|value|
 |image| ![ITMW_RANGERSTAFF_ADDON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_RANGERSTAFF_ADDON.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_RANGERSTAFF_ADDON**
@@ -3952,7 +3588,6 @@ Two-handed talent - Bonus|10
 Two-handed weapons|0
 Value:|450
 
-|att|value|
 |image| ![ITMW_ADDON_KEULE_2H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_KEULE_2H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_KEULE_2H_01**
@@ -3963,7 +3598,6 @@ Two-handed weapon combat penalty|10
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_ADDON_KEULE_1H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_KEULE_1H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_KEULE_1H_01**
@@ -3974,7 +3608,6 @@ Strength required:|20
 Two-handed weapons|0
 Value:|25
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_2H_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_2H_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_2H_02**
@@ -3985,7 +3618,6 @@ Strength required:|110
 Two-handed weapons|0
 Value:|1850
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_2H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_2H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_2H_01**
@@ -3995,7 +3627,6 @@ Strength required:|100
 Two-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_1H_02_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_1H_02_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_1H_02_GENERATE**
@@ -4007,7 +3638,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|60
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_1H_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_1H_02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_1H_02**
@@ -4018,7 +3648,6 @@ Armor piercing:|10
 One-handed weapons|0
 Value:|600
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_1H_01_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_1H_01_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_1H_01_GENERATE**
@@ -4029,7 +3658,6 @@ Strength required:|90
 One-handed weapons|0
 Value:|91
 
-|att|value|
 |image| ![ITMW_ADDON_HACKER_1H_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_HACKER_1H_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_HACKER_1H_01**
@@ -4039,7 +3667,6 @@ Strength required:|90
 One-handed weapons|0
 Value:|1100
 
-|att|value|
 |image| ![ITMW_ADDON_STAB08](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB08.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB08**
@@ -4050,7 +3677,6 @@ Armor piercing:|100
 Two-handed weapons|0
 Value:|2500
 
-|att|value|
 |image| ![ITMW_ADDON_STAB07](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB07.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB07**
@@ -4061,7 +3687,6 @@ Armor piercing:|65
 Two-handed weapons|0
 Value:|1500
 
-|att|value|
 |image| ![ITMW_ADDON_STAB06](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB06.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB06**
@@ -4072,7 +3697,6 @@ Armor piercing:|25
 Two-handed weapons|0
 Value:|500
 
-|att|value|
 |image| ![ITMW_ADDON_STAB05](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB05.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB05**
@@ -4083,7 +3707,6 @@ Armor piercing:|120
 Two-handed weapons|0
 Value:|3500
 
-|att|value|
 |image| ![ITMW_ADDON_STAB04](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB04.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB04**
@@ -4094,7 +3717,6 @@ Armor piercing:|15
 Two-handed weapons|0
 Value:|150
 
-|att|value|
 |image| ![ITMW_ADDON_STAB03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB03.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB03**
@@ -4105,7 +3727,6 @@ Armor piercing:|80
 Two-handed weapons|0
 Value:|2000
 
-|att|value|
 |image| ![ITMW_ADDON_STAB02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB02.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB02**
@@ -4116,7 +3737,6 @@ Armor piercing:|35
 Two-handed weapons|0
 Value:|750
 
-|att|value|
 |image| ![ITMW_ADDON_STAB01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_STAB01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_STAB01**
@@ -4127,7 +3747,6 @@ Armor piercing:|50
 Two-handed weapons|0
 Value:|1000
 
-|att|value|
 |image| ![ITMW_ADDON_KNIFE01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_ADDON_KNIFE01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_ADDON_KNIFE01**

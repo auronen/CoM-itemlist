@@ -1,4 +1,3 @@
-|att|value|
 |image| ![ITPL_SEAWEED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_SEAWEED.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_SEAWEED**
@@ -8,7 +7,6 @@ water bodies. Bitter to the taste.|0
 Hitpoint bonus:|60
 Value:|25
 
-|att|value|
 |image| ![ITPL_EASTVIOLET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_EASTVIOLET.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_EASTVIOLET**
@@ -19,7 +17,6 @@ Hitpoint bonus:|7
 Mana bonus:|7
 Value:|30
 
-|att|value|
 |image| ![ITPL_EARTHALOES](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_EARTHALOES.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_EARTHALOES**
@@ -30,7 +27,6 @@ Loved by the trolls.|0
 Provides a permanent +1 to each immunity.|0
 Value:|500
 
-|att|value|
 |image| ![ITPL_CRIVER_MIRT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_CRIVER_MIRT.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_CRIVER_MIRT**
@@ -38,7 +34,6 @@ Name|Almost digested river myrtle
 Stinky and sticky|0
 piece of river myrtle.|0
 
-|att|value|
 |image| ![ITPL_RIVER_MIRT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_RIVER_MIRT.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_RIVER_MIRT**
@@ -48,7 +43,6 @@ A frequent ingredient of soups.|0
 Mana bonus:|5
 Value:|15
 
-|att|value|
 |image| ![ITMIS_SQ509_PLANT_USED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ509_PLANT_USED.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ509_PLANT_USED**
@@ -56,7 +50,6 @@ Name|Digested scorching fire root
 Over-digested steaming fire root.|0
 It's sticky and smells awful.|0
 
-|att|value|
 |image| ![ITMIS_SQ509_PLANT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ509_PLANT.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ509_PLANT**
@@ -64,7 +57,6 @@ Name|Scorching fire root
 The plant resembles a fire root.|0
 It burns hands when you touch it and smells like sulfur.|0
 
-|att|value|
 |image| ![ITFO_STANSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_STANSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_STANSTEW**
@@ -72,14 +64,12 @@ Name|Stan's dish
 The dish that Stan died from.|0
 Maybe it's best not to try it...|0
 
-|att|value|
 |image| ![ITMI_WOLFBERRY2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_WOLFBERRY2.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_WOLFBERRY2**
 Name|Dried wolfberries
 Maybe it's best not to try it...|0
 
-|att|value|
 |image| ![ITMI_WOLFBERRY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_WOLFBERRY.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_WOLFBERRY**
@@ -87,7 +77,6 @@ Name|Dried wolfberries
 The berries I found with Fox.|0
 Maybe it's best not to try it...|0
 
-|att|value|
 |image| ![ITFO_CODFISHSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CODFISHSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CODFISHSTEW**
@@ -98,7 +87,6 @@ Hitpoint bonus:|20
 Strength bonus:|1
 Value:|8
 
-|att|value|
 |image| ![ITFO_MARTHSOUP2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MARTHSOUP2.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MARTHSOUP2**
@@ -108,7 +96,6 @@ poured into a larger bowl.|0
 Hitpoint bonus:|60
 Value:|40
 
-|att|value|
 |image| ![ITFO_MARTHSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MARTHSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MARTHSOUP**
@@ -117,14 +104,12 @@ Martha's delicious stew.|0
 Hitpoint bonus:|30
 Value:|20
 
-|att|value|
 |image| ![ITMIS_SQ116_VINE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ116_VINE.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ116_VINE**
 Name|Bottle of Suspicious Wine
 Gumbert told me to try this wine.|0
 
-|att|value|
 |image| ![ITMIS_SQ127_VINE_READY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ127_VINE_READY.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ127_VINE_READY**
@@ -134,7 +119,6 @@ with my help.|0
 Maximum hitpoints bonus:|2
 Value:|250
 
-|att|value|
 |image| ![ITMIS_SQ127_VINE_UNREADY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ127_VINE_UNREADY.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ127_VINE_UNREADY**
@@ -142,7 +126,6 @@ Name|Maturing wine
 A bottle of aging wine.|0
 Gumbert asked me to put it on the shelf.|0
 
-|att|value|
 |image| ![ITMIS_Q108_SPECIALPLANT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_Q108_SPECIALPLANT.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_Q108_SPECIALPLANT**
@@ -150,7 +133,6 @@ Name|Grated healing root
 One of the ingredients needed|0
 for Jorn's herbal bandage.|0
 
-|att|value|
 |image| ![ITFO_WINEVALERIO](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINEVALERIO.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINEVALERIO**
@@ -160,7 +142,6 @@ Hitpoint bonus:|25
 Mana bonus:|25
 Value:|35
 
-|att|value|
 |image| ![ITFO_WINE_ERNESTO_SPECIAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_ERNESTO_SPECIAL.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_ERNESTO_SPECIAL**
@@ -172,7 +153,6 @@ Maximum hitpoints bonus:|3
 Maximum mana bonus:|2
 Value:|1500
 
-|att|value|
 |image| ![ITFO_WINE_ERNESTO_MANA](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_ERNESTO_MANA.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_ERNESTO_MANA**
@@ -183,7 +163,6 @@ Maximum mana bonus:|2
 Mana bonus:|55
 Value:|550
 
-|att|value|
 |image| ![ITFO_WINE_ERNESTO_DEX](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_ERNESTO_DEX.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_ERNESTO_DEX**
@@ -194,7 +173,6 @@ Dexterity bonus:|1
 Mana bonus:|40
 Value:|550
 
-|att|value|
 |image| ![ITFO_WINE_ERNESTO_STR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_ERNESTO_STR.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_ERNESTO_STR**
@@ -205,7 +183,6 @@ Strength bonus:|1
 Mana bonus:|40
 Value:|550
 
-|att|value|
 |image| ![ITFO_MARTHSOUP4](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MARTHSOUP4.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MARTHSOUP4**
@@ -216,7 +193,6 @@ Strength bonus:|3
 Hitpoint bonus:|210
 Value:|40
 
-|att|value|
 |image| ![ITFO_WEEDSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WEEDSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WEEDSTEW**
@@ -227,7 +203,6 @@ people starving.|0
 Hitpoint bonus:|13
 Value:|5
 
-|att|value|
 |image| ![ITFO_MARTHSOUP3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MARTHSOUP3.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MARTHSOUP3**
@@ -236,7 +211,6 @@ Martha's delicious stew.|0
 Hitpoint bonus:|180
 Value:|40
 
-|att|value|
 |image| ![ITFO_SLAGERMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SLAGERMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SLAGERMEAT**
@@ -246,7 +220,6 @@ and the herbs give it a strong flavor.|0
 Instantly gets on your feet and strengthens your body.|0
 Value:|500
 
-|att|value|
 |image| ![ITFO_BLUESTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BLUESTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BLUESTEW**
@@ -256,7 +229,6 @@ Mana bonus:|2
 Maximum mana bonus:|0
 Value:|50
 
-|att|value|
 |image| ![ITFO_REDSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_REDSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_REDSTEW**
@@ -266,7 +238,6 @@ Hitpoint bonus:|55
 Maximum hitpoints bonus:|2
 Value:|50
 
-|att|value|
 |image| ![ITFO_BATSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BATSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BATSTEW**
@@ -276,7 +247,6 @@ It's probably refreshing and nourishing.|0
 Hitpoint bonus:|33
 Value:|50
 
-|att|value|
 |image| ![ITFO_TROLLSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_TROLLSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_TROLLSOUP**
@@ -288,7 +258,6 @@ Weapons protection:|3
 Maximum hitpoints bonus:|5
 Value:|1400
 
-|att|value|
 |image| ![ITFO_HERBFISHSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HERBFISHSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HERBFISHSOUP**
@@ -299,7 +268,6 @@ Hitpoint bonus:|40
 Mana bonus:|10
 Value:|18
 
-|att|value|
 |image| ![ITFO_SPICYFISH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SPICYFISH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SPICYFISH**
@@ -310,7 +278,6 @@ reminds us of the overseas conquests of Archolos.|0
 Hitpoint bonus:|65
 Value:|30
 
-|att|value|
 |image| ![ITFO_APPLEPIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_APPLEPIE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_APPLEPIE**
@@ -321,7 +288,6 @@ Preserves the natural properties of apples.|0
 Hitpoint bonus:|80
 Value:|33
 
-|att|value|
 |image| ![ITFO_EXOTICDESSERT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_EXOTICDESSERT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_EXOTICDESSERT**
@@ -332,7 +298,6 @@ Hitpoint bonus:|125
 Mana bonus:|30
 Value:|65
 
-|att|value|
 |image| ![ITFO_RASPBERRYTINCTURE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_RASPBERRYTINCTURE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_RASPBERRYTINCTURE**
@@ -342,7 +307,6 @@ It is extremely easy to drink too much of it.|0
 Mana bonus:|80
 Value:|45
 
-|att|value|
 |image| ![ITFO_GRAPEJUICE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_GRAPEJUICE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_GRAPEJUICE**
@@ -354,7 +318,6 @@ Hitpoint bonus:|28
 Mana bonus:|10
 Value:|13
 
-|att|value|
 |image| ![ITFO_RASPBERRYDRINK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_RASPBERRYDRINK.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_RASPBERRYDRINK**
@@ -364,7 +327,6 @@ Hitpoint bonus:|45
 Mana bonus:|8
 Value:|21
 
-|att|value|
 |image| ![ITFO_BERRYCOMPOTE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BERRYCOMPOTE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BERRYCOMPOTE**
@@ -374,7 +336,6 @@ orientally spiced.|0
 Hitpoint bonus:|30
 Value:|12
 
-|att|value|
 |image| ![ITFO_SIMPLEOYSTERS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SIMPLEOYSTERS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SIMPLEOYSTERS**
@@ -385,7 +346,6 @@ Hitpoint bonus:|35
 Mana bonus:|15
 Value:|17
 
-|att|value|
 |image| ![ITFO_DEXDUMPLINGS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_DEXDUMPLINGS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_DEXDUMPLINGS**
@@ -397,7 +357,6 @@ Hitpoint bonus:|500
 Mana bonus:|200
 Value:|1400
 
-|att|value|
 |image| ![ITFO_STRENGTHJAM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_STRENGTHJAM.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_STRENGTHJAM**
@@ -408,7 +367,6 @@ Hitpoint bonus:|500
 Strength bonus:|3
 Value:|1400
 
-|att|value|
 |image| ![ITFO_BERRYJAM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BERRYJAM.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BERRYJAM**
@@ -419,7 +377,6 @@ Hitpoint bonus:|20
 Mana bonus:|5
 Value:|10
 
-|att|value|
 |image| ![ITFO_HERBMUSHROOMBREWING](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HERBMUSHROOMBREWING.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HERBMUSHROOMBREWING**
@@ -430,7 +387,6 @@ Hitpoint bonus:|130
 Mana bonus:|50
 Value:|65
 
-|att|value|
 |image| ![ITFO_MEATPACKS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MEATPACKS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MEATPACKS**
@@ -440,7 +396,6 @@ and simmered in a big pot.|0
 Hitpoint bonus:|55
 Value:|21
 
-|att|value|
 |image| ![ITFO_SMOKEDHERBFISH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SMOKEDHERBFISH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SMOKEDHERBFISH**
@@ -451,7 +406,6 @@ Hitpoint bonus:|40
 Mana bonus:|5
 Value:|16
 
-|att|value|
 |image| ![ITFO_SPEEDSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SPEEDSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SPEEDSTEW**
@@ -462,7 +416,6 @@ Hitpoint bonus:|75
 Duration (secs)|150
 Value:|45
 
-|att|value|
 |image| ![ITFO_HUNTERSPECIAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HUNTERSPECIAL.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HUNTERSPECIAL**
@@ -472,7 +425,6 @@ made up of their basic loot.|0
 Hitpoint bonus:|50
 Value:|17
 
-|att|value|
 |image| ![ITFO_BEARSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEARSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEARSTEW**
@@ -483,7 +435,6 @@ Hitpoint bonus:|200
 Maximum hitpoints bonus:|5
 Value:|100
 
-|att|value|
 |image| ![ITFO_FATSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FATSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FATSTEW**
@@ -495,7 +446,6 @@ Hitpoint bonus:|55
 Mana bonus:|7
 Value:|19
 
-|att|value|
 |image| ![ITFO_VEGEPIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_VEGEPIE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_VEGEPIE**
@@ -506,7 +456,6 @@ Suitable for taking on the travel.|0
 Hitpoint bonus:|50
 Value:|22
 
-|att|value|
 |image| ![ITFO_SPICYPIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SPICYPIE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SPICYPIE**
@@ -516,7 +465,6 @@ Often served by housewives for breakfast.|0
 Hitpoint bonus:|65
 Value:|31
 
-|att|value|
 |image| ![ITFO_BEERFISH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEERFISH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEERFISH**
@@ -527,7 +475,6 @@ Hitpoint bonus:|35
 Mana bonus:|20
 Value:|14
 
-|att|value|
 |image| ![ITFO_POOREGGS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_POOREGGS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POOREGGS**
@@ -538,7 +485,6 @@ who wants to gain strength in the morning.|0
 Hitpoint bonus:|45
 Value:|19
 
-|att|value|
 |image| ![ITFO_SHEPARDROAST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SHEPARDROAST.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SHEPARDROAST**
@@ -549,7 +495,6 @@ Hitpoint bonus:|120
 Mana bonus:|25
 Value:|55
 
-|att|value|
 |image| ![ITFO_BREADSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BREADSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BREADSOUP**
@@ -559,7 +504,6 @@ that can be found in the pantries of the poor.|0
 Hitpoint bonus:|40
 Value:|17
 
-|att|value|
 |image| ![ITFO_PICKLEDMUSHROOMS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_PICKLEDMUSHROOMS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_PICKLEDMUSHROOMS**
@@ -570,18 +514,16 @@ Hitpoint bonus:|25
 Mana bonus:|55
 Value:|35
 
-|att|value|
 |image| ![ITFO_POORPATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_POORPATE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POORPATE**
-Name|P√¢t√© from leftovers
+Name|P‚tÈ from leftovers
 Nobody wants to know|0
-what leftovers were used to make this p√¢t√©,|0
+what leftovers were used to make this p‚tÈ,|0
 but anyone who's hungry will eat it with relish.|0
 Hitpoint bonus:|65
 Value:|21
 
-|att|value|
 |image| ![ITFO_POORAPPLEPIE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_POORAPPLEPIE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POORAPPLEPIE**
@@ -593,7 +535,6 @@ Mana bonus:|10
 Hitpoint bonus:|80
 Value:|30
 
-|att|value|
 |image| ![ITFO_MUSHROOMSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MUSHROOMSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MUSHROOMSTEW**
@@ -604,7 +545,6 @@ could escape picker's attention...|0
 Hitpoint bonus:|60
 Value:|24
 
-|att|value|
 |image| ![ITFO_MEATANDBREAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MEATANDBREAD.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MEATANDBREAD**
@@ -614,7 +554,6 @@ is a snack that's good in any situation.|0
 Hitpoint bonus:|50
 Value:|23
 
-|att|value|
 |image| ![ITFO_MEATANDCHEESE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MEATANDCHEESE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MEATANDCHEESE**
@@ -624,7 +563,6 @@ be careful not to burn your tongue!|0
 Hitpoint bonus:|55
 Value:|26
 
-|att|value|
 |image| ![ITFO_HERBSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HERBSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HERBSTEW**
@@ -635,7 +573,6 @@ Hitpoint bonus:|45
 Mana bonus:|25
 Value:|25
 
-|att|value|
 |image| ![ITFO_FISHPOT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHPOT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FISHPOT**
@@ -647,7 +584,6 @@ Hitpoint bonus:|50
 Mana bonus:|10
 Value:|23
 
-|att|value|
 |image| ![ITFO_POORBROTH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_POORBROTH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_POORBROTH**
@@ -657,7 +593,6 @@ for the efficient use of pantry leftovers.|0
 Hitpoint bonus:|55
 Value:|20
 
-|att|value|
 |image| ![ITFO_FISHFILLETPERM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHFILLETPERM.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FISHFILLETPERM**
@@ -667,7 +602,6 @@ are passed around by every cook on the islands.|0
 Maximum hitpoints bonus:|15
 Value:|1000
 
-|att|value|
 |image| ![ITFO_FISHCOTLET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHCOTLET.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FISHCOTLET**
@@ -678,7 +612,6 @@ Hitpoint bonus:|40
 Mana bonus:|45
 Value:|32
 
-|att|value|
 |image| ![ITFO_MULLEDWISP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MULLEDWISP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MULLEDWISP**
@@ -690,7 +623,6 @@ Hitpoint bonus:|80
 Mana bonus:|38
 Value:|50
 
-|att|value|
 |image| ![ITFO_RATSTICK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_RATSTICK.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_RATSTICK**
@@ -700,7 +632,6 @@ but it's better than starving.|0
 Hitpoint bonus:|35
 Value:|6
 
-|att|value|
 |image| ![ITFO_MEATMISHMASH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MEATMISHMASH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MEATMISHMASH**
@@ -711,7 +642,6 @@ residents and travelers.|0
 Hitpoint bonus:|40
 Value:|13
 
-|att|value|
 |image| ![ITFO_BOARSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BOARSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BOARSTEW**
@@ -722,7 +652,6 @@ Hitpoint bonus:|125
 Maximum hitpoints bonus:|1
 Value:|60
 
-|att|value|
 |image| ![ITFO_SPEEDHERBOYSTERS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SPEEDHERBOYSTERS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SPEEDHERBOYSTERS**
@@ -733,7 +662,6 @@ Hitpoint bonus:|85
 Mana bonus:|28
 Value:|35
 
-|att|value|
 |image| ![ITFO_RIVERMIRTSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_RIVERMIRTSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_RIVERMIRTSOUP**
@@ -743,7 +671,6 @@ Hitpoint bonus:|50
 Mana bonus:|15
 Value:|23
 
-|att|value|
 |image| ![ITFO_MUSHROOMSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MUSHROOMSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MUSHROOMSOUP**
@@ -755,7 +682,6 @@ Hitpoint bonus:|65
 Mana bonus:|5
 Value:|22
 
-|att|value|
 |image| ![ITFO_SWEETBUN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SWEETBUN.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SWEETBUN**
@@ -766,7 +692,6 @@ by many of the citizens of Archolos.|0
 Hitpoint bonus:|45
 Value:|16
 
-|att|value|
 |image| ![ITFO_MANAPERMSOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MANAPERMSOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MANAPERMSOUP**
@@ -776,7 +701,6 @@ a delicate and extremely aromatic green soup.|0
 Maximum mana bonus:|5
 Value:|1000
 
-|att|value|
 |image| ![ITFO_FISHVINEGAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHVINEGAR.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FISHVINEGAR**
@@ -787,7 +711,6 @@ Perfect for travelers.|0
 Hitpoint bonus:|90
 Value:|30
 
-|att|value|
 |image| ![ITFO_DRYFRUITCOMPOTE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_DRYFRUITCOMPOTE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_DRYFRUITCOMPOTE**
@@ -799,7 +722,6 @@ Hitpoint bonus:|70
 Mana bonus:|40
 Value:|29
 
-|att|value|
 |image| ![ITFO_MUSHROOMCOTLET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MUSHROOMCOTLET.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MUSHROOMCOTLET**
@@ -811,7 +733,6 @@ Hitpoint bonus:|25
 Mana bonus:|20
 Value:|12
 
-|att|value|
 |image| ![ITFO_BADCABBAGESOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BADCABBAGESOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BADCABBAGESOUP**
@@ -820,7 +741,6 @@ Slimy, smelly slime.|0
 who was cooking for the first time in his life.|0
 Value:|1
 
-|att|value|
 |image| ![ITFO_CABBAGESOUP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CABBAGESOUP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CABBAGESOUP**
@@ -831,7 +751,6 @@ Hitpoint bonus:|55
 Mana bonus:|15
 Value:|17
 
-|att|value|
 |image| ![ITFO_ROASTEDINSECTS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ROASTEDINSECTS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ROASTEDINSECTS**
@@ -842,7 +761,6 @@ while hunting.|0
 Hitpoint bonus:|25
 Value:|7
 
-|att|value|
 |image| ![ITFO_SCAVENGERSHASHLIK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SCAVENGERSHASHLIK.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SCAVENGERSHASHLIK**
@@ -852,7 +770,6 @@ eaten around Wolf's Den and the village of Silbach.|0
 Hitpoint bonus:|100
 Value:|32
 
-|att|value|
 |image| ![ITFO_FRIEDFISHSKINS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FRIEDFISHSKINS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FRIEDFISHSKINS**
@@ -863,7 +780,6 @@ which is made from fish waste.|0
 Hitpoint bonus:|40
 Value:|11
 
-|att|value|
 |image| ![ITFO_HONEYCOOKIES](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HONEYCOOKIES.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HONEYCOOKIES**
@@ -874,7 +790,6 @@ Hitpoint bonus:|40
 Mana bonus:|20
 Value:|19
 
-|att|value|
 |image| ![ITFO_PUMPKINCOMPOTE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_PUMPKINCOMPOTE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_PUMPKINCOMPOTE**
@@ -885,7 +800,6 @@ Hitpoint bonus:|60
 Mana bonus:|15
 Value:|23
 
-|att|value|
 |image| ![ITFO_BEERBREAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEERBREAD.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEERBREAD**
@@ -896,7 +810,6 @@ to make bread dough...|0
 Hitpoint bonus:|70
 Value:|27
 
-|att|value|
 |image| ![ITFO_PICKLEDBEET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_PICKLEDBEET.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_PICKLEDBEET**
@@ -908,7 +821,6 @@ Hitpoint bonus:|50
 Mana bonus:|5
 Value:|18
 
-|att|value|
 |image| ![ITAT_SCAVENGEREGG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_SCAVENGEREGG.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_SCAVENGEREGG**
@@ -919,7 +831,6 @@ nutritious and tasty, even raw.|0
 Hitpoint bonus:|15
 Value:|8
 
-|att|value|
 |image| ![ITFO_WINEERNESTO](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINEERNESTO.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINEERNESTO**
@@ -930,7 +841,6 @@ Hitpoint bonus:|70
 Maximum hitpoints bonus:|3
 Value:|100
 
-|att|value|
 |image| ![ITFO_SQ224_ERGOHONEY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SQ224_ERGOHONEY.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SQ224_ERGOHONEY**
@@ -941,7 +851,6 @@ Maximum mana bonus:|2
 Hitpoint bonus:|30
 Value:|50
 
-|att|value|
 |image| ![ITFO_CRAB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CRAB.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CRAB**
@@ -951,7 +860,6 @@ A delicious meat, hidden in a tough carapace.|0
 Hitpoint bonus:|35
 Value:|60
 
-|att|value|
 |image| ![ITFO_CRABRAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CRABRAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CRABRAW**
@@ -961,7 +869,6 @@ Raw can have undesirable effects.|0
 Hitpoint bonus:|-10
 Value:|40
 
-|att|value|
 |image| ![ITFO_BEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEAR.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEAR**
@@ -972,7 +879,6 @@ Loved by hunters.|0
 Hitpoint bonus:|75
 Value:|75
 
-|att|value|
 |image| ![ITFO_BEARRAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEARRAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEARRAW**
@@ -982,7 +888,6 @@ Loved by hunters.|0
 Hitpoint bonus:|20
 Value:|50
 
-|att|value|
 |image| ![ITFO_TROLLMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_TROLLMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_TROLLMEAT**
@@ -993,7 +898,6 @@ Hitpoint bonus:|150
 Maximum hitpoints bonus:|1
 Value:|150
 
-|att|value|
 |image| ![ITFO_TROLLMEAT_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_TROLLMEAT_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_TROLLMEAT_RAW**
@@ -1002,7 +906,6 @@ A tough but nutritious big slab of meat.|0
 Hitpoint bonus:|20
 Value:|100
 
-|att|value|
 |image| ![ITFO_SCAVENGERMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SCAVENGERMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SCAVENGERMEAT**
@@ -1013,7 +916,6 @@ tastes like it's an abrasive.|0
 Hitpoint bonus:|15
 Value:|12
 
-|att|value|
 |image| ![ITFO_SCAVENGERMEAT_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SCAVENGERMEAT_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SCAVENGERMEAT_RAW**
@@ -1023,7 +925,6 @@ tastes like it's an abrasive.|0
 Hitpoint bonus:|5
 Value:|8
 
-|att|value|
 |image| ![ITFO_SHADOWMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SHADOWMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SHADOWMEAT**
@@ -1033,7 +934,6 @@ Hard and bitter meat.|0
 Hitpoint bonus:|15
 Value:|90
 
-|att|value|
 |image| ![ITFO_SHADOWMEAT_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SHADOWMEAT_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SHADOWMEAT_RAW**
@@ -1043,7 +943,6 @@ raw is not fit to eat.|0
 Hitpoint bonus:|-10
 Value:|60
 
-|att|value|
 |image| ![ITFO_WOLFMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WOLFMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WOLFMEAT**
@@ -1053,7 +952,6 @@ Not very tasty and a difficult to swallow meat.|0
 Hitpoint bonus:|10
 Value:|9
 
-|att|value|
 |image| ![ITFO_WOLFMEAT_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WOLFMEAT_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WOLFMEAT_RAW**
@@ -1063,7 +961,6 @@ Not very tasty and a difficult to swallow meat.|0
 Hitpoint bonus:|3
 Value:|6
 
-|att|value|
 |image| ![ITFO_MOLERATMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MOLERATMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MOLERATMEAT**
@@ -1073,7 +970,6 @@ Fat molerat meat.|0
 Hitpoint bonus:|15
 Value:|10
 
-|att|value|
 |image| ![ITFO_MOLERATMEAT_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MOLERATMEAT_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MOLERATMEAT_RAW**
@@ -1082,7 +978,6 @@ Fat molerat meat.|0
 Hitpoint bonus:|5
 Value:|7
 
-|att|value|
 |image| ![ITFO_SHEEPFRIED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SHEEPFRIED.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SHEEPFRIED**
@@ -1092,7 +987,6 @@ Tender sheep meat.|0
 Hitpoint bonus:|15
 Value:|15
 
-|att|value|
 |image| ![ITFO_SHEEP_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SHEEP_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SHEEP_RAW**
@@ -1101,7 +995,6 @@ Tender sheep meat.|0
 Hitpoint bonus:|5
 Value:|10
 
-|att|value|
 |image| ![ITFO_BOAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BOAR.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BOAR**
@@ -1111,7 +1004,6 @@ Meat, loved by townsfolk of Archolos.|0
 Hitpoint bonus:|20
 Value:|30
 
-|att|value|
 |image| ![ITFO_BOAR_RAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BOAR_RAW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BOAR_RAW**
@@ -1120,7 +1012,6 @@ Meat, loved by townsfolk of Archolos.|0
 Hitpoint bonus:|10
 Value:|25
 
-|att|value|
 |image| ![ITFO_ROASTEDRATMEAT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ROASTEDRATMEAT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ROASTEDRATMEAT**
@@ -1130,7 +1021,6 @@ Once baked, it looks edible.|0
 Hitpoint bonus:|5
 Value:|5
 
-|att|value|
 |image| ![ITAT_RATMEATRAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_RATMEATRAW.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_RATMEATRAW**
@@ -1140,7 +1030,6 @@ it is better not to eat it.|0
 Hitpoint bonus:|-5
 Value:|3
 
-|att|value|
 |image| ![ITFO_ROTTENFISH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ROTTENFISH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ROTTENFISH**
@@ -1149,7 +1038,6 @@ It smells unbelievably strong.|0
 Hitpoint bonus:|-15
 Value:|3
 
-|att|value|
 |image| ![ITFO_SQ114_BEVINHONEY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SQ114_BEVINHONEY.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SQ114_BEVINHONEY**
@@ -1160,7 +1048,6 @@ Strength bonus:|1
 Maximum hitpoints bonus:|5
 Value:|35
 
-|att|value|
 |image| ![ITFO_DRIEDFRUIT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_DRIEDFRUIT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_DRIEDFRUIT**
@@ -1171,7 +1058,6 @@ Hitpoint bonus:|10
 Mana bonus:|15
 Value:|30
 
-|att|value|
 |image| ![ITFO_LEGACYARRAZOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_LEGACYARRAZOL.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_LEGACYARRAZOL**
@@ -1182,7 +1068,6 @@ Hitpoint bonus:|30
 Mana bonus:|90
 Value:|50
 
-|att|value|
 |image| ![ITFO_WINEARRAZOL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINEARRAZOL.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINEARRAZOL**
@@ -1193,7 +1078,6 @@ Hitpoint bonus:|25
 Mana bonus:|120
 Value:|75
 
-|att|value|
 |image| ![ITFO_SAILOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SAILOR.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SAILOR**
@@ -1204,7 +1088,6 @@ Hitpoint bonus:|10
 Mana bonus:|20
 Value:|10
 
-|att|value|
 |image| ![ITFO_WISP](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WISP.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WISP**
@@ -1216,7 +1099,6 @@ Hitpoint bonus:|30
 Mana bonus:|30
 Value:|35
 
-|att|value|
 |image| ![ITFO_MOONSHINE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MOONSHINE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MOONSHINE**
@@ -1226,7 +1108,6 @@ Hitpoint bonus:|-10
 Mana bonus:|100
 Value:|40
 
-|att|value|
 |image| ![ITFO_SPIRIT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SPIRIT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SPIRIT**
@@ -1237,7 +1118,6 @@ Hitpoint bonus:|-20
 Mana bonus:|150
 Value:|60
 
-|att|value|
 |image| ![ITFO_CABBAGE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CABBAGE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CABBAGE**
@@ -1247,7 +1127,6 @@ Big, green vegetable.|0
 It is used for food preparation only.|0
 Value:|5
 
-|att|value|
 |image| ![ITFO_PARSLEY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_PARSLEY.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_PARSLEY**
@@ -1257,7 +1136,6 @@ Favorite vegetable of young novices.|0
 Mana bonus:|6
 Value:|3
 
-|att|value|
 |image| ![ITFO_CARROT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CARROT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CARROT**
@@ -1267,7 +1145,6 @@ A popular vegetable, an ingredient of many dishes.|0
 Hitpoint bonus:|5
 Value:|3
 
-|att|value|
 |image| ![ITFO_PUMPKIN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_PUMPKIN.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_PUMPKIN**
@@ -1277,7 +1154,6 @@ A vegetable beloved by people of Archolos.|0
 It is used for food preparation only.|0
 Value:|7
 
-|att|value|
 |image| ![ITFO_BEER_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEER_03.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEER_03**
@@ -1288,7 +1164,6 @@ Hitpoint bonus:|12
 Mana bonus:|8
 Value:|25
 
-|att|value|
 |image| ![ITFO_WINE_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_02.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_02**
@@ -1299,7 +1174,6 @@ Hitpoint bonus:|7
 Mana bonus:|35
 Value:|30
 
-|att|value|
 |image| ![ITFO_WINE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_01**
@@ -1310,7 +1184,6 @@ Hitpoint bonus:|2
 Mana bonus:|20
 Value:|10
 
-|att|value|
 |image| ![ITFO_WINE_ARAXOS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE_ARAXOS.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE_ARAXOS**
@@ -1321,7 +1194,6 @@ Hitpoint bonus:|2
 Mana bonus:|20
 Value:|15
 
-|att|value|
 |image| ![ITFO_BEER_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEER_02.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEER_02**
@@ -1332,7 +1204,6 @@ Hitpoint bonus:|10
 Mana bonus:|10
 Value:|12
 
-|att|value|
 |image| ![ITFO_DARKBEER_SPECIAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_DARKBEER_SPECIAL.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_DARKBEER_SPECIAL**
@@ -1341,7 +1212,6 @@ A dark beer brewed by Tomas from Archolos.|0
 Maximum hitpoints bonus:|10
 Value:|180
 
-|att|value|
 |image| ![ITFO_DARKBEER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_DARKBEER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_DARKBEER**
@@ -1351,7 +1221,6 @@ Hitpoint bonus:|10
 Mana bonus:|15
 Value:|9
 
-|att|value|
 |image| ![ITFO_OWBEER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_OWBEER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_OWBEER**
@@ -1362,7 +1231,6 @@ Hitpoint bonus:|5
 Mana bonus:|7
 Value:|5
 
-|att|value|
 |image| ![ITFO_GRAPE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_GRAPE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_GRAPE**
@@ -1373,7 +1241,6 @@ Hitpoint bonus:|3
 Mana bonus:|3
 Value:|4
 
-|att|value|
 |image| ![ITFO_SOUTHERNFRUIT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SOUTHERNFRUIT.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SOUTHERNFRUIT**
@@ -1384,7 +1251,6 @@ A true delicacy on Archolos!|0
 Hitpoint bonus:|25
 Value:|30
 
-|att|value|
 |image| ![ITFO_BERRY_HERB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BERRY_HERB.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BERRY_HERB**
@@ -1394,7 +1260,6 @@ Handful of sweet raspberries.|0
 Hitpoint bonus:|7
 Value:|4
 
-|att|value|
 |image| ![ITFO_STARKA](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_STARKA.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_STARKA**
@@ -1405,7 +1270,6 @@ Hitpoint bonus:|10
 Mana bonus:|70
 Value:|25
 
-|att|value|
 |image| ![ITFO_SOUPHERB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SOUPHERB.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SOUPHERB**
@@ -1414,7 +1278,6 @@ Delicious nettle soup.|0
 Hitpoint bonus:|40
 Value:|25
 
-|att|value|
 |image| ![ITFO_GRAPE_TART](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_GRAPE_TART.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_GRAPE_TART**
@@ -1424,13 +1287,11 @@ fruit mixture on top.|0
 Hitpoint bonus:|40
 Value:|14
 
-|att|value|
 |image| ![ITFS_ANTIDOTE_POTION](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFS_ANTIDOTE_POTION.png?raw=true) | 
 |-|-|
 Insert code|**ITFS_ANTIDOTE_POTION**
 Name|Antidote
 
-|att|value|
 |image| ![ITPL_PERM_HERB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_PERM_HERB.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_PERM_HERB**
@@ -1439,7 +1300,6 @@ An extremely rare and valuable plant.|0
 The basis of permanent potions.|0
 Value:|500
 
-|att|value|
 |image| ![ITPL_TEMP_HERB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_TEMP_HERB.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_TEMP_HERB**
@@ -1449,7 +1309,6 @@ Unlike the rest of Myrtana,|0
 on Archolos is extremely common.|0
 Value:|10
 
-|att|value|
 |image| ![ITPL_PLANEBERRY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_PLANEBERRY.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_PLANEBERRY**
@@ -1458,7 +1317,6 @@ A small berry, a favorite snack of shepherds.|0
 Hitpoint bonus:|5
 Value:|5
 
-|att|value|
 |image| ![ITPL_FORESTBERRY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_FORESTBERRY.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_FORESTBERRY**
@@ -1467,7 +1325,6 @@ Berries commonly found in the forests of Archolos.|0
 Hitpoint bonus:|7
 Value:|5
 
-|att|value|
 |image| ![ITPL_BLUEPLANT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_BLUEPLANT.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_BLUEPLANT**
@@ -1478,7 +1335,6 @@ Hitpoint bonus:|5
 Mana bonus:|5
 Value:|5
 
-|att|value|
 |image| ![ITPL_MUSHROOM_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_MUSHROOM_02.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_MUSHROOM_02**
@@ -1488,7 +1344,6 @@ It is most commonly found in caves.|0
 Hitpoint bonus:|15
 Value:|10
 
-|att|value|
 |image| ![ITPL_MUSHROOM_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_MUSHROOM_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_MUSHROOM_01**
@@ -1498,7 +1353,6 @@ which often grows in shady places.|0
 Hitpoint bonus:|5
 Value:|5
 
-|att|value|
 |image| ![ITPL_SPEED_HERB_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_SPEED_HERB_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_SPEED_HERB_01**
@@ -1508,7 +1362,6 @@ Used for time potions.|0
 Duration (secs)|45
 Value:|20
 
-|att|value|
 |image| ![ITPL_STRENGTH_HERB_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_STRENGTH_HERB_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_STRENGTH_HERB_01**
@@ -1519,7 +1372,6 @@ Increases physical strength.|0
 Strength bonus:|1
 Value:|500
 
-|att|value|
 |image| ![ITPL_DEX_HERB_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_DEX_HERB_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_DEX_HERB_01**
@@ -1529,7 +1381,6 @@ It can sharpen the senses.|0
 Dexterity bonus:|1
 Value:|500
 
-|att|value|
 |image| ![ITPL_HEALTH_HERB_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_HEALTH_HERB_03.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_HEALTH_HERB_03**
@@ -1538,7 +1389,6 @@ A thick root with extraordinary medicinal properties.|0
 Hitpoint bonus:|20
 Value:|35
 
-|att|value|
 |image| ![ITPL_HEALTH_HERB_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_HEALTH_HERB_02.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_HEALTH_HERB_02**
@@ -1548,7 +1398,6 @@ It helps with many ailments.|0
 Hitpoint bonus:|15
 Value:|25
 
-|att|value|
 |image| ![ITPL_HEALTH_HERB_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_HEALTH_HERB_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_HEALTH_HERB_01**
@@ -1558,7 +1407,6 @@ often applied to wounds to speed healing.|0
 Hitpoint bonus:|10
 Value:|15
 
-|att|value|
 |image| ![ITPL_MANA_HERB_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_MANA_HERB_03.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_MANA_HERB_03**
@@ -1568,7 +1416,6 @@ highly valued by mages.|0
 Mana bonus:|20
 Value:|30
 
-|att|value|
 |image| ![ITPL_MANA_HERB_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_MANA_HERB_02.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_MANA_HERB_02**
@@ -1577,7 +1424,6 @@ A small plant with strong magical properties.|0
 Mana bonus:|15
 Value:|20
 
-|att|value|
 |image| ![ITPL_MANA_HERB_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_MANA_HERB_01.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_MANA_HERB_01**
@@ -1587,7 +1433,6 @@ but it has magical properties.|0
 Mana bonus:|10
 Value:|10
 
-|att|value|
 |image| ![ITPL_SWAMPHERB](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_SWAMPHERB.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_SWAMPHERB**
@@ -1597,7 +1442,6 @@ It is used to produce joints.|0
 Mana bonus:|5
 Value:|15
 
-|att|value|
 |image| ![ITPL_BEET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_BEET.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_BEET**
@@ -1606,7 +1450,6 @@ Not very nutritious.|0
 It is mainly used as animal feed.|0
 Value:|3
 
-|att|value|
 |image| ![ITPL_WEED_LOKVAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_WEED_LOKVAR.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_WEED_LOKVAR**
@@ -1615,7 +1458,6 @@ An inedible and worthless plant.|0
 There is no use for it.|0
 Value:|1
 
-|att|value|
 |image| ![ITPL_WEED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPL_WEED.png?raw=true) | 
 |-|-|
 Insert code|**ITPL_WEED**
@@ -1624,7 +1466,6 @@ An inedible and worthless plant.|0
 There is no use for it.|0
 Value:|1
 
-|att|value|
 |image| ![ITFO_MILK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MILK.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_MILK**
@@ -1635,7 +1476,6 @@ Hitpoint bonus:|3
 Mana bonus:|5
 Value:|3
 
-|att|value|
 |image| ![ITFO_WINE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WINE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WINE**
@@ -1645,7 +1485,6 @@ A cheap, semi-sweet wine.|0
 Mana bonus:|15
 Value:|10
 
-|att|value|
 |image| ![ITFO_BOOZE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BOOZE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BOOZE**
@@ -1654,7 +1493,6 @@ Cheap, strong drink.|0
 Mana bonus:|9
 Value:|7
 
-|att|value|
 |image| ![ITFO_BEER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BEER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BEER**
@@ -1664,7 +1502,6 @@ A popular light beer.|0
 Mana bonus:|7
 Value:|5
 
-|att|value|
 |image| ![ITFO_WATER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_WATER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_WATER**
@@ -1675,7 +1512,6 @@ Hitpoint bonus:|5
 Mana bonus:|2
 Value:|2
 
-|att|value|
 |image| ![ITFO_HONEY](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_HONEY.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_HONEY**
@@ -1687,7 +1523,6 @@ Hitpoint bonus:|15
 Mana bonus:|5
 Value:|8
 
-|att|value|
 |image| ![ITFO_SAUSAGE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_SAUSAGE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_SAUSAGE**
@@ -1697,7 +1532,6 @@ A blend of different meats.|0
 Hitpoint bonus:|15
 Value:|15
 
-|att|value|
 |image| ![ITFO_GERSTANDBEER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_GERSTANDBEER.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_GERSTANDBEER**
@@ -1707,7 +1541,6 @@ Maximum hitpoints bonus:|3
 Maximum mana bonus:|3
 Value:|30
 
-|att|value|
 |image| ![ITFO_FISH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_FISH**
@@ -1718,7 +1551,6 @@ of the Eastern Archipelago.|0
 Hitpoint bonus:|4
 Value:|3
 
-|att|value|
 |image| ![ITFO_BREAD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BREAD.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BREAD**
@@ -1728,7 +1560,6 @@ Bread with a crispy crust, baked with local flour.|0
 Hitpoint bonus:|15
 Value:|4
 
-|att|value|
 |image| ![ITFO_BACON](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BACON.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_BACON**
@@ -1738,7 +1569,6 @@ juicy ham.|0
 Hitpoint bonus:|35
 Value:|15
 
-|att|value|
 |image| ![ITFO_CHEESE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_CHEESE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_CHEESE**
@@ -1748,7 +1578,6 @@ A delicious cheese made with sheep's milk.|0
 Hitpoint bonus:|4
 Value:|5
 
-|att|value|
 |image| ![ITFO_APPLE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_APPLE.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_APPLE**
@@ -1758,7 +1587,6 @@ Fresh and juicy!|0
 Hitpoint bonus:|5
 Value:|5
 
-|att|value|
 |image| ![ITAT_MEATBUGFLESH_FRIED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_MEATBUGFLESH_FRIED.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_MEATBUGFLESH_FRIED**
@@ -1767,7 +1595,6 @@ The crust is pleasantly crunchy.|0
 Hitpoint bonus:|10
 Value:|2
 
-|att|value|
 |image| ![ITAT_MEATBUGFLESH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_MEATBUGFLESH.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_MEATBUGFLESH**
@@ -1777,7 +1604,6 @@ doesn't look nutritious.|0
 Hitpoint bonus:|-5
 Value:|1
 
-|att|value|
 |image| ![ITFO_ADDON_GROG](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ADDON_GROG.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ADDON_GROG**
@@ -1786,7 +1612,6 @@ Pirates' favourite drink.|0
 Mana bonus:|25
 Value:|20
 
-|att|value|
 |image| ![ITFO_ADDON_RUM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ADDON_RUM.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ADDON_RUM**
@@ -1796,7 +1621,6 @@ A permanent drink of sailors.|0
 Mana bonus:|20
 Value:|15
 
-|att|value|
 |image| ![ITFO_ADDON_SHELLFLESH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_ADDON_SHELLFLESH.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_ADDON_SHELLFLESH**
