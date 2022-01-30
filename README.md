@@ -1,5 +1,5 @@
 # The Chronicles Of Myrtana: Archolos
-This is a item list from the The Chronicles Of Myrtana: Archolos v1.1.3
+This is a item list from the The Chronicles Of Myrtana: Archolos v1.1.3 (version 1.2 will be here, once it is released only as a patch)
 
 ## Raw list
 [Raw list](https://github.com/auronen/CoM-itemlist/blob/master/instanceNameList.md) of instance names (cheat codes).
