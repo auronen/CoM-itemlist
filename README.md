@@ -29,6 +29,8 @@ insert <cheatcode>
 
 [Scrolls and runes](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_RUNE.md)
 
+[Miscellaneous](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_NONE.md)
+
 
 
 
