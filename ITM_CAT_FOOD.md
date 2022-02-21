@@ -232,7 +232,7 @@ Value:|50
 |image| ![ITFO_REDSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_REDSTEW.png?raw=true) | 
 |-|-|
 Insert code|**ITFO_REDSTEW**
-Name|Old-fashioned Soup
+Name|Old-fashioned stew
 It smells delicious.|0
 Hitpoint bonus:|55
 Maximum hitpoints bonus:|2
@@ -340,8 +340,8 @@ Value:|12
 |-|-|
 Insert code|**ITFO_SIMPLEOYSTERS**
 Name|Quick oysters
-Nutritious sweet noodles with blueberries.|0
-Loved by the children of the villagers.|0
+The fastest way to make oysters, a fisherman's specialty.|0
+They prepare it right after the catch.|0
 Hitpoint bonus:|35
 Mana bonus:|15
 Value:|17
@@ -355,7 +355,7 @@ A dish eaten only by the wealthiest.|0
 Dexterity bonus:|3
 Hitpoint bonus:|500
 Mana bonus:|200
-Value:|1400
+Value:|1500
 
 |image| ![ITFO_STRENGTHJAM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_STRENGTHJAM.png?raw=true) | 
 |-|-|
@@ -365,7 +365,7 @@ Aromatic spread for bread.|0
 Eaten with meat by some.|0
 Hitpoint bonus:|500
 Strength bonus:|3
-Value:|1400
+Value:|1500
 
 |image| ![ITFO_BERRYJAM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_BERRYJAM.png?raw=true) | 
 |-|-|
@@ -531,8 +531,8 @@ Name|Poor Apple Pie
 Sweet apple pie.|0
 No one's been found yet,|0
 ...who'd ever despise a piece of this baked good.|0
-Mana bonus:|10
 Hitpoint bonus:|80
+Mana bonus:|10
 Value:|30
 
 |image| ![ITFO_MUSHROOMSTEW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_MUSHROOMSTEW.png?raw=true) | 
@@ -600,7 +600,7 @@ Name|Fish fillet with king's sorrel
 Legends of the angelic taste of this dish|0
 are passed around by every cook on the islands.|0
 Maximum hitpoints bonus:|15
-Value:|1000
+Value:|1500
 
 |image| ![ITFO_FISHCOTLET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHCOTLET.png?raw=true) | 
 |-|-|
@@ -698,8 +698,8 @@ Insert code|**ITFO_MANAPERMSOUP**
 Name|King's sorrel soup
 Known only to upper class palates,|0
 a delicate and extremely aromatic green soup.|0
-Maximum mana bonus:|5
-Value:|1000
+Maximum mana bonus:|3
+Value:|1500
 
 |image| ![ITFO_FISHVINEGAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITFO_FISHVINEGAR.png?raw=true) | 
 |-|-|
@@ -737,7 +737,8 @@ Value:|12
 |-|-|
 Insert code|**ITFO_BADCABBAGESOUP**
 Name|Failed Cabbage Soup
-Slimy, smelly slime.|0
+Slimy, smelly gloop.|0
+Looks like it was made by someone|0
 who was cooking for the first time in his life.|0
 Value:|1
 
@@ -1403,7 +1404,7 @@ Value:|25
 Insert code|**ITPL_HEALTH_HERB_01**
 Name|Healing plant
 A small plant,|0
-often applied to wounds to speed healing.|0
+often applied to wounds to speed up healing.|0
 Hitpoint bonus:|10
 Value:|15
 

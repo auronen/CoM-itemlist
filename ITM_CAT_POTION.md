@@ -14,7 +14,7 @@ Value:|2000
 |image| ![ITPO_FAKEARTIFACT_BELIARSWISPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_FAKEARTIFACT_BELIARSWISPER.png?raw=true) | 
 |-|-|
 Insert code|**ITPO_FAKEARTIFACT_BELIARSWISPER**
-Name|Beliar's whisper
+Name|Beliar's Whisper
 Hitpoint bonus:|-5
 Mana bonus:|-5
 Value:|40
@@ -44,16 +44,16 @@ Value:|35
 |-|-|
 Insert code|**ITPO_MANAREGEN2**
 Name|Extended Mana Regeneration Potion
-Restores 5% mana every 2 sec.|0
-Duration (mins)|6
+Restores 10% mana every 2 sec.|0
+Duration (mins)|10
 Value:|300
 
 |image| ![ITPO_MANAREGEN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_MANAREGEN.png?raw=true) | 
 |-|-|
 Insert code|**ITPO_MANAREGEN**
 Name|Mana Regeneration Potion
-Restores 5% mana every 2 sec.|0
-Duration (mins)|3
+Restores 10% mana every 2 sec.|0
+Duration (mins)|5
 Value:|160
 
 |image| ![ITPO_HPREGEN2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_HPREGEN2.png?raw=true) | 
@@ -237,17 +237,17 @@ Result: ???|0
 Insert code|**ITPO_JAVAD_PERMHEALTH**
 Name|Javad's Elixir
 I got it from Javad.|0
-Maximum hitpoints bonus:|25
-Value:|1200
+Maximum hitpoints bonus:|20
+Value:|1500
 
 |image| ![ITPO_SQ413_PERM_HEALTH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_SQ413_PERM_HEALTH.png?raw=true) | 
 |-|-|
 Insert code|**ITPO_SQ413_PERM_HEALTH**
 Name|Elixir of Life
-Maximum hitpoints bonus:|25
+Maximum hitpoints bonus:|20
 I have a strange feeling,|0
 that I shouldn't drink it...|0
-Value:|1200
+Value:|1500
 
 |image| ![ITMIS_Q406_YEZEGANTRANSFORMPOTION_H](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_Q406_YEZEGANTRANSFORMPOTION_H.png?raw=true) | 
 |-|-|
@@ -339,6 +339,13 @@ Hitpoint bonus:|35
 Maximum mana bonus:|5
 Value:|500
 
+|image| ![ITPO_PERM_MAGICPOTENTIAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_PERM_MAGICPOTENTIAL.png?raw=true) | 
+|-|-|
+Insert code|**ITPO_PERM_MAGICPOTENTIAL**
+Name|Elixir of Magic Potential
+Increases spell damage:|5
+Value:|3500
+
 |image| ![ITPO_SPEED2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_SPEED2.png?raw=true) | 
 |-|-|
 Insert code|**ITPO_SPEED2**
@@ -361,15 +368,15 @@ Value:|40
 |-|-|
 Insert code|**ITPO_PERM_MANA**
 Name|Elixir of Spirit
-Maximum mana bonus:|5
-Value:|1200
+Maximum mana bonus:|3
+Value:|1500
 
 |image| ![ITPO_PERM_HEALTH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_PERM_HEALTH.png?raw=true) | 
 |-|-|
 Insert code|**ITPO_PERM_HEALTH**
 Name|Elixir of Life
-Maximum hitpoints bonus:|25
-Value:|1200
+Maximum hitpoints bonus:|20
+Value:|1500
 
 |image| ![ITPO_PERM_DEX](https://github.com/auronen/CoM-itemlist/blob/master/img/ITPO_PERM_DEX.png?raw=true) | 
 |-|-|

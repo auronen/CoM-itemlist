@@ -93,7 +93,7 @@ Insert code|**ITRU_TRADE_SKULL**
 Name|Cry of the Dead
 Circle: 2 | Lightning spell | Area|0
 Mana cost:|11
-Damage|65
+Magic Damage|65
 Value:|600
 
 |image| ![ITRU_TRADE_SUMBEAR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_SUMBEAR.png?raw=true) | 
@@ -112,7 +112,7 @@ Value:|1000
 Insert code|**ITRU_TRADE_SUMSNAPPER**
 Name|Summon Snapper
 Circle: 2 | Summoning spell|0
-Mana required:|35
+Mana required:|45
 Duration (secs)|150
 You can summon just one|0
 being at a time.|0
@@ -149,7 +149,7 @@ Insert code|**ITRU_TRADE_ICELANCE**
 Name|Ice Lance
 Circle: 2 | Water spell|0
 Mana cost:|15
-Damage|100
+Magic Damage|100
 Value:|700
 
 |image| ![ITRU_TRADE_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_WATERFIST.png?raw=true) | 
@@ -158,7 +158,7 @@ Insert code|**ITRU_TRADE_WATERFIST**
 Name|Waterfist
 Circle: 4 | Water spell | Area spell|0
 Mana cost:|30
-Damage|250
+Magic Damage|250
 Value:|1600
 
 |image| ![ITRU_TRADE_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_GEYSER.png?raw=true) | 
@@ -167,7 +167,7 @@ Insert code|**ITRU_TRADE_GEYSER**
 Name|Geyser
 Circle: 3 | Water spell | Area spell|0
 Mana cost:|30
-Damage|220
+Magic Damage|200
 Value:|1400
 
 |image| ![ITRU_TRADE_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_WHIRLWIND.png?raw=true) | 
@@ -187,7 +187,7 @@ Insert code|**ITRU_TRADE_THUNDERSTORM**
 Name|Storm
 Circle: 4 | Lightning spell | Area|0
 Mana cost:|140
-Damage|400
+Magic Damage|400
 Value:|2500
 
 |image| ![ITRU_TRADE_FULLHEAL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_TRADE_FULLHEAL.png?raw=true) | 
@@ -206,7 +206,7 @@ Insert code|**ITRU_TRADE_ICEWAVE**
 Name|Ice Wave
 Circle: 5 | Water spell | Area spell|0
 Mana cost:|120
-Damage|60
+Magic Damage|60
 Duration (secs)|10
 Damage per sec.|2
 Value:|750
@@ -248,7 +248,7 @@ Insert code|**ITRU_TRADE_ICECUBE**
 Name|Ice Block
 Circle: 3 | Water spell|0
 Mana cost:|40
-Damage|60
+Magic Damage|60
 Duration (secs)|10
 Damage per sec.|2
 Value:|900
@@ -297,7 +297,7 @@ Value:|400
 Insert code|**ITRU_TRADE_SUMWOLF**
 Name|Summon Wolf
 Circle: 1 | Summoning spell|0
-Mana cost:|40
+Mana cost:|30
 Duration (secs)|150
 You can summon just one|0
 being at a time.|0
@@ -426,7 +426,7 @@ Value:|200
 Insert code|**ITRU_SUMSNAPPER**
 Name|Summon Snapper
 Circle: 2 | Summoning spell|0
-Mana required:|35
+Mana required:|45
 Duration (secs)|150
 You can summon just one|0
 being at a time.|0
@@ -640,7 +640,7 @@ Insert code|**ITSC_ICEWAVE**
 Name|Ice Wave
 Scroll | Water spell | Area spell|0
 Mana required:|15
-Damage|60
+Magic Damage|60
 Duration (secs)|10
 Damage per sec.|2
 Value:|400
@@ -702,7 +702,7 @@ Insert code|**ITSC_ICECUBE**
 Name|Ice Block
 Scroll | Water spell|0
 Mana required:|10
-Damage|60
+Magic Damage|60
 Duration (secs)|10
 Damage per sec.|2
 Value:|150
@@ -1162,7 +1162,7 @@ Value:|200
 Insert code|**ITRU_SUMWOLF**
 Name|Summon Wolf
 Circle: 1 | Summoning spell|0
-Mana cost:|40
+Mana cost:|30
 Duration (secs)|150
 You can summon just one|0
 being at a time.|0
@@ -1329,7 +1329,7 @@ Insert code|**ITSC_THUNDERSTORM**
 Name|Storm
 Scroll | Lightning spell | Area|0
 Mana required:|25
-Damage|400
+Magic Damage|400
 Value:|400
 
 |image| ![ITSC_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_WATERFIST.png?raw=true) | 
@@ -1338,7 +1338,7 @@ Insert code|**ITSC_WATERFIST**
 Name|Waterfist
 Scroll | Water spell | Area spell|0
 Mana required:|15
-Damage|250
+Magic Damage|250
 Value:|140
 
 |image| ![ITSC_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_ICELANCE.png?raw=true) | 
@@ -1347,7 +1347,7 @@ Insert code|**ITSC_ICELANCE**
 Name|Ice Lance
 Scroll | Water spell|0
 Mana required:|10
-Damage|100
+Magic Damage|100
 Value:|75
 
 |image| ![ITSC_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSC_GEYSER.png?raw=true) | 
@@ -1356,7 +1356,7 @@ Insert code|**ITSC_GEYSER**
 Name|Geyser
 Scroll | Water spell | Area spell|0
 Mana required:|15
-Damage|220
+Magic Damage|200
 Value:|160
 
 |image| ![ITRU_SUMMONGUARDIAN](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SUMMONGUARDIAN.png?raw=true) | 
@@ -1381,7 +1381,7 @@ Insert code|**ITRU_SKULL**
 Name|Cry of the Dead
 Circle: 2 | Lightning spell | Area|0
 Mana cost:|11
-Damage|65
+Magic Damage|65
 Value:|200
 
 |image| ![ITRU_SWARM](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_SWARM.png?raw=true) | 
@@ -1390,7 +1390,7 @@ Insert code|**ITRU_SWARM**
 Name|Insect Swarm
 Circle: 4 | Beliar's spell|0
 Mana cost:|20
-Damage|80
+Magic Damage|80
 Duration (secs)|6
 Value:|200
 
@@ -1409,7 +1409,7 @@ Insert code|**ITRU_SUCKENERGY**
 Name|Steal energy
 Circle: 2 | Beliar's spell|0
 Mana cost:|30
-Damage|100
+Magic Damage|100
 Duration (secs)|9
 Value:|200
 
@@ -1419,7 +1419,7 @@ Insert code|**ITRU_BELIARSRAGE**
 Name|Beliar's Wrath
 Circle: 3 | Beliar's spell|0
 Mana cost:|50
-Damage|90
+Magic Damage|90
 Value:|200
 
 |image| ![ITRU_ICELANCE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_ICELANCE.png?raw=true) | 
@@ -1428,7 +1428,7 @@ Insert code|**ITRU_ICELANCE**
 Name|Ice Lance
 Circle: 2 | Water spell|0
 Mana cost:|15
-Damage|100
+Magic Damage|100
 Value:|200
 
 |image| ![ITRU_WATERFIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WATERFIST.png?raw=true) | 
@@ -1437,7 +1437,7 @@ Insert code|**ITRU_WATERFIST**
 Name|Waterfist
 Circle: 4 | Water spell | Area spell|0
 Mana cost:|30
-Damage|250
+Magic Damage|250
 Value:|200
 
 |image| ![ITRU_GEYSER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_GEYSER.png?raw=true) | 
@@ -1446,7 +1446,7 @@ Insert code|**ITRU_GEYSER**
 Name|Geyser
 Circle: 3 | Water spell | Area spell|0
 Mana cost:|30
-Damage|220
+Magic Damage|200
 Value:|200
 
 |image| ![ITRU_WHIRLWIND](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRU_WHIRLWIND.png?raw=true) | 
@@ -1466,6 +1466,6 @@ Insert code|**ITRU_THUNDERSTORM**
 Name|Storm
 Circle: 4 | Lightning spell | Area|0
 Mana cost:|140
-Damage|400
+Magic Damage|400
 Value:|200
 

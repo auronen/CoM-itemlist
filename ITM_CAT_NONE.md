@@ -102,7 +102,7 @@ Value:|100
 |image| ![ITSE_BOLTPACKET_100](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_BOLTPACKET_100.png?raw=true) | 
 |-|-|
 Insert code|**ITSE_BOLTPACKET_100**
-Name|Medium quiver of bolts
+Name|Large quiver of bolts
 Large set|0
 filled with 100 bolts.|0
 Value:|50
@@ -150,7 +150,7 @@ Value:|5
 |image| ![ITSE_BRONZEINNOS_SURPRISE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_BRONZEINNOS_SURPRISE.png?raw=true) | 
 |-|-|
 Insert code|**ITSE_BRONZEINNOS_SURPRISE**
-Name|Suspicious bronze Innos
+Name|Suspicious bronze Innos statuette
 A suspicious looking figurine of a bronze Innos.|0
 It looks like it's going to break under light pressure.|0
 Value:|15
@@ -158,7 +158,7 @@ Value:|15
 |image| ![ITSE_SILVERINNOS_SURPRISE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_SILVERINNOS_SURPRISE.png?raw=true) | 
 |-|-|
 Insert code|**ITSE_SILVERINNOS_SURPRISE**
-Name|Suspicious silver Innos
+Name|Suspicious silver Innos statuette
 A suspicious looking figurine of the silver Innos.|0
 It looks like it's going to break under light pressure.|0
 Value:|50
@@ -166,7 +166,7 @@ Value:|50
 |image| ![ITSE_GOLDINNOS_SURPRISE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_GOLDINNOS_SURPRISE.png?raw=true) | 
 |-|-|
 Insert code|**ITSE_GOLDINNOS_SURPRISE**
-Name|Suspicious golden Innos
+Name|Suspicious golden Innos statuette
 A suspicious looking figurine of the golden Innos.|0
 It looks like it's going to break under light pressure.|0
 Value:|100
@@ -1005,8 +1005,8 @@ from this unfortunate man's body.|0
 |image| ![ITMIS_Q308_BLOODFLASK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_Q308_BLOODFLASK.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_Q308_BLOODFLASK**
-Name|Flask
-Flash filled with blood.|0
+Name|Lab water bottle
+Lab bottle filled with blood.|0
 
 |image| ![ITMIS_INNOSFIGURE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_INNOSFIGURE.png?raw=true) | 
 |-|-|
@@ -1370,7 +1370,7 @@ The key I got from the sailor.|0
 Insert code|**ITMIS_HERSHLIKSEEDS**
 Name|Hershlik seeds
 The seeds I received from|0
-Hershlik. I have to plant them.|0
+Hershlik's. I have to plant them.|0
 
 |image| ![ITMIS_SQ207_HAMMERS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ207_HAMMERS.png?raw=true) | 
 |-|-|
@@ -1457,7 +1457,7 @@ Needed to create new crops.|0
 |image| ![ITMIS_SQ221_PACKET](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ221_PACKET.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_SQ221_PACKET**
-Name|Maika's package
+Name|Maik's package
 One of Maik's missing packages.|0
 
 |image| ![ITMIS_SQ217_PEARLS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_SQ217_PEARLS.png?raw=true) | 
@@ -1768,15 +1768,15 @@ enough for a short sail.|0
 |-|-|
 Insert code|**ITMI_BRONZEINNOS**
 Name|Bronze Innos Statuette
-Statue of Fire Lord made of bronze.|0
+Statuette of Fire Lord made of bronze.|0
 I think that there is something wrong with it.|0
 Value:|15
 
 |image| ![ITMI_SILVERINNOS](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_SILVERINNOS.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_SILVERINNOS**
-Name|Silver Innos
-A silver statue of the Fire Lord.|0
+Name|Silver Innos statuette
+A silver statuette of the Fire Lord.|0
 I think that there is something wrong with it.|0
 Value:|50
 
@@ -2091,7 +2091,7 @@ Value:|250
 |image| ![ITHC_BEARFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITHC_BEARFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITHC_BEARFUR**
-Name|Large bearskin
+Name|Large bear skin
 A good alternative to carpet!|0
 Value:|50
 
@@ -3480,7 +3480,7 @@ Value:|8
 |image| ![ITAT_BLACKWOLFFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_BLACKWOLFFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_BLACKWOLFFUR**
-Name|Skin of a black wolf
+Name|Black wolf skin
 Trophy used|0
 for making equipment.|0
 Value:|15
@@ -3488,7 +3488,7 @@ Value:|15
 |image| ![ITAT_ORCDOGFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_ORCDOGFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_ORCDOGFUR**
-Name|Skin of an orc dog
+Name|Orc dog skin
 Fur of an orc dog.|0
 Where there are orc dogs, there are orcs...|0
 Value:|22
@@ -3512,7 +3512,7 @@ Value:|150
 |image| ![ITAT_BOSSWOLFFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_BOSSWOLFFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_BOSSWOLFFUR**
-Name|Pack leader's hide
+Name|Pack leader's skin
 A unique trophy.|0
 It's definitely worth a bit.|0
 Value:|40
@@ -3632,7 +3632,7 @@ Value:|8
 |image| ![ITAT_LAMBFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_LAMBFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_LAMBFUR**
-Name|Lambskin
+Name|Lamb skin
 Very delicate skin.|0
 I'm sure someone would love to buy it.|0
 Value:|8
@@ -3640,7 +3640,7 @@ Value:|8
 |image| ![ITAT_SHEEPFUR02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_SHEEPFUR02.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_SHEEPFUR02**
-Name|Sheepskin
+Name|Sheep skin
 Delicate skin.|0
 I'm sure someone would love to buy it.|0
 Value:|10
@@ -3648,7 +3648,7 @@ Value:|10
 |image| ![ITAT_SQ114_BEARFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_SQ114_BEARFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_SQ114_BEARFUR**
-Name|Skin of a Gluttonous Bear
+Name|Gluttonous Bear skin
 Strange skin. Looks like|0
 a bear soiled it with honey.|0
 Value:|250
@@ -3672,7 +3672,7 @@ Value:|350
 |image| ![ITAT_BEARFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_BEARFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_BEARFUR**
-Name|Bearskin
+Name|Bear skin
 Trophy used|0
 for making equipment.|0
 Value:|250
@@ -3808,7 +3808,7 @@ Value:|6
 |image| ![ITAT_BLUEPLANT_SEED](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_BLUEPLANT_SEED.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_BLUEPLANT_SEED**
-Name|Seeds of blue berries
+Name|Seeds of blue elder
 Their effect is similar|0
 to the characteristics of the adult plant.|0
 Often used by|0
@@ -3928,7 +3928,7 @@ Value:|50
 |-|-|
 Insert code|**ITSE_GOLDPOCKET25**
 Name|Leather bellow
-There are a few coins inside|0
+There are a few coins clinking inside.|0
 Value:|25
 
 |image| ![ITSE_LOCKPICKFISCH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_LOCKPICKFISCH.png?raw=true) | 
@@ -3937,12 +3937,6 @@ Insert code|**ITSE_LOCKPICKFISCH**
 Name|Light fish
 There is something hidden in this fish.|0
 Value:|15
-
-|image| ![ITSE_RINGFISCH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_RINGFISCH.png?raw=true) | 
-|-|-|
-Insert code|**ITSE_RINGFISCH**
-Name|Small fish
-There is something hidden in this fish.|0
 
 |image| ![ITSE_GOLDFISCH](https://github.com/auronen/CoM-itemlist/blob/master/img/ITSE_GOLDFISCH.png?raw=true) | 
 |-|-|
@@ -4235,7 +4229,7 @@ Value:|10
 Insert code|**ITMISWORDBLADE**
 Name|Blade
 A piece of metal with a blade-like shape.|0
-Value:|10
+Value:|0
 
 |image| ![ITMISWORDBLADEHOT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMISWORDBLADEHOT.png?raw=true) | 
 |-|-|
@@ -4243,7 +4237,7 @@ Insert code|**ITMISWORDBLADEHOT**
 Name|Hot blade
 A red-hot piece of metal.|0
 It begins to resemble a blade.|0
-Value:|10
+Value:|0
 
 |image| ![ITMISWORDRAWHOT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMISWORDRAWHOT.png?raw=true) | 
 |-|-|
@@ -4251,14 +4245,14 @@ Insert code|**ITMISWORDRAWHOT**
 Name|Hot steel
 A red-hot rod.|0
 Attention! Very hot!|0
-Value:|10
+Value:|0
 
 |image| ![ITMISWORDRAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMISWORDRAW.png?raw=true) | 
 |-|-|
 Insert code|**ITMISWORDRAW**
 Name|Raw steel
 Elongated metal rod.|0
-Value:|10
+Value:|0
 
 |image| ![ITMI_SAW](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_SAW.png?raw=true) | 
 |-|-|
@@ -4292,7 +4286,7 @@ Value:|10
 |image| ![ITMI_FLASK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_FLASK.png?raw=true) | 
 |-|-|
 Insert code|**ITMI_FLASK**
-Name|Menzies
+Name|Lab water bottle
 A bottle into which the concoction can be poured.|0
 Value:|5
 
@@ -4309,7 +4303,7 @@ Value:|50
 |-|-|
 Insert code|**ITMI_RUNEBLANK**
 Name|Blank Rune
-The stone into which mages spell.|0
+A stone which mages enchant with spells.|0
 Value:|50
 
 |image| ![ITMI_STOMPER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMI_STOMPER.png?raw=true) | 
@@ -4546,7 +4540,7 @@ Value:|10
 |image| ![ITAT_SHEEPFUR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAT_SHEEPFUR.png?raw=true) | 
 |-|-|
 Insert code|**ITAT_SHEEPFUR**
-Name|Sheepskin
+Name|Sheep skin
 Trophy used|0
 for making equipment.|0
 Value:|10

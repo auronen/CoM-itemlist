@@ -1,5 +1,5 @@
 # The Chronicles Of Myrtana: Archolos
-This is a item list from the The Chronicles Of Myrtana: Archolos v1.1.3 (version 1.2 will be here, once it is released only as a patch)
+This is a item list from the The Chronicles Of Myrtana: Archolos v1.2.2
 
 ## Raw list
 [Raw list](https://github.com/auronen/CoM-itemlist/blob/master/instanceNameList.txt) of instance names (cheat codes).
@@ -19,7 +19,7 @@ insert <cheatcode>
 
 [Food](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_FOOD.md)
 
-[Artifacts](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_MAGIC.md)
+[Artefacts](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_MAGIC.md)
 
 [Ammo](https://github.com/auronen/CoM-itemlist/blob/master/ITM_CAT_MUN.md)
 

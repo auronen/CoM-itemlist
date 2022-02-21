@@ -1187,7 +1187,7 @@ Value:|500
 |image| ![ITMW_1H_MACE_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MACE_01.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MACE_01**
-Name|Smasher
+Name|Breaker
 A self-made weapon.|0
 Blunt damage:|105
 Strength required:|80
@@ -2006,7 +2006,7 @@ Value:|750
 |image| ![ITMW_1H_MIL_SWORD_02_ARWID](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_MIL_SWORD_02_ARWID.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_1H_MIL_SWORD_02_ARWID**
-Name|Arvid's Sword
+Name|Arwid's Sword
 Edge damage:|50
 Strength required:|50
 One-handed weapons|0
@@ -2452,7 +2452,7 @@ Name|Heavy Magic Combat Blade
 Edge damage:|160
 Strength required:|140
 Two-handed talent - Bonus|10
-One-handed weapons|0
+Two-handed weapons|0
 Value:|1800
 
 |image| ![ITMW_1H_SPECIAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_1H_SPECIAL_03.png?raw=true) | 
@@ -2974,7 +2974,7 @@ Value:|650
 |image| ![ITMW_PIRATENSAEBEL_GENERATE](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PIRATENSAEBEL_GENERATE.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PIRATENSAEBEL_GENERATE**
-Name|Piratensaebel
+Name|Pirate's Cutlass
 Edge damage:|75
 Dexterity required:|60
 One-handed weapons|0
@@ -2983,7 +2983,7 @@ Value:|41
 |image| ![ITMW_PIRATENSAEBEL](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMW_PIRATENSAEBEL.png?raw=true) | 
 |-|-|
 Insert code|**ITMW_PIRATENSAEBEL**
-Name|Piratensaebel
+Name|Pirate's Cutlass
 Edge damage:|75
 Dexterity required:|60
 One-handed weapons|0
@@ -3671,8 +3671,9 @@ Value:|1100
 |-|-|
 Insert code|**ITMW_ADDON_STAB08**
 Name|Typhoon
+Increases spell damage:|10
 Magic Damage:|140
-Mana required:|150
+Mana required:|190
 Armor piercing:|100
 Two-handed weapons|0
 Value:|2500
@@ -3681,8 +3682,9 @@ Value:|2500
 |-|-|
 Insert code|**ITMW_ADDON_STAB07**
 Name|Water Mage's Staff
+Increases spell damage:|10
 Magic Damage:|85
-Mana required:|100
+Mana required:|120
 Armor piercing:|65
 Two-handed weapons|0
 Value:|1500
@@ -3691,8 +3693,9 @@ Value:|1500
 |-|-|
 Insert code|**ITMW_ADDON_STAB06**
 Name|Alchemist's staff
+Increases spell damage:|5
 Magic Damage:|35
-Mana required:|40
+Mana required:|55
 Armor piercing:|25
 Two-handed weapons|0
 Value:|500
@@ -3701,8 +3704,9 @@ Value:|500
 |-|-|
 Insert code|**ITMW_ADDON_STAB05**
 Name|Vardhal Light
+Increases spell damage:|15
 Magic Damage:|160
-Mana required:|180
+Mana required:|230
 Armor piercing:|120
 Two-handed weapons|0
 Value:|3500
@@ -3711,9 +3715,10 @@ Value:|3500
 |-|-|
 Insert code|**ITMW_ADDON_STAB04**
 Name|Novice's Staff
+Increases spell damage:|5
 Magic Damage:|20
 Mana required:|25
-Armor piercing:|15
+Armor piercing:|5
 Two-handed weapons|0
 Value:|150
 
@@ -3721,8 +3726,9 @@ Value:|150
 |-|-|
 Insert code|**ITMW_ADDON_STAB03**
 Name|Fire Mage's Staff
+Increases spell damage:|10
 Magic Damage:|100
-Mana required:|120
+Mana required:|165
 Armor piercing:|80
 Two-handed weapons|0
 Value:|2000
@@ -3731,8 +3737,9 @@ Value:|2000
 |-|-|
 Insert code|**ITMW_ADDON_STAB02**
 Name|Judgement of Stars
+Increases spell damage:|5
 Magic Damage:|50
-Mana required:|60
+Mana required:|80
 Armor piercing:|35
 Two-handed weapons|0
 Value:|750
@@ -3741,8 +3748,9 @@ Value:|750
 |-|-|
 Insert code|**ITMW_ADDON_STAB01**
 Name|Staff of Storms
+Increases spell damage:|10
 Magic Damage:|70
-Mana required:|80
+Mana required:|95
 Armor piercing:|50
 Two-handed weapons|0
 Value:|1000

@@ -84,6 +84,7 @@ Value:|1000
 |-|-|
 Insert code|**ITRI_WATERCRICLESET_01**
 Name|Ring of the Ring of Water
+Increases spell damage:|5
 Maximum mana bonus:|10
 Protection:|2
 For each additional ring and amulet of the Ring of Water +|0
@@ -623,6 +624,7 @@ Value:|2000
 |-|-|
 Insert code|**ITAM_WATERCRICLESET_01**
 Name|Amulet of the Ring of Water
+Increases spell damage:|10
 Maximum mana bonus:|15
 Protection:|5
 For each additional ring and amulet of the Ring of Water +|0
@@ -722,6 +724,7 @@ Insert code|**ITAM_OLDWOMAN_01**
 Name|Amulet of the old adventurer
 Strength bonus:|5
 Edge protection:|5
+Blunt protection:|5
 Value:|600
 
 |image| ![ITAM_FANEAMULETT](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAM_FANEAMULETT.png?raw=true) | 

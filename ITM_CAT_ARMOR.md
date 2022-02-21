@@ -1005,7 +1005,7 @@ Edge protection:|119
 Arrow protection:|124
 Fire protection:|29
 Magic protection:|39
-Value:|12000
+Value:|9000
 
 |image| ![ITAR_KNIGHTARMOR_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIGHTARMOR_TIER2.png?raw=true) | 
 |-|-|
@@ -1016,7 +1016,7 @@ Edge protection:|112
 Arrow protection:|117
 Fire protection:|22
 Magic protection:|32
-Value:|12000
+Value:|9000
 
 |image| ![ITAR_KNIGHTARMOR](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_KNIGHTARMOR.png?raw=true) | 
 |-|-|
@@ -1027,7 +1027,7 @@ Edge protection:|105
 Arrow protection:|110
 Fire protection:|15
 Magic protection:|25
-Value:|12000
+Value:|9000
 
 |image| ![ITAR_VOLKER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITAR_VOLKER.png?raw=true) | 
 |-|-|
@@ -2323,9 +2323,9 @@ Name|Wêdka
 |-|-|
 Insert code|**ITAR_PRISONER**
 Name|Miner's outfit
-Blunt protection:|20
-Edge protection:|20
-Arrow protection:|20
+Blunt protection:|5
+Edge protection:|5
+Arrow protection:|5
 Fire protection:|0
 Magic protection:|0
 Value:|10

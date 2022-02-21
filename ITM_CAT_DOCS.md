@@ -302,7 +302,7 @@ Value:|750
 |image| ![ITWR_TALENTBOOK_BOW_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_BOW_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_BOW_TIER3**
-Name|Martial Arts: The Archer of Khelen Volume III
+Name|The Art of War: The Archer of Khelen Volume III
 The final volume for explore|0
 the precision of archers from the archipelago.|0
 Bow combat bonus:|2
@@ -312,7 +312,7 @@ Value:|2000
 |image| ![ITWR_TALENTBOOK_BOW_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_BOW_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_BOW_TIER2**
-Name|Martial Arts: The Archer of Khelen Volume II
+Name|The Art of War: The Archer of Khelen Volume II
 The second of three volumes to explore|0
 the precision of archers from the archipelago.|0
 Bow combat bonus:|1
@@ -322,7 +322,7 @@ Value:|1250
 |image| ![ITWR_TALENTBOOK_BOW_TIER1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_BOW_TIER1.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_BOW_TIER1**
-Name|Art of War: The Archer of Khelen Volume I
+Name|The Art of War: The Archer of Khelen Volume I
 The first of three volumes to explore the|0
 the precision of archers from the archipelago.|0
 Bow combat bonus:|1
@@ -332,7 +332,7 @@ Value:|750
 |image| ![ITWR_TALENTBOOK_CROSSBOW_TIER3](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_CROSSBOW_TIER3.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_CROSSBOW_TIER3**
-Name|The Art of Combat: The Crossbowman of Archolos: Volume III
+Name|The Art of War: The Crossbowman of Archolos: Volume III
 The final volume for explore|0
 the accuracy of the Archolos crossbowmen.|0
 Crossbow combat bonus:|2
@@ -343,7 +343,7 @@ Value:|2000
 |image| ![ITWR_TALENTBOOK_CROSSBOW_TIER2](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_CROSSBOW_TIER2.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_CROSSBOW_TIER2**
-Name|The Art of Combat: The Crossbowman of Archolos: Volume II
+Name|The Art of War: The Crossbowman of Archolos: Volume II
 The second of three volumes to explore|0
 the accuracy of the Archolos crossbowmen.|0
 Crossbow combat bonus:|1
@@ -354,7 +354,7 @@ Value:|1250
 |image| ![ITWR_TALENTBOOK_CROSSBOW_TIER1](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_TALENTBOOK_CROSSBOW_TIER1.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_TALENTBOOK_CROSSBOW_TIER1**
-Name|The Art of Combat: The Crossbowman of Archolos: Volume I
+Name|The Art of War: The Crossbowman of Archolos: Volume I
 The first of three volumes to explore the|0
 the accuracy of the Archolos crossbowmen.|0
 Crossbow combat bonus:|1
@@ -507,7 +507,7 @@ Value:|50
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_05_GOOD**
 Name|Magic Knowledge - The Fourth Circle Vol. V
-The fifth volume of five|0
+The fifth volume of five.|0
 It is in perfect, intact condition.|0
 Value:|1500
 
@@ -515,15 +515,15 @@ Value:|1500
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_05**
 Name|Magic Knowledge - The Fourth Circle Vol. V
-The fifth volume of five|0
-It's in a deplorable state|0
+The fifth volume of five.|0
+It's in a deplorable state.|0
 Value:|200
 
 |image| ![ITWR_MAGICBOOK_CIRCLE4_04_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE4_04_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_04_GOOD**
 Name|Magic Knowledge - The Fourth Circle Vol. IV
-The fourth volume of five|0
+The fourth volume of five.|0
 It is in perfect, intact condition.|0
 Value:|1500
 
@@ -531,15 +531,15 @@ Value:|1500
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_04**
 Name|Magic Knowledge - The Fourth Circle Vol. IV
-The fourth volume of five|0
-It's in a deplorable state|0
+The fourth volume of five.|0
+It's in a deplorable state.|0
 Value:|200
 
 |image| ![ITWR_MAGICBOOK_CIRCLE4_03_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE4_03_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_03_GOOD**
 Name|Magic Knowledge - The Fourth Circle Vol. III
-The third volume of five|0
+The third volume of five.|0
 It is in perfect, intact condition.|0
 Value:|1500
 
@@ -547,15 +547,15 @@ Value:|1500
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_03**
 Name|Magic Knowledge - The Fourth Circle Vol. III
-The third volume of five|0
-It's in a deplorable state|0
+The third volume of five.|0
+It's in a deplorable state.|0
 Value:|200
 
 |image| ![ITWR_MAGICBOOK_CIRCLE4_02_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE4_02_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_02_GOOD**
 Name|Magic Knowledge - The Fourth Circle Vol. II
-The second volume of five|0
+The second volume of five.|0
 It is in perfect, intact condition.|0
 Value:|1500
 
@@ -563,15 +563,15 @@ Value:|1500
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_02**
 Name|Magic Knowledge - The Fourth Circle Vol. II
-The second volume of five|0
-It's in a deplorable state|0
+The second volume of five.|0
+It's in a deplorable state.|0
 Value:|200
 
 |image| ![ITWR_MAGICBOOK_CIRCLE4_01_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE4_01_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_01_GOOD**
 Name|Magic Knowledge - The Fourth Circle Vol. I
-The first volume of five|0
+The first volume of five.|0
 It is in perfect, intact condition.|0
 Value:|1500
 
@@ -579,15 +579,15 @@ Value:|1500
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE4_01**
 Name|Magic Knowledge - The Fourth Circle Vol. I
-The first volume of five|0
-It's in a deplorable state|0
+The first volume of five.|0
+It's in a deplorable state.|0
 Value:|200
 
 |image| ![ITWR_MAGICBOOK_CIRCLE3_04_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE3_04_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_04_GOOD**
 Name|Magic Knowledge - The Third Circle Vol. IV
-The fourth volume of four|0
+The fourth volume of four.|0
 It is in perfect, intact condition.|0
 Value:|1000
 
@@ -595,15 +595,15 @@ Value:|1000
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_04**
 Name|Magic Knowledge - The Third Circle Vol. IV
-The fourth volume of four|0
-It's in a deplorable state|0
+The fourth volume of four.|0
+It's in a deplorable state.|0
 Value:|150
 
 |image| ![ITWR_MAGICBOOK_CIRCLE3_03_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE3_03_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_03_GOOD**
 Name|Magic Knowledge - The Third Circle Vol. III
-The third volume of four|0
+The third volume of four.|0
 It is in perfect, intact condition.|0
 Value:|1000
 
@@ -611,15 +611,15 @@ Value:|1000
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_03**
 Name|Magic Knowledge - The Third Circle Vol. III
-The third volume of four|0
-It's in a deplorable state|0
+The third volume of four.|0
+It's in a deplorable state.|0
 Value:|150
 
 |image| ![ITWR_MAGICBOOK_CIRCLE3_02_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE3_02_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_02_GOOD**
 Name|Magic Knowledge - The Third Circle Vol. II
-The second volume of four|0
+The second volume of four.|0
 It is in perfect, intact condition.|0
 Value:|1000
 
@@ -627,15 +627,15 @@ Value:|1000
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_02**
 Name|Magic Knowledge - The Third Circle Vol. II
-The second volume of four|0
-It's in a deplorable state|0
+The second volume of four.|0
+It's in a deplorable state.|0
 Value:|150
 
 |image| ![ITWR_MAGICBOOK_CIRCLE3_01_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE3_01_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_01_GOOD**
 Name|Magic Knowledge - The Third Circle Vol. I
-The first volume of four|0
+The first volume of four.|0
 It is in perfect, intact condition.|0
 Value:|1000
 
@@ -643,15 +643,15 @@ Value:|1000
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE3_01**
 Name|Magic Knowledge - The Third Circle Vol. I
-The first volume of four|0
-It's in a deplorable state|0
+The first volume of four.|0
+It's in a deplorable state.|0
 Value:|150
 
 |image| ![ITWR_MAGICBOOK_CIRCLE2_03_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE2_03_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_03_GOOD**
 Name|Magic Knowledge - The Second Circle Vol. III
-The third volume of three|0
+The third volume of three.|0
 It is in perfect, intact condition.|0
 Value:|750
 
@@ -659,15 +659,15 @@ Value:|750
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_03**
 Name|Magic Knowledge - The Second Circle Vol. III
-The third volume of three|0
-It's in a deplorable state|0
+The third volume of three.|0
+It's in a deplorable state.|0
 Value:|125
 
 |image| ![ITWR_MAGICBOOK_CIRCLE2_02_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE2_02_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_02_GOOD**
 Name|Magic Knowledge - The Second Circle Vol. II
-The second volume of three|0
+The second volume of three.|0
 It is in perfect, intact condition.|0
 Value:|750
 
@@ -675,15 +675,15 @@ Value:|750
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_02**
 Name|Magic Knowledge - The Second Circle Vol. II
-The second volume of three|0
-It's in a deplorable state|0
+The second volume of three.|0
+It's in a deplorable state.|0
 Value:|125
 
 |image| ![ITWR_MAGICBOOK_CIRCLE2_01_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE2_01_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_01_GOOD**
 Name|Magic Knowledge - The Second Circle Vol. I
-The first volume of three|0
+The first volume of three.|0
 It is in perfect, intact condition.|0
 Value:|750
 
@@ -691,15 +691,15 @@ Value:|750
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE2_01**
 Name|Magic Knowledge - The Second Circle Vol. I
-The first volume of three|0
-It's in a deplorable state|0
+The first volume of three.|0
+It's in a deplorable state.|0
 Value:|125
 
 |image| ![ITWR_MAGICBOOK_CIRCLE1_02_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE1_02_GOOD.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE1_02_GOOD**
 Name|Magic Knowledge - The First Circle Vol. II
-The second volume of two|0
+The second volume of two.|0
 It is in perfect, intact condition.|0
 Value:|400
 
@@ -707,8 +707,8 @@ Value:|400
 |-|-|
 Insert code|**ITWR_MAGICBOOK_CIRCLE1_02**
 Name|Magic Knowledge - The First Circle Vol. II
-The second volume of two|0
-It's in a deplorable state|0
+The second volume of two.|0
+It's in a deplorable state.|0
 Value:|100
 
 |image| ![ITWR_MAGICBOOK_CIRCLE1_01_GOOD](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_MAGICBOOK_CIRCLE1_01_GOOD.png?raw=true) | 
@@ -724,7 +724,7 @@ Value:|400
 Insert code|**ITWR_MAGICBOOK_CIRCLE1_01**
 Name|Magic Knowledge - The First Circle Vol. I
 First volume of two.|0
-It's in a sorry state.|0
+It's in a deplorable state.|0
 Value:|100
 
 |image| ![ITWR_SCROLLBOOK_01](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_SCROLLBOOK_01.png?raw=true) | 
@@ -2442,7 +2442,7 @@ Note from Kurt that I found at Helga's inn.|0
 |image| ![ITWR_GRIFLIST](https://github.com/auronen/CoM-itemlist/blob/master/img/ITWR_GRIFLIST.png?raw=true) | 
 |-|-|
 Insert code|**ITWR_GRIFLIST**
-Name|Material for armour from Griff
+Name|Material for armour from Grif
 List of materials needed|0
 to renew|0
 Grif's old armor.|0
@@ -2954,7 +2954,7 @@ Value:|150
 |image| ![ITRE_2H_SPEAR_02](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRE_2H_SPEAR_02.png?raw=true) | 
 |-|-|
 Insert code|**ITRE_2H_SPEAR_02**
-Name|Scheme: Military Spear
+Name|Diagram: Military Spear
 Blacksmithing Required: Skilled|0
 Value:|25
 
@@ -3108,7 +3108,7 @@ Value:|150
 |image| ![ITRE_1H_SPECIAL_03](https://github.com/auronen/CoM-itemlist/blob/master/img/ITRE_1H_SPECIAL_03.png?raw=true) | 
 |-|-|
 Insert code|**ITRE_1H_SPECIAL_03**
-Name|Diagram: Ore Covered Bastard Sword
+Name|Diagram: Magic Combat Blade
 Blacksmithing Required: Master|0
 Value:|150
 
@@ -3381,7 +3381,7 @@ One of his men tried to burn it.|0
 |image| ![ITMIS_Q601_INGOLFBOOK](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_Q601_INGOLFBOOK.png?raw=true) | 
 |-|-|
 Insert code|**ITMIS_Q601_INGOLFBOOK**
-Name|Power of Balance
+Name|The Might of Balance
 The book that Ingolf|0
 told me to find.|0
 
@@ -4146,7 +4146,7 @@ by Alena's body.|0
 Insert code|**ITMIS_QA203_GLENWYR**
 Name|Document about Glenwyr
 Document telling the story of Glenwyr.|0
-I got it from Tirke.|0
+I got it from Ronja.|0
 
 |image| ![ITMIS_QA203_DARTHEOFFER](https://github.com/auronen/CoM-itemlist/blob/master/img/ITMIS_QA203_DARTHEOFFER.png?raw=true) | 
 |-|-|
@@ -4764,7 +4764,7 @@ Value:|50
 |-|-|
 Insert code|**ITRE_POTIONDIVE**
 Name|Recipe: Underwater Breathing Potion
-Alchemy Required: Green|0
+Alchemy Required: Rookie|0
 Elixir recipe|0
 that allows to breathe underwater.|0
 Value:|25
@@ -4890,7 +4890,7 @@ Value:|50
 |-|-|
 Insert code|**ITRE_SPEED**
 Name|Recipe: Speed Potion
-Alchemy Required: Green|0
+Alchemy Required: Rookie|0
 Recipe for an elixir that temporarily|0
 increases your speed.|0
 Value:|25
@@ -4935,7 +4935,7 @@ Value:|300
 |-|-|
 Insert code|**ITRE_POTIONMANA_BLUEPLANT**
 Name|Recipe: Blue elder decoction
-Alchemy Required: Green|0
+Alchemy Required: Rookie|0
 Recipe for a simple mana regenerating potion.|0
 Value:|25
 
